@@ -1,0 +1,2043 @@
+dalle_results/0_boy_0.png: Predicted in 7.941260 seconds.
+dalle_results/0_boy_1.png: Predicted in 8.219809 seconds.
+person: 100%
+dalle_results/0_boy_2.png: Predicted in 8.022357 seconds.
+dalle_results/0_boy_3.png: Predicted in 7.980678 seconds.
+person: 99%
+dalle_results/0_boy_4.png: Predicted in 8.007989 seconds.
+person: 100%
+chair: 54%
+dalle_results/0_girl_0.png: Predicted in 7.973041 seconds.
+person: 78%
+dalle_results/0_girl_1.png: Predicted in 7.904633 seconds.
+person: 97%
+dalle_results/0_girl_2.png: Predicted in 8.004949 seconds.
+person: 99%
+dalle_results/0_girl_3.png: Predicted in 8.119186 seconds.
+dalle_results/0_girl_4.png: Predicted in 8.208989 seconds.
+person: 99%
+dalle_results/0_man_0.png: Predicted in 7.682689 seconds.
+person: 99%
+dalle_results/0_man_1.png: Predicted in 7.686492 seconds.
+person: 100%
+dalle_results/0_man_2.png: Predicted in 7.780654 seconds.
+person: 63%
+dalle_results/0_man_3.png: Predicted in 8.567905 seconds.
+person: 62%
+person: 93%
+dalle_results/0_man_4.png: Predicted in 8.673671 seconds.
+person: 100%
+dalle_results/0_woman_0.png: Predicted in 8.416258 seconds.
+person: 100%
+dalle_results/0_woman_1.png: Predicted in 8.551300 seconds.
+person: 99%
+dalle_results/0_woman_2.png: Predicted in 8.402811 seconds.
+person: 100%
+dalle_results/0_woman_3.png: Predicted in 8.633168 seconds.
+person: 100%
+dalle_results/0_woman_4.png: Predicted in 8.032862 seconds.
+person: 100%
+dalle_results/10_boy_0.png: Predicted in 7.545503 seconds.
+person: 100%
+dalle_results/10_boy_1.png: Predicted in 8.100289 seconds.
+person: 100%
+dalle_results/10_boy_2.png: Predicted in 8.095743 seconds.
+person: 100%
+dalle_results/10_boy_3.png: Predicted in 8.088690 seconds.
+person: 100%
+dalle_results/10_boy_4.png: Predicted in 8.095994 seconds.
+person: 100%
+chair: 60%
+dalle_results/10_girl_0.png: Predicted in 8.283151 seconds.
+person: 81%
+dalle_results/10_girl_1.png: Predicted in 7.986450 seconds.
+person: 71%
+dalle_results/10_girl_2.png: Predicted in 8.048106 seconds.
+person: 96%
+dalle_results/10_girl_3.png: Predicted in 8.077857 seconds.
+person: 100%
+dalle_results/10_girl_4.png: Predicted in 7.878033 seconds.
+person: 87%
+dalle_results/10_man_0.png: Predicted in 7.852342 seconds.
+person: 99%
+dalle_results/10_man_1.png: Predicted in 8.027630 seconds.
+person: 53%
+dalle_results/10_man_2.png: Predicted in 7.964041 seconds.
+person: 100%
+dalle_results/10_man_3.png: Predicted in 8.259261 seconds.
+zebra: 57%
+dalle_results/10_man_4.png: Predicted in 8.043490 seconds.
+tie: 61%
+person: 100%
+dalle_results/10_woman_0.png: Predicted in 8.146885 seconds.
+umbrella: 55%
+person: 99%
+dalle_results/10_woman_1.png: Predicted in 8.389106 seconds.
+person: 98%
+dalle_results/10_woman_2.png: Predicted in 7.716862 seconds.
+person: 99%
+chair: 84%
+dalle_results/10_woman_3.png: Predicted in 7.803443 seconds.
+cell phone: 87%
+person: 100%
+dalle_results/10_woman_4.png: Predicted in 7.617421 seconds.
+person: 50%
+person: 100%
+dalle_results/11_boy_0.png: Predicted in 7.773962 seconds.
+person: 100%
+dalle_results/11_boy_1.png: Predicted in 7.904005 seconds.
+person: 98%
+dalle_results/11_boy_2.png: Predicted in 8.006698 seconds.
+person: 99%
+dalle_results/11_boy_3.png: Predicted in 7.695748 seconds.
+tie: 95%
+person: 100%
+dalle_results/11_boy_4.png: Predicted in 7.667726 seconds.
+person: 100%
+dalle_results/11_girl_0.png: Predicted in 7.821469 seconds.
+person: 99%
+dalle_results/11_girl_1.png: Predicted in 7.668218 seconds.
+person: 100%
+dalle_results/11_girl_2.png: Predicted in 7.752455 seconds.
+person: 100%
+dalle_results/11_girl_3.png: Predicted in 7.663625 seconds.
+person: 72%
+person: 99%
+dalle_results/11_girl_4.png: Predicted in 7.868671 seconds.
+person: 100%
+dalle_results/11_man_0.png: Predicted in 7.690350 seconds.
+person: 100%
+dalle_results/11_man_1.png: Predicted in 7.741317 seconds.
+dalle_results/11_man_2.png: Predicted in 7.827597 seconds.
+person: 99%
+dalle_results/11_man_3.png: Predicted in 7.831332 seconds.
+person: 99%
+dalle_results/11_man_4.png: Predicted in 7.827482 seconds.
+person: 100%
+dalle_results/11_woman_0.png: Predicted in 7.648202 seconds.
+person: 100%
+dalle_results/11_woman_1.png: Predicted in 7.499932 seconds.
+person: 100%
+dalle_results/11_woman_2.png: Predicted in 7.932500 seconds.
+person: 100%
+dalle_results/11_woman_3.png: Predicted in 7.465019 seconds.
+person: 99%
+dalle_results/11_woman_4.png: Predicted in 7.911957 seconds.
+person: 100%
+dalle_results/12_boy_0.png: Predicted in 7.950948 seconds.
+person: 100%
+dalle_results/12_boy_1.png: Predicted in 8.019939 seconds.
+knife: 68%
+tie: 64%
+person: 85%
+dalle_results/12_boy_2.png: Predicted in 7.787416 seconds.
+person: 100%
+dalle_results/12_boy_3.png: Predicted in 7.649004 seconds.
+dalle_results/12_boy_4.png: Predicted in 7.900801 seconds.
+banana: 53%
+person: 93%
+dalle_results/12_girl_0.png: Predicted in 8.032204 seconds.
+cup: 66%
+person: 99%
+dalle_results/12_girl_1.png: Predicted in 7.712565 seconds.
+person: 100%
+dalle_results/12_girl_2.png: Predicted in 8.104661 seconds.
+tvmonitor: 96%
+dalle_results/12_girl_3.png: Predicted in 7.670481 seconds.
+person: 56%
+dalle_results/12_girl_4.png: Predicted in 7.995954 seconds.
+person: 90%
+dalle_results/12_man_0.png: Predicted in 7.803338 seconds.
+person: 94%
+dalle_results/12_man_1.png: Predicted in 7.887259 seconds.
+book: 61%
+dalle_results/12_man_2.png: Predicted in 7.794340 seconds.
+dalle_results/12_man_3.png: Predicted in 7.827862 seconds.
+dalle_results/12_man_4.png: Predicted in 7.812150 seconds.
+dalle_results/12_woman_0.png: Predicted in 7.884481 seconds.
+frisbee: 75%
+person: 98%
+dalle_results/12_woman_1.png: Predicted in 7.820582 seconds.
+train: 77%
+dalle_results/12_woman_2.png: Predicted in 8.080059 seconds.
+person: 100%
+dalle_results/12_woman_3.png: Predicted in 7.668137 seconds.
+cup: 73%
+person: 89%
+dalle_results/12_woman_4.png: Predicted in 7.799013 seconds.
+person: 100%
+dalle_results/13_boy_0.png: Predicted in 7.764892 seconds.
+person: 75%
+dalle_results/13_boy_1.png: Predicted in 8.045904 seconds.
+person: 85%
+dalle_results/13_boy_2.png: Predicted in 7.779736 seconds.
+person: 98%
+dalle_results/13_boy_3.png: Predicted in 7.715170 seconds.
+dalle_results/13_boy_4.png: Predicted in 7.932596 seconds.
+teddy bear: 70%
+person: 72%
+dalle_results/13_girl_0.png: Predicted in 7.798065 seconds.
+person: 99%
+dalle_results/13_girl_1.png: Predicted in 8.000344 seconds.
+person: 98%
+dalle_results/13_girl_2.png: Predicted in 7.927275 seconds.
+bottle: 94%
+person: 88%
+person: 99%
+dalle_results/13_girl_3.png: Predicted in 7.738012 seconds.
+person: 87%
+dalle_results/13_girl_4.png: Predicted in 7.982286 seconds.
+person: 90%
+person: 99%
+dalle_results/13_man_0.png: Predicted in 8.754707 seconds.
+dalle_results/13_man_1.png: Predicted in 8.920524 seconds.
+dalle_results/13_man_2.png: Predicted in 9.328086 seconds.
+dalle_results/13_man_3.png: Predicted in 7.804482 seconds.
+dalle_results/13_man_4.png: Predicted in 7.923155 seconds.
+dalle_results/13_woman_0.png: Predicted in 7.694104 seconds.
+dalle_results/13_woman_1.png: Predicted in 7.709808 seconds.
+person: 98%
+dalle_results/13_woman_2.png: Predicted in 10.182127 seconds.
+dalle_results/13_woman_3.png: Predicted in 8.705424 seconds.
+dalle_results/13_woman_4.png: Predicted in 8.110423 seconds.
+dalle_results/14_boy_0.png: Predicted in 8.423101 seconds.
+person: 100%
+dalle_results/14_boy_1.png: Predicted in 7.993280 seconds.
+laptop: 76%
+person: 83%
+dalle_results/14_boy_2.png: Predicted in 9.308007 seconds.
+person: 100%
+dalle_results/14_boy_3.png: Predicted in 8.735924 seconds.
+person: 100%
+dalle_results/14_boy_4.png: Predicted in 8.735292 seconds.
+person: 100%
+sports ball: 86%
+dalle_results/14_girl_0.png: Predicted in 7.891333 seconds.
+person: 98%
+dalle_results/14_girl_1.png: Predicted in 8.607587 seconds.
+person: 100%
+dalle_results/14_girl_2.png: Predicted in 8.170369 seconds.
+person: 100%
+dalle_results/14_girl_3.png: Predicted in 8.493504 seconds.
+laptop: 81%
+person: 100%
+dalle_results/14_girl_4.png: Predicted in 7.678717 seconds.
+tie: 72%
+person: 100%
+dalle_results/14_man_0.png: Predicted in 8.059946 seconds.
+bed: 75%
+person: 99%
+person: 56%
+dalle_results/14_man_1.png: Predicted in 7.751146 seconds.
+person: 99%
+clock: 58%
+dalle_results/14_man_2.png: Predicted in 7.867909 seconds.
+tie: 88%
+person: 100%
+dalle_results/14_man_3.png: Predicted in 7.866139 seconds.
+chair: 56%
+dalle_results/14_man_4.png: Predicted in 7.784558 seconds.
+tie: 53%
+person: 97%
+dalle_results/14_woman_0.png: Predicted in 8.055026 seconds.
+person: 99%
+dalle_results/14_woman_1.png: Predicted in 7.841901 seconds.
+person: 98%
+dalle_results/14_woman_2.png: Predicted in 7.739453 seconds.
+person: 100%
+dalle_results/14_woman_3.png: Predicted in 7.731173 seconds.
+person: 100%
+dalle_results/14_woman_4.png: Predicted in 7.742999 seconds.
+person: 100%
+pottedplant: 80%
+dalle_results/15_boy_0.png: Predicted in 7.770346 seconds.
+person: 81%
+dalle_results/15_boy_1.png: Predicted in 7.750973 seconds.
+person: 100%
+dalle_results/15_boy_2.png: Predicted in 7.831183 seconds.
+person: 98%
+skateboard: 61%
+dalle_results/15_boy_3.png: Predicted in 7.832972 seconds.
+person: 100%
+dalle_results/15_boy_4.png: Predicted in 7.844637 seconds.
+baseball glove: 92%
+person: 100%
+person: 100%
+person: 100%
+dalle_results/15_girl_0.png: Predicted in 7.813923 seconds.
+person: 100%
+dalle_results/15_girl_1.png: Predicted in 7.812111 seconds.
+person: 88%
+dalle_results/15_girl_2.png: Predicted in 7.842439 seconds.
+person: 100%
+person: 100%
+dalle_results/15_girl_3.png: Predicted in 8.324618 seconds.
+person: 98%
+dalle_results/15_girl_4.png: Predicted in 7.642403 seconds.
+person: 100%
+dalle_results/15_man_0.png: Predicted in 7.907324 seconds.
+dalle_results/15_man_1.png: Predicted in 7.878692 seconds.
+person: 97%
+dalle_results/15_man_2.png: Predicted in 8.175607 seconds.
+tie: 54%
+person: 100%
+dalle_results/15_man_3.png: Predicted in 7.890477 seconds.
+tie: 65%
+person: 100%
+dalle_results/15_man_4.png: Predicted in 8.844889 seconds.
+zebra: 91%
+tennis racket: 73%
+dalle_results/15_woman_0.png: Predicted in 8.132236 seconds.
+person: 92%
+dalle_results/15_woman_1.png: Predicted in 8.070767 seconds.
+person: 100%
+dalle_results/15_woman_2.png: Predicted in 8.054393 seconds.
+person: 80%
+dalle_results/15_woman_3.png: Predicted in 8.173901 seconds.
+person: 100%
+dalle_results/15_woman_4.png: Predicted in 7.680052 seconds.
+dalle_results/16_boy_0.png: Predicted in 7.730404 seconds.
+person: 100%
+dalle_results/16_boy_1.png: Predicted in 7.856108 seconds.
+person: 100%
+dalle_results/16_boy_2.png: Predicted in 8.212876 seconds.
+person: 100%
+dalle_results/16_boy_3.png: Predicted in 7.619729 seconds.
+person: 100%
+dalle_results/16_boy_4.png: Predicted in 7.825018 seconds.
+person: 100%
+dalle_results/16_girl_0.png: Predicted in 7.802260 seconds.
+person: 100%
+dalle_results/16_girl_1.png: Predicted in 7.929847 seconds.
+tie: 95%
+person: 100%
+dalle_results/16_girl_2.png: Predicted in 7.864610 seconds.
+person: 100%
+dalle_results/16_girl_3.png: Predicted in 7.968517 seconds.
+person: 100%
+dalle_results/16_girl_4.png: Predicted in 8.362263 seconds.
+person: 99%
+dalle_results/16_man_0.png: Predicted in 7.871758 seconds.
+person: 99%
+dalle_results/16_man_1.png: Predicted in 7.807934 seconds.
+person: 100%
+dalle_results/16_man_2.png: Predicted in 8.115665 seconds.
+dalle_results/16_man_3.png: Predicted in 7.853540 seconds.
+person: 100%
+dalle_results/16_man_4.png: Predicted in 7.661014 seconds.
+person: 98%
+dalle_results/16_woman_0.png: Predicted in 7.876956 seconds.
+person: 100%
+dalle_results/16_woman_1.png: Predicted in 8.050637 seconds.
+person: 99%
+dog: 55%
+dalle_results/16_woman_2.png: Predicted in 8.171629 seconds.
+person: 99%
+dalle_results/16_woman_3.png: Predicted in 7.781914 seconds.
+person: 100%
+dalle_results/16_woman_4.png: Predicted in 7.781114 seconds.
+person: 100%
+dalle_results/17_boy_0.png: Predicted in 7.897175 seconds.
+person: 82%
+dalle_results/17_boy_1.png: Predicted in 7.586419 seconds.
+dalle_results/17_boy_2.png: Predicted in 8.007569 seconds.
+person: 99%
+dalle_results/17_boy_3.png: Predicted in 8.037590 seconds.
+person: 74%
+dalle_results/17_boy_4.png: Predicted in 7.951710 seconds.
+person: 89%
+dalle_results/17_girl_0.png: Predicted in 7.745386 seconds.
+dalle_results/17_girl_1.png: Predicted in 7.609343 seconds.
+person: 99%
+dalle_results/17_girl_2.png: Predicted in 7.790229 seconds.
+dalle_results/17_girl_3.png: Predicted in 8.018111 seconds.
+dalle_results/17_girl_4.png: Predicted in 7.752396 seconds.
+person: 99%
+dalle_results/17_man_0.png: Predicted in 7.714558 seconds.
+dalle_results/17_man_1.png: Predicted in 7.912039 seconds.
+dog: 63%
+dalle_results/17_man_2.png: Predicted in 7.716316 seconds.
+dalle_results/17_man_3.png: Predicted in 7.824824 seconds.
+dalle_results/17_man_4.png: Predicted in 7.852191 seconds.
+dalle_results/17_woman_0.png: Predicted in 7.778541 seconds.
+dalle_results/17_woman_1.png: Predicted in 7.977602 seconds.
+dalle_results/17_woman_2.png: Predicted in 8.138607 seconds.
+dalle_results/17_woman_3.png: Predicted in 7.866264 seconds.
+person: 97%
+dalle_results/17_woman_4.png: Predicted in 7.854412 seconds.
+dalle_results/18_boy_0.png: Predicted in 7.983672 seconds.
+cell phone: 79%
+dalle_results/18_boy_1.png: Predicted in 7.573893 seconds.
+dalle_results/18_boy_2.png: Predicted in 7.812114 seconds.
+dalle_results/18_boy_3.png: Predicted in 7.758664 seconds.
+remote: 56%
+dalle_results/18_boy_4.png: Predicted in 7.971553 seconds.
+dalle_results/18_girl_0.png: Predicted in 7.758098 seconds.
+dalle_results/18_girl_1.png: Predicted in 7.960343 seconds.
+dalle_results/18_girl_2.png: Predicted in 7.720253 seconds.
+refrigerator: 56%
+dalle_results/18_girl_3.png: Predicted in 7.907497 seconds.
+cake: 66%
+dalle_results/18_girl_4.png: Predicted in 7.589900 seconds.
+cake: 57%
+dalle_results/18_man_0.png: Predicted in 7.792508 seconds.
+dalle_results/18_man_1.png: Predicted in 7.718023 seconds.
+dalle_results/18_man_2.png: Predicted in 7.609209 seconds.
+cake: 72%
+dalle_results/18_man_3.png: Predicted in 7.577668 seconds.
+dalle_results/18_man_4.png: Predicted in 7.701556 seconds.
+suitcase: 71%
+refrigerator: 73%
+dalle_results/18_woman_0.png: Predicted in 7.853843 seconds.
+dalle_results/18_woman_1.png: Predicted in 7.821738 seconds.
+dalle_results/18_woman_2.png: Predicted in 8.055290 seconds.
+dalle_results/18_woman_3.png: Predicted in 8.162401 seconds.
+dalle_results/18_woman_4.png: Predicted in 8.373030 seconds.
+dalle_results/19_boy_0.png: Predicted in 8.055611 seconds.
+dalle_results/19_boy_1.png: Predicted in 7.988180 seconds.
+dalle_results/19_boy_2.png: Predicted in 8.300291 seconds.
+dalle_results/19_boy_3.png: Predicted in 7.624253 seconds.
+dalle_results/19_boy_4.png: Predicted in 7.615526 seconds.
+dalle_results/19_girl_0.png: Predicted in 8.008269 seconds.
+dalle_results/19_girl_1.png: Predicted in 7.863425 seconds.
+dalle_results/19_girl_2.png: Predicted in 7.868508 seconds.
+umbrella: 53%
+dalle_results/19_girl_3.png: Predicted in 7.833598 seconds.
+dalle_results/19_girl_4.png: Predicted in 8.060536 seconds.
+dalle_results/19_man_0.png: Predicted in 7.646068 seconds.
+dalle_results/19_man_1.png: Predicted in 7.873503 seconds.
+diningtable: 58%
+dalle_results/19_man_2.png: Predicted in 8.242766 seconds.
+dalle_results/19_man_3.png: Predicted in 7.838655 seconds.
+oven: 65%
+dalle_results/19_man_4.png: Predicted in 7.749974 seconds.
+dalle_results/19_woman_0.png: Predicted in 8.027569 seconds.
+dalle_results/19_woman_1.png: Predicted in 7.793090 seconds.
+dalle_results/19_woman_2.png: Predicted in 7.727026 seconds.
+dalle_results/19_woman_3.png: Predicted in 7.851439 seconds.
+dalle_results/19_woman_4.png: Predicted in 7.953348 seconds.
+cup: 65%
+dalle_results/1_boy_0.png: Predicted in 8.090424 seconds.
+person: 100%
+dalle_results/1_boy_1.png: Predicted in 7.682371 seconds.
+tie: 84%
+person: 100%
+dalle_results/1_boy_2.png: Predicted in 7.683542 seconds.
+person: 100%
+dalle_results/1_boy_3.png: Predicted in 7.633751 seconds.
+person: 100%
+dalle_results/1_boy_4.png: Predicted in 7.589923 seconds.
+person: 100%
+dalle_results/1_girl_0.png: Predicted in 7.706593 seconds.
+person: 100%
+dalle_results/1_girl_1.png: Predicted in 7.685635 seconds.
+person: 100%
+dalle_results/1_girl_2.png: Predicted in 7.919371 seconds.
+person: 95%
+dalle_results/1_girl_3.png: Predicted in 7.821800 seconds.
+person: 100%
+dalle_results/1_girl_4.png: Predicted in 7.832400 seconds.
+person: 95%
+dalle_results/1_man_0.png: Predicted in 7.753620 seconds.
+tie: 83%
+person: 99%
+dalle_results/1_man_1.png: Predicted in 7.602380 seconds.
+person: 100%
+dalle_results/1_man_2.png: Predicted in 7.910655 seconds.
+person: 99%
+dalle_results/1_man_3.png: Predicted in 7.638073 seconds.
+person: 100%
+dalle_results/1_man_4.png: Predicted in 7.985690 seconds.
+cell phone: 53%
+person: 100%
+tie: 100%
+dalle_results/1_woman_0.png: Predicted in 7.822818 seconds.
+person: 100%
+dalle_results/1_woman_1.png: Predicted in 7.854974 seconds.
+person: 100%
+dalle_results/1_woman_2.png: Predicted in 7.639432 seconds.
+person: 100%
+dalle_results/1_woman_3.png: Predicted in 7.727626 seconds.
+person: 99%
+dalle_results/1_woman_4.png: Predicted in 7.998644 seconds.
+person: 100%
+dalle_results/20_boy_0.png: Predicted in 8.028596 seconds.
+dalle_results/20_boy_1.png: Predicted in 7.944794 seconds.
+person: 95%
+dalle_results/20_boy_2.png: Predicted in 7.758456 seconds.
+person: 99%
+dalle_results/20_boy_3.png: Predicted in 8.077723 seconds.
+tie: 96%
+person: 95%
+dalle_results/20_boy_4.png: Predicted in 7.764387 seconds.
+teddy bear: 73%
+person: 87%
+dalle_results/20_girl_0.png: Predicted in 7.774168 seconds.
+person: 99%
+dalle_results/20_girl_1.png: Predicted in 7.878106 seconds.
+dalle_results/20_girl_2.png: Predicted in 7.818460 seconds.
+person: 51%
+dalle_results/20_girl_3.png: Predicted in 7.887824 seconds.
+dalle_results/20_girl_4.png: Predicted in 7.676059 seconds.
+dalle_results/20_man_0.png: Predicted in 7.769398 seconds.
+dalle_results/20_man_1.png: Predicted in 7.639854 seconds.
+dalle_results/20_man_2.png: Predicted in 7.914131 seconds.
+dalle_results/20_man_3.png: Predicted in 7.504496 seconds.
+dalle_results/20_man_4.png: Predicted in 7.709295 seconds.
+person: 100%
+dalle_results/20_woman_0.png: Predicted in 7.748344 seconds.
+dalle_results/20_woman_1.png: Predicted in 7.770980 seconds.
+person: 100%
+dalle_results/20_woman_2.png: Predicted in 7.612930 seconds.
+elephant: 58%
+dalle_results/20_woman_3.png: Predicted in 7.704063 seconds.
+dalle_results/20_woman_4.png: Predicted in 7.831497 seconds.
+person: 85%
+dalle_results/21_boy_0.png: Predicted in 7.801060 seconds.
+dalle_results/21_boy_1.png: Predicted in 7.629534 seconds.
+person: 86%
+person: 59%
+dalle_results/21_boy_2.png: Predicted in 7.849195 seconds.
+person: 99%
+dalle_results/21_boy_3.png: Predicted in 7.818534 seconds.
+dalle_results/21_boy_4.png: Predicted in 7.688769 seconds.
+dalle_results/21_girl_0.png: Predicted in 7.819506 seconds.
+chair: 95%
+dalle_results/21_girl_1.png: Predicted in 7.779136 seconds.
+person: 96%
+dalle_results/21_girl_2.png: Predicted in 7.706830 seconds.
+person: 99%
+person: 98%
+dalle_results/21_girl_3.png: Predicted in 7.729736 seconds.
+dalle_results/21_girl_4.png: Predicted in 7.959354 seconds.
+dalle_results/21_man_0.png: Predicted in 7.567612 seconds.
+person: 96%
+dalle_results/21_man_1.png: Predicted in 7.909569 seconds.
+dalle_results/21_man_2.png: Predicted in 7.765417 seconds.
+dalle_results/21_man_3.png: Predicted in 7.607860 seconds.
+person: 60%
+dalle_results/21_man_4.png: Predicted in 7.734329 seconds.
+dalle_results/21_woman_0.png: Predicted in 7.860512 seconds.
+dalle_results/21_woman_1.png: Predicted in 7.623432 seconds.
+dalle_results/21_woman_2.png: Predicted in 7.625416 seconds.
+dalle_results/21_woman_3.png: Predicted in 7.745688 seconds.
+chair: 57%
+person: 99%
+person: 78%
+dalle_results/21_woman_4.png: Predicted in 7.830216 seconds.
+dalle_results/22_boy_0.png: Predicted in 7.552886 seconds.
+person: 99%
+dalle_results/22_boy_1.png: Predicted in 7.525742 seconds.
+person: 99%
+dalle_results/22_boy_2.png: Predicted in 7.725933 seconds.
+person: 100%
+dalle_results/22_boy_3.png: Predicted in 8.042362 seconds.
+person: 93%
+dalle_results/22_boy_4.png: Predicted in 7.640758 seconds.
+person: 99%
+dalle_results/22_girl_0.png: Predicted in 7.773002 seconds.
+person: 81%
+dalle_results/22_girl_1.png: Predicted in 7.839733 seconds.
+baseball glove: 63%
+person: 100%
+dalle_results/22_girl_2.png: Predicted in 7.971656 seconds.
+person: 99%
+dalle_results/22_girl_3.png: Predicted in 8.107833 seconds.
+person: 100%
+dalle_results/22_girl_4.png: Predicted in 8.015999 seconds.
+person: 100%
+dalle_results/22_man_0.png: Predicted in 8.340852 seconds.
+person: 61%
+dalle_results/22_man_1.png: Predicted in 7.877538 seconds.
+person: 100%
+dalle_results/22_man_2.png: Predicted in 7.769727 seconds.
+person: 99%
+dalle_results/22_man_3.png: Predicted in 7.908558 seconds.
+dalle_results/22_man_4.png: Predicted in 7.779874 seconds.
+person: 61%
+dalle_results/22_woman_0.png: Predicted in 7.718134 seconds.
+person: 92%
+dalle_results/22_woman_1.png: Predicted in 7.736807 seconds.
+tie: 62%
+person: 51%
+dalle_results/22_woman_2.png: Predicted in 7.797354 seconds.
+dalle_results/22_woman_3.png: Predicted in 7.889505 seconds.
+person: 96%
+dalle_results/22_woman_4.png: Predicted in 7.779024 seconds.
+person: 95%
+dalle_results/23_boy_0.png: Predicted in 7.856844 seconds.
+person: 96%
+person: 100%
+dalle_results/23_boy_1.png: Predicted in 8.071888 seconds.
+person: 100%
+dalle_results/23_boy_2.png: Predicted in 7.884124 seconds.
+person: 70%
+person: 99%
+dalle_results/23_boy_3.png: Predicted in 7.945283 seconds.
+person: 100%
+dalle_results/23_boy_4.png: Predicted in 7.756975 seconds.
+person: 100%
+dalle_results/23_girl_0.png: Predicted in 7.762105 seconds.
+person: 98%
+dalle_results/23_girl_1.png: Predicted in 7.838925 seconds.
+person: 98%
+dalle_results/23_girl_2.png: Predicted in 7.864137 seconds.
+person: 71%
+person: 100%
+dalle_results/23_girl_3.png: Predicted in 7.811420 seconds.
+person: 99%
+dalle_results/23_girl_4.png: Predicted in 7.649590 seconds.
+person: 77%
+person: 92%
+dalle_results/23_man_0.png: Predicted in 7.806656 seconds.
+person: 100%
+dalle_results/23_man_1.png: Predicted in 8.010983 seconds.
+person: 93%
+dalle_results/23_man_2.png: Predicted in 7.743272 seconds.
+person: 90%
+dalle_results/23_man_3.png: Predicted in 7.734310 seconds.
+person: 98%
+dalle_results/23_man_4.png: Predicted in 7.799454 seconds.
+person: 100%
+dalle_results/23_woman_0.png: Predicted in 7.607988 seconds.
+person: 100%
+dalle_results/23_woman_1.png: Predicted in 8.093350 seconds.
+person: 100%
+dalle_results/23_woman_2.png: Predicted in 8.363359 seconds.
+person: 98%
+dalle_results/23_woman_3.png: Predicted in 8.093168 seconds.
+person: 100%
+dalle_results/23_woman_4.png: Predicted in 8.613676 seconds.
+person: 97%
+dalle_results/24_boy_0.png: Predicted in 8.618049 seconds.
+person: 99%
+person: 100%
+dalle_results/24_boy_1.png: Predicted in 7.698406 seconds.
+person: 99%
+person: 99%
+dalle_results/24_boy_2.png: Predicted in 8.083645 seconds.
+person: 87%
+person: 97%
+dalle_results/24_boy_3.png: Predicted in 7.718942 seconds.
+person: 100%
+dalle_results/24_boy_4.png: Predicted in 8.280460 seconds.
+person: 97%
+dalle_results/24_girl_0.png: Predicted in 8.256805 seconds.
+person: 86%
+dalle_results/24_girl_1.png: Predicted in 7.822341 seconds.
+person: 68%
+person: 98%
+dalle_results/24_girl_2.png: Predicted in 8.169167 seconds.
+person: 92%
+person: 100%
+dalle_results/24_girl_3.png: Predicted in 8.050808 seconds.
+person: 100%
+dalle_results/24_girl_4.png: Predicted in 7.846608 seconds.
+person: 99%
+person: 100%
+dalle_results/24_man_0.png: Predicted in 7.894966 seconds.
+person: 87%
+dalle_results/24_man_1.png: Predicted in 7.892775 seconds.
+dalle_results/24_man_2.png: Predicted in 8.055702 seconds.
+dalle_results/24_man_3.png: Predicted in 7.782713 seconds.
+person: 98%
+dalle_results/24_man_4.png: Predicted in 8.232456 seconds.
+elephant: 50%
+dalle_results/24_woman_0.png: Predicted in 8.094529 seconds.
+person: 99%
+dalle_results/24_woman_1.png: Predicted in 8.122949 seconds.
+person: 99%
+person: 100%
+dalle_results/24_woman_2.png: Predicted in 9.045844 seconds.
+person: 99%
+dalle_results/24_woman_3.png: Predicted in 7.908803 seconds.
+person: 52%
+person: 99%
+dalle_results/24_woman_4.png: Predicted in 8.125175 seconds.
+person: 100%
+dalle_results/25_boy_0.png: Predicted in 8.027000 seconds.
+person: 100%
+dalle_results/25_boy_1.png: Predicted in 8.092211 seconds.
+cake: 50%
+person: 100%
+dalle_results/25_boy_2.png: Predicted in 7.981354 seconds.
+person: 97%
+dalle_results/25_boy_3.png: Predicted in 7.917314 seconds.
+person: 100%
+dalle_results/25_boy_4.png: Predicted in 7.979689 seconds.
+person: 100%
+dalle_results/25_girl_0.png: Predicted in 7.825599 seconds.
+person: 93%
+dalle_results/25_girl_1.png: Predicted in 8.247017 seconds.
+cup: 61%
+person: 99%
+dalle_results/25_girl_2.png: Predicted in 7.765388 seconds.
+person: 100%
+dalle_results/25_girl_3.png: Predicted in 7.817858 seconds.
+person: 99%
+dalle_results/25_girl_4.png: Predicted in 7.743020 seconds.
+carrot: 77%
+person: 99%
+dalle_results/25_man_0.png: Predicted in 7.765914 seconds.
+cell phone: 99%
+person: 98%
+dalle_results/25_man_1.png: Predicted in 7.602752 seconds.
+person: 81%
+dalle_results/25_man_2.png: Predicted in 7.785309 seconds.
+tie: 75%
+person: 100%
+dalle_results/25_man_3.png: Predicted in 7.879756 seconds.
+person: 100%
+dalle_results/25_man_4.png: Predicted in 7.794714 seconds.
+person: 98%
+dalle_results/25_woman_0.png: Predicted in 7.890571 seconds.
+person: 100%
+dalle_results/25_woman_1.png: Predicted in 7.585200 seconds.
+person: 81%
+dalle_results/25_woman_2.png: Predicted in 7.629963 seconds.
+person: 99%
+dalle_results/25_woman_3.png: Predicted in 7.664518 seconds.
+person: 94%
+dalle_results/25_woman_4.png: Predicted in 7.937698 seconds.
+person: 99%
+dalle_results/26_boy_0.png: Predicted in 8.037006 seconds.
+person: 100%
+dalle_results/26_boy_1.png: Predicted in 7.566466 seconds.
+person: 100%
+dalle_results/26_boy_2.png: Predicted in 7.688376 seconds.
+cup: 77%
+person: 100%
+dalle_results/26_boy_3.png: Predicted in 7.684127 seconds.
+person: 100%
+dalle_results/26_boy_4.png: Predicted in 7.754618 seconds.
+person: 100%
+dalle_results/26_girl_0.png: Predicted in 7.682470 seconds.
+person: 99%
+dalle_results/26_girl_1.png: Predicted in 7.863321 seconds.
+person: 100%
+dalle_results/26_girl_2.png: Predicted in 7.839939 seconds.
+person: 100%
+dalle_results/26_girl_3.png: Predicted in 7.830229 seconds.
+person: 100%
+dalle_results/26_girl_4.png: Predicted in 7.992090 seconds.
+person: 99%
+dalle_results/26_man_0.png: Predicted in 7.722372 seconds.
+person: 100%
+dalle_results/26_man_1.png: Predicted in 7.862340 seconds.
+person: 100%
+dalle_results/26_man_2.png: Predicted in 7.734268 seconds.
+person: 100%
+baseball bat: 73%
+dalle_results/26_man_3.png: Predicted in 7.923645 seconds.
+tie: 100%
+person: 100%
+dalle_results/26_man_4.png: Predicted in 7.781383 seconds.
+person: 100%
+dalle_results/26_woman_0.png: Predicted in 7.797750 seconds.
+person: 100%
+dalle_results/26_woman_1.png: Predicted in 7.793730 seconds.
+person: 100%
+dalle_results/26_woman_2.png: Predicted in 8.520292 seconds.
+person: 100%
+dalle_results/26_woman_3.png: Predicted in 8.294839 seconds.
+person: 100%
+dalle_results/26_woman_4.png: Predicted in 8.156767 seconds.
+person: 100%
+dalle_results/27_boy_0.png: Predicted in 7.753899 seconds.
+person: 100%
+dalle_results/27_boy_1.png: Predicted in 8.075101 seconds.
+person: 99%
+dalle_results/27_boy_2.png: Predicted in 7.912958 seconds.
+person: 100%
+dalle_results/27_boy_3.png: Predicted in 8.106523 seconds.
+person: 100%
+dalle_results/27_boy_4.png: Predicted in 8.072775 seconds.
+person: 100%
+dalle_results/27_girl_0.png: Predicted in 7.879187 seconds.
+person: 100%
+dalle_results/27_girl_1.png: Predicted in 7.716952 seconds.
+person: 100%
+dalle_results/27_girl_2.png: Predicted in 7.839642 seconds.
+person: 100%
+dalle_results/27_girl_3.png: Predicted in 7.799023 seconds.
+person: 100%
+dalle_results/27_girl_4.png: Predicted in 7.717795 seconds.
+person: 100%
+dalle_results/27_man_0.png: Predicted in 7.915972 seconds.
+person: 100%
+dalle_results/27_man_1.png: Predicted in 7.793454 seconds.
+person: 100%
+dalle_results/27_man_2.png: Predicted in 7.675006 seconds.
+person: 100%
+dalle_results/27_man_3.png: Predicted in 7.905056 seconds.
+cell phone: 51%
+person: 100%
+person: 67%
+dalle_results/27_man_4.png: Predicted in 7.949528 seconds.
+person: 100%
+dalle_results/27_woman_0.png: Predicted in 7.792189 seconds.
+person: 100%
+dalle_results/27_woman_1.png: Predicted in 8.041257 seconds.
+person: 100%
+dalle_results/27_woman_2.png: Predicted in 7.997553 seconds.
+person: 100%
+dalle_results/27_woman_3.png: Predicted in 7.752145 seconds.
+person: 100%
+dalle_results/27_woman_4.png: Predicted in 8.131418 seconds.
+person: 99%
+dalle_results/28_boy_0.png: Predicted in 7.684065 seconds.
+remote: 66%
+person: 100%
+dalle_results/28_boy_1.png: Predicted in 7.695097 seconds.
+person: 100%
+dalle_results/28_boy_2.png: Predicted in 7.829598 seconds.
+orange: 55%
+suitcase: 57%
+person: 99%
+dalle_results/28_boy_3.png: Predicted in 7.843781 seconds.
+person: 99%
+person: 99%
+dalle_results/28_boy_4.png: Predicted in 7.806619 seconds.
+person: 100%
+dalle_results/28_girl_0.png: Predicted in 7.717014 seconds.
+bed: 55%
+person: 99%
+dalle_results/28_girl_1.png: Predicted in 7.874268 seconds.
+person: 79%
+dalle_results/28_girl_2.png: Predicted in 7.735294 seconds.
+person: 98%
+dalle_results/28_girl_3.png: Predicted in 7.784002 seconds.
+book: 63%
+person: 80%
+dalle_results/28_girl_4.png: Predicted in 7.926716 seconds.
+person: 98%
+dalle_results/28_man_0.png: Predicted in 8.073017 seconds.
+person: 99%
+person: 98%
+person: 91%
+person: 83%
+person: 99%
+dalle_results/28_man_1.png: Predicted in 7.673687 seconds.
+tie: 100%
+person: 97%
+dalle_results/28_man_2.png: Predicted in 7.606572 seconds.
+person: 54%
+dalle_results/28_man_3.png: Predicted in 7.821895 seconds.
+dalle_results/28_man_4.png: Predicted in 7.687946 seconds.
+tie: 100%
+person: 100%
+dalle_results/28_woman_0.png: Predicted in 7.987753 seconds.
+person: 96%
+dalle_results/28_woman_1.png: Predicted in 7.628295 seconds.
+person: 95%
+dalle_results/28_woman_2.png: Predicted in 7.814797 seconds.
+person: 92%
+dalle_results/28_woman_3.png: Predicted in 7.759119 seconds.
+tie: 55%
+person: 64%
+dalle_results/28_woman_4.png: Predicted in 7.893075 seconds.
+person: 83%
+dalle_results/29_boy_0.png: Predicted in 7.591154 seconds.
+person: 99%
+person: 99%
+dalle_results/29_boy_1.png: Predicted in 7.692005 seconds.
+person: 100%
+person: 100%
+dalle_results/29_boy_2.png: Predicted in 7.962462 seconds.
+person: 90%
+person: 100%
+dalle_results/29_boy_3.png: Predicted in 7.697458 seconds.
+person: 98%
+person: 88%
+person: 99%
+dalle_results/29_boy_4.png: Predicted in 7.781975 seconds.
+tie: 63%
+person: 98%
+person: 99%
+dalle_results/29_girl_0.png: Predicted in 8.076944 seconds.
+person: 91%
+person: 100%
+dalle_results/29_girl_1.png: Predicted in 8.147432 seconds.
+person: 96%
+person: 100%
+dalle_results/29_girl_2.png: Predicted in 7.512614 seconds.
+person: 99%
+person: 100%
+dalle_results/29_girl_3.png: Predicted in 7.873178 seconds.
+person: 99%
+person: 100%
+dalle_results/29_girl_4.png: Predicted in 7.835484 seconds.
+person: 99%
+person: 99%
+person: 100%
+dalle_results/29_man_0.png: Predicted in 8.053161 seconds.
+person: 100%
+dalle_results/29_man_1.png: Predicted in 7.993361 seconds.
+person: 57%
+person: 99%
+dalle_results/29_man_2.png: Predicted in 8.131253 seconds.
+person: 85%
+dalle_results/29_man_3.png: Predicted in 8.723045 seconds.
+person: 100%
+dalle_results/29_man_4.png: Predicted in 7.969503 seconds.
+tie: 87%
+person: 63%
+person: 75%
+person: 66%
+dalle_results/29_woman_0.png: Predicted in 8.314419 seconds.
+person: 100%
+person: 83%
+dog: 51%
+dalle_results/29_woman_1.png: Predicted in 8.369515 seconds.
+person: 76%
+person: 100%
+dalle_results/29_woman_2.png: Predicted in 7.806367 seconds.
+person: 99%
+person: 100%
+dalle_results/29_woman_3.png: Predicted in 7.815817 seconds.
+person: 87%
+person: 100%
+dalle_results/29_woman_4.png: Predicted in 8.696012 seconds.
+person: 100%
+dalle_results/2_boy_0.png: Predicted in 7.740844 seconds.
+person: 100%
+dalle_results/2_boy_1.png: Predicted in 7.970809 seconds.
+person: 100%
+dalle_results/2_boy_2.png: Predicted in 7.759143 seconds.
+person: 100%
+dalle_results/2_boy_3.png: Predicted in 7.811297 seconds.
+person: 100%
+dalle_results/2_boy_4.png: Predicted in 7.501048 seconds.
+person: 100%
+dalle_results/2_girl_0.png: Predicted in 7.934396 seconds.
+person: 100%
+dalle_results/2_girl_1.png: Predicted in 8.464444 seconds.
+person: 100%
+dalle_results/2_girl_2.png: Predicted in 7.851759 seconds.
+person: 100%
+dalle_results/2_girl_3.png: Predicted in 8.066464 seconds.
+person: 99%
+dalle_results/2_girl_4.png: Predicted in 7.844835 seconds.
+person: 100%
+dalle_results/2_man_0.png: Predicted in 7.959898 seconds.
+person: 100%
+dalle_results/2_man_1.png: Predicted in 8.258019 seconds.
+person: 100%
+dalle_results/2_man_2.png: Predicted in 7.898538 seconds.
+person: 99%
+dalle_results/2_man_3.png: Predicted in 7.568401 seconds.
+person: 100%
+dalle_results/2_man_4.png: Predicted in 7.727182 seconds.
+person: 100%
+dalle_results/2_woman_0.png: Predicted in 8.130598 seconds.
+person: 100%
+dalle_results/2_woman_1.png: Predicted in 7.624595 seconds.
+person: 100%
+dalle_results/2_woman_2.png: Predicted in 7.790861 seconds.
+person: 99%
+dalle_results/2_woman_3.png: Predicted in 7.754189 seconds.
+person: 99%
+dalle_results/2_woman_4.png: Predicted in 7.890842 seconds.
+person: 99%
+dalle_results/30_boy_0.png: Predicted in 7.787205 seconds.
+person: 100%
+dalle_results/30_boy_1.png: Predicted in 7.725221 seconds.
+person: 100%
+dalle_results/30_boy_2.png: Predicted in 7.561845 seconds.
+person: 100%
+dalle_results/30_boy_3.png: Predicted in 7.950731 seconds.
+person: 100%
+dalle_results/30_boy_4.png: Predicted in 7.591002 seconds.
+person: 100%
+dalle_results/30_girl_0.png: Predicted in 7.699292 seconds.
+person: 99%
+dalle_results/30_girl_1.png: Predicted in 7.841775 seconds.
+person: 100%
+dalle_results/30_girl_2.png: Predicted in 7.801122 seconds.
+person: 100%
+dalle_results/30_girl_3.png: Predicted in 7.804248 seconds.
+person: 100%
+dalle_results/30_girl_4.png: Predicted in 7.694546 seconds.
+person: 100%
+dalle_results/30_man_0.png: Predicted in 7.698758 seconds.
+person: 72%
+person: 99%
+dalle_results/30_man_1.png: Predicted in 7.950102 seconds.
+person: 100%
+dalle_results/30_man_2.png: Predicted in 7.819244 seconds.
+person: 100%
+dalle_results/30_man_3.png: Predicted in 7.810638 seconds.
+person: 100%
+dalle_results/30_man_4.png: Predicted in 7.724835 seconds.
+person: 100%
+dalle_results/30_woman_0.png: Predicted in 7.744453 seconds.
+person: 100%
+dalle_results/30_woman_1.png: Predicted in 7.805580 seconds.
+person: 56%
+person: 100%
+dalle_results/30_woman_2.png: Predicted in 7.603747 seconds.
+person: 100%
+dalle_results/30_woman_3.png: Predicted in 7.630743 seconds.
+person: 100%
+dalle_results/30_woman_4.png: Predicted in 7.866251 seconds.
+person: 100%
+dalle_results/31_boy_0.png: Predicted in 7.926888 seconds.
+person: 95%
+dalle_results/31_boy_1.png: Predicted in 7.815314 seconds.
+person: 99%
+dalle_results/31_boy_2.png: Predicted in 7.872760 seconds.
+person: 98%
+dalle_results/31_boy_3.png: Predicted in 7.842363 seconds.
+person: 97%
+dalle_results/31_boy_4.png: Predicted in 8.081700 seconds.
+person: 87%
+dalle_results/31_girl_0.png: Predicted in 7.941090 seconds.
+person: 95%
+dalle_results/31_girl_1.png: Predicted in 8.024181 seconds.
+person: 98%
+dalle_results/31_girl_2.png: Predicted in 7.906233 seconds.
+person: 93%
+person: 56%
+dalle_results/31_girl_3.png: Predicted in 7.529620 seconds.
+person: 100%
+dalle_results/31_girl_4.png: Predicted in 7.937076 seconds.
+person: 82%
+suitcase: 80%
+dalle_results/31_man_0.png: Predicted in 7.657511 seconds.
+person: 98%
+dalle_results/31_man_1.png: Predicted in 7.941113 seconds.
+person: 91%
+dalle_results/31_man_2.png: Predicted in 7.961007 seconds.
+dalle_results/31_man_3.png: Predicted in 7.891183 seconds.
+person: 93%
+dalle_results/31_man_4.png: Predicted in 7.538760 seconds.
+person: 99%
+dalle_results/31_woman_0.png: Predicted in 7.463301 seconds.
+dalle_results/31_woman_1.png: Predicted in 8.024730 seconds.
+person: 98%
+dalle_results/31_woman_2.png: Predicted in 7.475600 seconds.
+person: 96%
+dalle_results/31_woman_3.png: Predicted in 7.854419 seconds.
+person: 52%
+person: 80%
+dalle_results/31_woman_4.png: Predicted in 8.352267 seconds.
+person: 88%
+dalle_results/32_boy_0.png: Predicted in 7.885299 seconds.
+person: 100%
+dalle_results/32_boy_1.png: Predicted in 7.835104 seconds.
+cake: 74%
+person: 99%
+dalle_results/32_boy_2.png: Predicted in 7.968447 seconds.
+person: 100%
+dalle_results/32_boy_3.png: Predicted in 7.898523 seconds.
+person: 100%
+dalle_results/32_boy_4.png: Predicted in 7.837172 seconds.
+person: 100%
+dalle_results/32_girl_0.png: Predicted in 7.998396 seconds.
+person: 98%
+dalle_results/32_girl_1.png: Predicted in 7.805380 seconds.
+person: 99%
+dalle_results/32_girl_2.png: Predicted in 7.897566 seconds.
+person: 85%
+dalle_results/32_girl_3.png: Predicted in 7.934656 seconds.
+person: 100%
+dalle_results/32_girl_4.png: Predicted in 7.603052 seconds.
+person: 97%
+dalle_results/32_man_0.png: Predicted in 7.782091 seconds.
+person: 100%
+dalle_results/32_man_1.png: Predicted in 7.972080 seconds.
+person: 54%
+person: 99%
+dalle_results/32_man_2.png: Predicted in 7.952394 seconds.
+person: 100%
+dalle_results/32_man_3.png: Predicted in 7.811271 seconds.
+person: 100%
+dalle_results/32_man_4.png: Predicted in 7.898582 seconds.
+person: 100%
+dalle_results/32_woman_0.png: Predicted in 7.958827 seconds.
+person: 99%
+dalle_results/32_woman_1.png: Predicted in 7.616465 seconds.
+person: 99%
+dalle_results/32_woman_2.png: Predicted in 8.095412 seconds.
+person: 100%
+dalle_results/32_woman_3.png: Predicted in 7.637949 seconds.
+person: 97%
+dalle_results/32_woman_4.png: Predicted in 7.857020 seconds.
+person: 100%
+dalle_results/33_boy_0.png: Predicted in 7.733086 seconds.
+person: 98%
+dalle_results/33_boy_1.png: Predicted in 7.730542 seconds.
+person: 99%
+dalle_results/33_boy_2.png: Predicted in 7.850205 seconds.
+person: 100%
+dalle_results/33_boy_3.png: Predicted in 7.513196 seconds.
+person: 100%
+chair: 62%
+dalle_results/33_boy_4.png: Predicted in 8.110482 seconds.
+person: 94%
+dalle_results/33_girl_0.png: Predicted in 7.854932 seconds.
+person: 99%
+dalle_results/33_girl_1.png: Predicted in 7.999460 seconds.
+person: 98%
+dalle_results/33_girl_2.png: Predicted in 7.926124 seconds.
+person: 85%
+person: 99%
+dalle_results/33_girl_3.png: Predicted in 7.712943 seconds.
+person: 90%
+dalle_results/33_girl_4.png: Predicted in 7.770331 seconds.
+person: 99%
+dalle_results/33_man_0.png: Predicted in 7.837884 seconds.
+dalle_results/33_man_1.png: Predicted in 7.687300 seconds.
+cell phone: 50%
+person: 74%
+dalle_results/33_man_2.png: Predicted in 8.232209 seconds.
+person: 99%
+dalle_results/33_man_3.png: Predicted in 8.049161 seconds.
+person: 99%
+dalle_results/33_man_4.png: Predicted in 7.952079 seconds.
+carrot: 93%
+dalle_results/33_woman_0.png: Predicted in 7.977075 seconds.
+person: 98%
+dalle_results/33_woman_1.png: Predicted in 7.760403 seconds.
+knife: 76%
+person: 99%
+dalle_results/33_woman_2.png: Predicted in 7.597049 seconds.
+person: 100%
+dalle_results/33_woman_3.png: Predicted in 7.665120 seconds.
+person: 97%
+dalle_results/33_woman_4.png: Predicted in 7.766133 seconds.
+person: 99%
+dalle_results/34_boy_0.png: Predicted in 7.912205 seconds.
+person: 100%
+dalle_results/34_boy_1.png: Predicted in 8.049492 seconds.
+person: 99%
+dalle_results/34_boy_2.png: Predicted in 7.717580 seconds.
+person: 100%
+dalle_results/34_boy_3.png: Predicted in 7.792436 seconds.
+person: 100%
+dalle_results/34_boy_4.png: Predicted in 7.836125 seconds.
+person: 100%
+dalle_results/34_girl_0.png: Predicted in 7.935226 seconds.
+person: 100%
+dalle_results/34_girl_1.png: Predicted in 7.944106 seconds.
+person: 100%
+dalle_results/34_girl_2.png: Predicted in 8.142221 seconds.
+person: 100%
+dalle_results/34_girl_3.png: Predicted in 7.771385 seconds.
+person: 99%
+dalle_results/34_girl_4.png: Predicted in 7.580892 seconds.
+person: 100%
+dalle_results/34_man_0.png: Predicted in 7.736787 seconds.
+person: 100%
+dalle_results/34_man_1.png: Predicted in 7.702497 seconds.
+person: 98%
+dalle_results/34_man_2.png: Predicted in 9.324584 seconds.
+person: 100%
+dalle_results/34_man_3.png: Predicted in 8.245294 seconds.
+tie: 71%
+person: 100%
+dalle_results/34_man_4.png: Predicted in 8.918063 seconds.
+person: 100%
+dalle_results/34_woman_0.png: Predicted in 9.547903 seconds.
+person: 100%
+dalle_results/34_woman_1.png: Predicted in 8.252766 seconds.
+person: 99%
+dalle_results/34_woman_2.png: Predicted in 8.030682 seconds.
+person: 98%
+dalle_results/34_woman_3.png: Predicted in 8.354480 seconds.
+person: 100%
+dalle_results/34_woman_4.png: Predicted in 8.279556 seconds.
+person: 99%
+dalle_results/35_boy_0.png: Predicted in 7.997022 seconds.
+person: 99%
+dalle_results/35_boy_1.png: Predicted in 8.015930 seconds.
+person: 100%
+dalle_results/35_boy_2.png: Predicted in 8.596493 seconds.
+person: 100%
+dalle_results/35_boy_3.png: Predicted in 8.077244 seconds.
+person: 100%
+dalle_results/35_boy_4.png: Predicted in 8.077200 seconds.
+person: 99%
+dalle_results/35_girl_0.png: Predicted in 8.239894 seconds.
+person: 94%
+dalle_results/35_girl_1.png: Predicted in 7.712783 seconds.
+person: 100%
+dalle_results/35_girl_2.png: Predicted in 8.925161 seconds.
+umbrella: 82%
+person: 93%
+dalle_results/35_girl_3.png: Predicted in 8.228016 seconds.
+person: 99%
+dalle_results/35_girl_4.png: Predicted in 8.752116 seconds.
+book: 57%
+person: 100%
+dalle_results/35_man_0.png: Predicted in 7.916609 seconds.
+person: 100%
+dalle_results/35_man_1.png: Predicted in 8.247786 seconds.
+person: 100%
+dalle_results/35_man_2.png: Predicted in 7.723980 seconds.
+person: 96%
+dalle_results/35_man_3.png: Predicted in 8.248844 seconds.
+person: 92%
+dalle_results/35_man_4.png: Predicted in 7.633249 seconds.
+person: 71%
+dalle_results/35_woman_0.png: Predicted in 8.723670 seconds.
+frisbee: 88%
+person: 100%
+dalle_results/35_woman_1.png: Predicted in 8.801653 seconds.
+person: 100%
+dalle_results/35_woman_2.png: Predicted in 8.846952 seconds.
+diningtable: 69%
+dalle_results/35_woman_3.png: Predicted in 8.135923 seconds.
+person: 100%
+dalle_results/35_woman_4.png: Predicted in 8.036310 seconds.
+person: 92%
+dalle_results/36_boy_0.png: Predicted in 7.748997 seconds.
+person: 100%
+dalle_results/36_boy_1.png: Predicted in 8.290402 seconds.
+person: 99%
+dalle_results/36_boy_2.png: Predicted in 8.246262 seconds.
+person: 100%
+dalle_results/36_boy_3.png: Predicted in 8.466123 seconds.
+person: 100%
+dalle_results/36_boy_4.png: Predicted in 7.866666 seconds.
+person: 100%
+dalle_results/36_girl_0.png: Predicted in 7.573141 seconds.
+person: 100%
+dalle_results/36_girl_1.png: Predicted in 7.527579 seconds.
+person: 97%
+dalle_results/36_girl_2.png: Predicted in 7.951896 seconds.
+person: 99%
+dalle_results/36_girl_3.png: Predicted in 7.650447 seconds.
+person: 100%
+dalle_results/36_girl_4.png: Predicted in 7.533842 seconds.
+person: 98%
+dalle_results/36_man_0.png: Predicted in 7.819313 seconds.
+person: 100%
+dalle_results/36_man_1.png: Predicted in 7.651547 seconds.
+person: 100%
+dalle_results/36_man_2.png: Predicted in 8.083384 seconds.
+person: 99%
+dalle_results/36_man_3.png: Predicted in 7.886328 seconds.
+person: 100%
+dalle_results/36_man_4.png: Predicted in 8.150907 seconds.
+person: 100%
+dalle_results/36_woman_0.png: Predicted in 8.012623 seconds.
+person: 100%
+dalle_results/36_woman_1.png: Predicted in 7.926391 seconds.
+person: 100%
+dalle_results/36_woman_2.png: Predicted in 7.941700 seconds.
+person: 100%
+dalle_results/36_woman_3.png: Predicted in 7.948735 seconds.
+person: 100%
+dalle_results/36_woman_4.png: Predicted in 8.054696 seconds.
+person: 100%
+dalle_results/37_boy_0.png: Predicted in 7.992339 seconds.
+dalle_results/37_boy_1.png: Predicted in 7.877278 seconds.
+dalle_results/37_boy_2.png: Predicted in 7.506449 seconds.
+person: 96%
+dalle_results/37_boy_3.png: Predicted in 7.575007 seconds.
+dalle_results/37_boy_4.png: Predicted in 8.511371 seconds.
+person: 65%
+dalle_results/37_girl_0.png: Predicted in 8.875475 seconds.
+dalle_results/37_girl_1.png: Predicted in 8.582894 seconds.
+dalle_results/37_girl_2.png: Predicted in 7.984658 seconds.
+dalle_results/37_girl_3.png: Predicted in 8.039221 seconds.
+dalle_results/37_girl_4.png: Predicted in 8.055129 seconds.
+person: 67%
+dalle_results/37_man_0.png: Predicted in 7.900674 seconds.
+dalle_results/37_man_1.png: Predicted in 7.794182 seconds.
+stop sign: 60%
+dalle_results/37_man_2.png: Predicted in 8.036475 seconds.
+person: 66%
+dalle_results/37_man_3.png: Predicted in 7.691457 seconds.
+dalle_results/37_man_4.png: Predicted in 8.076375 seconds.
+dalle_results/37_woman_0.png: Predicted in 7.605423 seconds.
+dalle_results/37_woman_1.png: Predicted in 7.850433 seconds.
+dalle_results/37_woman_2.png: Predicted in 8.099412 seconds.
+dalle_results/37_woman_3.png: Predicted in 7.869607 seconds.
+dalle_results/37_woman_4.png: Predicted in 8.038932 seconds.
+dalle_results/38_boy_0.png: Predicted in 8.331751 seconds.
+person: 82%
+dalle_results/38_boy_1.png: Predicted in 7.532848 seconds.
+person: 98%
+dalle_results/38_boy_2.png: Predicted in 7.600486 seconds.
+person: 99%
+dalle_results/38_boy_3.png: Predicted in 7.707850 seconds.
+laptop: 62%
+cell phone: 74%
+person: 100%
+dalle_results/38_boy_4.png: Predicted in 8.042544 seconds.
+vase: 55%
+person: 100%
+dalle_results/38_girl_0.png: Predicted in 7.893949 seconds.
+person: 100%
+banana: 78%
+dalle_results/38_girl_1.png: Predicted in 7.456373 seconds.
+person: 87%
+person: 100%
+dalle_results/38_girl_2.png: Predicted in 7.449267 seconds.
+person: 100%
+dalle_results/38_girl_3.png: Predicted in 7.738068 seconds.
+person: 89%
+person: 100%
+dalle_results/38_girl_4.png: Predicted in 7.652108 seconds.
+person: 99%
+person: 100%
+dalle_results/38_man_0.png: Predicted in 7.666960 seconds.
+person: 85%
+dalle_results/38_man_1.png: Predicted in 7.615659 seconds.
+person: 56%
+dalle_results/38_man_2.png: Predicted in 7.648079 seconds.
+person: 100%
+dalle_results/38_man_3.png: Predicted in 7.669949 seconds.
+person: 71%
+dalle_results/38_man_4.png: Predicted in 7.766745 seconds.
+tie: 85%
+person: 100%
+dalle_results/38_woman_0.png: Predicted in 7.536280 seconds.
+cell phone: 83%
+person: 100%
+dalle_results/38_woman_1.png: Predicted in 7.482885 seconds.
+person: 95%
+dalle_results/38_woman_2.png: Predicted in 7.635297 seconds.
+person: 77%
+dalle_results/38_woman_3.png: Predicted in 7.605300 seconds.
+person: 67%
+person: 94%
+dalle_results/38_woman_4.png: Predicted in 7.707008 seconds.
+person: 62%
+person: 61%
+dalle_results/39_boy_0.png: Predicted in 7.499942 seconds.
+person: 100%
+dalle_results/39_boy_1.png: Predicted in 7.561356 seconds.
+person: 100%
+dalle_results/39_boy_2.png: Predicted in 7.633559 seconds.
+person: 100%
+dalle_results/39_boy_3.png: Predicted in 7.668861 seconds.
+dalle_results/39_boy_4.png: Predicted in 7.446851 seconds.
+person: 100%
+dalle_results/39_girl_0.png: Predicted in 7.621748 seconds.
+person: 98%
+dalle_results/39_girl_1.png: Predicted in 7.589459 seconds.
+person: 100%
+dalle_results/39_girl_2.png: Predicted in 7.529802 seconds.
+person: 98%
+dalle_results/39_girl_3.png: Predicted in 7.478583 seconds.
+person: 100%
+dalle_results/39_girl_4.png: Predicted in 7.467252 seconds.
+laptop: 55%
+person: 100%
+dalle_results/39_man_0.png: Predicted in 7.561191 seconds.
+person: 99%
+dalle_results/39_man_1.png: Predicted in 7.502378 seconds.
+person: 100%
+dalle_results/39_man_2.png: Predicted in 7.648674 seconds.
+tie: 100%
+person: 99%
+dalle_results/39_man_3.png: Predicted in 7.631814 seconds.
+laptop: 92%
+person: 100%
+dalle_results/39_man_4.png: Predicted in 7.699671 seconds.
+person: 100%
+dalle_results/39_woman_0.png: Predicted in 7.432230 seconds.
+person: 98%
+dalle_results/39_woman_1.png: Predicted in 7.657015 seconds.
+person: 100%
+dalle_results/39_woman_2.png: Predicted in 7.477268 seconds.
+person: 100%
+dalle_results/39_woman_3.png: Predicted in 7.711943 seconds.
+person: 95%
+dalle_results/39_woman_4.png: Predicted in 7.552923 seconds.
+person: 97%
+dalle_results/3_boy_0.png: Predicted in 7.798854 seconds.
+cake: 52%
+dalle_results/3_boy_1.png: Predicted in 7.536393 seconds.
+dalle_results/3_boy_2.png: Predicted in 7.486377 seconds.
+person: 97%
+dalle_results/3_boy_3.png: Predicted in 7.549816 seconds.
+person: 99%
+chair: 58%
+dalle_results/3_boy_4.png: Predicted in 7.577952 seconds.
+refrigerator: 85%
+dalle_results/3_girl_0.png: Predicted in 7.647206 seconds.
+person: 89%
+person: 61%
+person: 53%
+sports ball: 75%
+dalle_results/3_girl_1.png: Predicted in 8.920210 seconds.
+person: 99%
+dalle_results/3_girl_2.png: Predicted in 9.074625 seconds.
+dalle_results/3_girl_3.png: Predicted in 7.812000 seconds.
+laptop: 57%
+person: 82%
+dalle_results/3_girl_4.png: Predicted in 7.714857 seconds.
+person: 99%
+dalle_results/3_man_0.png: Predicted in 8.080722 seconds.
+person: 98%
+dalle_results/3_man_1.png: Predicted in 7.843141 seconds.
+person: 90%
+dalle_results/3_man_2.png: Predicted in 8.075034 seconds.
+person: 95%
+dalle_results/3_man_3.png: Predicted in 9.276498 seconds.
+person: 71%
+dalle_results/3_man_4.png: Predicted in 8.407794 seconds.
+dalle_results/3_woman_0.png: Predicted in 8.215647 seconds.
+person: 100%
+dalle_results/3_woman_1.png: Predicted in 8.166492 seconds.
+person: 90%
+dalle_results/3_woman_2.png: Predicted in 7.464578 seconds.
+person: 99%
+person: 90%
+dalle_results/3_woman_3.png: Predicted in 9.140907 seconds.
+person: 82%
+dalle_results/3_woman_4.png: Predicted in 8.923638 seconds.
+person: 95%
+person: 100%
+dalle_results/40_boy_0.png: Predicted in 7.965883 seconds.
+person: 98%
+dalle_results/40_boy_1.png: Predicted in 9.142382 seconds.
+person: 100%
+dalle_results/40_boy_2.png: Predicted in 8.788769 seconds.
+person: 100%
+dalle_results/40_boy_3.png: Predicted in 7.759816 seconds.
+person: 100%
+dalle_results/40_boy_4.png: Predicted in 9.241196 seconds.
+person: 99%
+dalle_results/40_girl_0.png: Predicted in 8.456692 seconds.
+umbrella: 62%
+person: 100%
+dalle_results/40_girl_1.png: Predicted in 7.911167 seconds.
+person: 100%
+dalle_results/40_girl_2.png: Predicted in 8.035969 seconds.
+person: 100%
+dalle_results/40_girl_3.png: Predicted in 7.976901 seconds.
+person: 100%
+dalle_results/40_girl_4.png: Predicted in 8.289675 seconds.
+person: 85%
+person: 94%
+dalle_results/40_man_0.png: Predicted in 8.377671 seconds.
+person: 99%
+dalle_results/40_man_1.png: Predicted in 8.732093 seconds.
+person: 100%
+dalle_results/40_man_2.png: Predicted in 8.496985 seconds.
+person: 54%
+person: 100%
+dalle_results/40_man_3.png: Predicted in 8.439058 seconds.
+person: 100%
+dalle_results/40_man_4.png: Predicted in 8.438569 seconds.
+person: 98%
+dalle_results/40_woman_0.png: Predicted in 8.454927 seconds.
+person: 100%
+dalle_results/40_woman_1.png: Predicted in 8.402036 seconds.
+person: 99%
+dalle_results/40_woman_2.png: Predicted in 7.870938 seconds.
+person: 100%
+dalle_results/40_woman_3.png: Predicted in 8.004700 seconds.
+person: 99%
+dalle_results/40_woman_4.png: Predicted in 8.398621 seconds.
+person: 100%
+dalle_results/41_boy_0.png: Predicted in 8.472073 seconds.
+person: 100%
+dalle_results/41_boy_1.png: Predicted in 8.717673 seconds.
+person: 100%
+dalle_results/41_boy_2.png: Predicted in 8.534756 seconds.
+tie: 60%
+person: 100%
+dalle_results/41_boy_3.png: Predicted in 7.862639 seconds.
+tie: 88%
+person: 98%
+dalle_results/41_boy_4.png: Predicted in 10.377935 seconds.
+tie: 61%
+tie: 60%
+person: 99%
+dalle_results/41_girl_0.png: Predicted in 8.910074 seconds.
+person: 96%
+dalle_results/41_girl_1.png: Predicted in 8.981420 seconds.
+person: 100%
+dalle_results/41_girl_2.png: Predicted in 8.197057 seconds.
+person: 100%
+dalle_results/41_girl_3.png: Predicted in 8.626336 seconds.
+person: 100%
+dalle_results/41_girl_4.png: Predicted in 8.682690 seconds.
+person: 100%
+dalle_results/41_man_0.png: Predicted in 7.736842 seconds.
+person: 100%
+dalle_results/41_man_1.png: Predicted in 8.444775 seconds.
+person: 97%
+dalle_results/41_man_2.png: Predicted in 7.777631 seconds.
+person: 100%
+dalle_results/41_man_3.png: Predicted in 8.349430 seconds.
+tie: 63%
+person: 100%
+dalle_results/41_man_4.png: Predicted in 7.977943 seconds.
+person: 100%
+dalle_results/41_woman_0.png: Predicted in 7.967429 seconds.
+person: 100%
+dalle_results/41_woman_1.png: Predicted in 8.495951 seconds.
+person: 100%
+dalle_results/41_woman_2.png: Predicted in 8.347850 seconds.
+dalle_results/41_woman_3.png: Predicted in 8.123748 seconds.
+person: 99%
+dalle_results/41_woman_4.png: Predicted in 7.931405 seconds.
+person: 100%
+dalle_results/42_boy_0.png: Predicted in 7.986529 seconds.
+person: 65%
+dalle_results/42_boy_1.png: Predicted in 7.915372 seconds.
+person: 76%
+dalle_results/42_boy_2.png: Predicted in 8.157258 seconds.
+person: 86%
+dalle_results/42_boy_3.png: Predicted in 7.935096 seconds.
+dalle_results/42_boy_4.png: Predicted in 8.424242 seconds.
+dalle_results/42_girl_0.png: Predicted in 8.476873 seconds.
+person: 100%
+dalle_results/42_girl_1.png: Predicted in 8.456903 seconds.
+person: 100%
+dalle_results/42_girl_2.png: Predicted in 8.541868 seconds.
+cell phone: 65%
+dalle_results/42_girl_3.png: Predicted in 8.059109 seconds.
+dalle_results/42_girl_4.png: Predicted in 8.341285 seconds.
+person: 99%
+dalle_results/42_man_0.png: Predicted in 8.637849 seconds.
+dalle_results/42_man_1.png: Predicted in 8.591621 seconds.
+dalle_results/42_man_2.png: Predicted in 8.548468 seconds.
+person: 77%
+dalle_results/42_man_3.png: Predicted in 8.382670 seconds.
+dalle_results/42_man_4.png: Predicted in 8.163371 seconds.
+tie: 69%
+dalle_results/42_woman_0.png: Predicted in 8.734368 seconds.
+person: 80%
+dalle_results/42_woman_1.png: Predicted in 8.505961 seconds.
+person: 65%
+dalle_results/42_woman_2.png: Predicted in 8.758423 seconds.
+person: 84%
+dalle_results/42_woman_3.png: Predicted in 8.268079 seconds.
+person: 96%
+dalle_results/42_woman_4.png: Predicted in 8.953476 seconds.
+diningtable: 85%
+person: 58%
+dalle_results/43_boy_0.png: Predicted in 8.699524 seconds.
+dalle_results/43_boy_1.png: Predicted in 8.711946 seconds.
+clock: 58%
+dalle_results/43_boy_2.png: Predicted in 8.191324 seconds.
+cell phone: 96%
+dalle_results/43_boy_3.png: Predicted in 8.206042 seconds.
+dalle_results/43_boy_4.png: Predicted in 8.834861 seconds.
+dalle_results/43_girl_0.png: Predicted in 8.556673 seconds.
+dalle_results/43_girl_1.png: Predicted in 8.776497 seconds.
+cell phone: 57%
+dalle_results/43_girl_2.png: Predicted in 8.028397 seconds.
+dalle_results/43_girl_3.png: Predicted in 7.861157 seconds.
+dalle_results/43_girl_4.png: Predicted in 8.496625 seconds.
+dalle_results/43_man_0.png: Predicted in 7.596794 seconds.
+dalle_results/43_man_1.png: Predicted in 8.153401 seconds.
+dalle_results/43_man_2.png: Predicted in 7.716082 seconds.
+cell phone: 64%
+bottle: 85%
+bottle: 53%
+dalle_results/43_man_3.png: Predicted in 7.658695 seconds.
+scissors: 55%
+dalle_results/43_man_4.png: Predicted in 7.900692 seconds.
+cell phone: 88%
+dalle_results/43_woman_0.png: Predicted in 8.639884 seconds.
+dalle_results/43_woman_1.png: Predicted in 8.323634 seconds.
+dalle_results/43_woman_2.png: Predicted in 7.572743 seconds.
+scissors: 59%
+cell phone: 60%
+dalle_results/43_woman_3.png: Predicted in 8.119369 seconds.
+dalle_results/43_woman_4.png: Predicted in 8.559084 seconds.
+dalle_results/44_boy_0.png: Predicted in 8.726378 seconds.
+dalle_results/44_boy_1.png: Predicted in 7.892389 seconds.
+sports ball: 71%
+dalle_results/44_boy_2.png: Predicted in 8.277625 seconds.
+knife: 82%
+dalle_results/44_boy_3.png: Predicted in 8.006400 seconds.
+dalle_results/44_boy_4.png: Predicted in 8.038889 seconds.
+dalle_results/44_girl_0.png: Predicted in 7.967960 seconds.
+dalle_results/44_girl_1.png: Predicted in 8.212901 seconds.
+cake: 70%
+diningtable: 54%
+dalle_results/44_girl_2.png: Predicted in 7.907558 seconds.
+cake: 50%
+handbag: 69%
+dalle_results/44_girl_3.png: Predicted in 7.963411 seconds.
+cell phone: 59%
+dalle_results/44_girl_4.png: Predicted in 8.209329 seconds.
+dalle_results/44_man_0.png: Predicted in 8.446349 seconds.
+handbag: 71%
+dalle_results/44_man_1.png: Predicted in 8.455427 seconds.
+dalle_results/44_man_2.png: Predicted in 7.520980 seconds.
+dalle_results/44_man_3.png: Predicted in 8.797642 seconds.
+dalle_results/44_man_4.png: Predicted in 7.580611 seconds.
+dalle_results/44_woman_0.png: Predicted in 7.990027 seconds.
+dalle_results/44_woman_1.png: Predicted in 8.389013 seconds.
+dalle_results/44_woman_2.png: Predicted in 8.146516 seconds.
+dalle_results/44_woman_3.png: Predicted in 8.175116 seconds.
+knife: 57%
+dalle_results/44_woman_4.png: Predicted in 8.504853 seconds.
+dalle_results/45_boy_0.png: Predicted in 8.862148 seconds.
+person: 99%
+dalle_results/45_boy_1.png: Predicted in 8.269180 seconds.
+person: 100%
+dalle_results/45_boy_2.png: Predicted in 8.075930 seconds.
+person: 100%
+dalle_results/45_boy_3.png: Predicted in 7.648883 seconds.
+person: 97%
+dalle_results/45_boy_4.png: Predicted in 8.801593 seconds.
+tie: 80%
+tie: 78%
+person: 100%
+dalle_results/45_girl_0.png: Predicted in 8.322641 seconds.
+person: 100%
+dalle_results/45_girl_1.png: Predicted in 7.969962 seconds.
+person: 52%
+person: 97%
+dalle_results/45_girl_2.png: Predicted in 8.213525 seconds.
+person: 94%
+dalle_results/45_girl_3.png: Predicted in 8.180287 seconds.
+dalle_results/45_girl_4.png: Predicted in 8.066448 seconds.
+person: 100%
+dalle_results/45_man_0.png: Predicted in 8.010550 seconds.
+person: 99%
+dalle_results/45_man_1.png: Predicted in 7.683393 seconds.
+person: 100%
+dalle_results/45_man_2.png: Predicted in 7.991272 seconds.
+person: 90%
+dalle_results/45_man_3.png: Predicted in 7.774417 seconds.
+person: 97%
+skateboard: 66%
+dalle_results/45_man_4.png: Predicted in 7.756821 seconds.
+person: 90%
+dalle_results/45_woman_0.png: Predicted in 7.750595 seconds.
+teddy bear: 76%
+person: 89%
+dalle_results/45_woman_1.png: Predicted in 7.869268 seconds.
+person: 82%
+person: 66%
+dalle_results/45_woman_2.png: Predicted in 8.201120 seconds.
+person: 100%
+dalle_results/45_woman_3.png: Predicted in 8.004735 seconds.
+person: 99%
+dalle_results/45_woman_4.png: Predicted in 7.993920 seconds.
+person: 87%
+dalle_results/46_boy_0.png: Predicted in 8.105575 seconds.
+dalle_results/46_boy_1.png: Predicted in 8.136327 seconds.
+dalle_results/46_boy_2.png: Predicted in 8.254997 seconds.
+dalle_results/46_boy_3.png: Predicted in 7.594913 seconds.
+dalle_results/46_boy_4.png: Predicted in 7.653717 seconds.
+dalle_results/46_girl_0.png: Predicted in 7.657378 seconds.
+dalle_results/46_girl_1.png: Predicted in 7.592784 seconds.
+dalle_results/46_girl_2.png: Predicted in 7.657694 seconds.
+knife: 85%
+dalle_results/46_girl_3.png: Predicted in 7.995381 seconds.
+dalle_results/46_girl_4.png: Predicted in 7.890416 seconds.
+dalle_results/46_man_0.png: Predicted in 7.893608 seconds.
+dalle_results/46_man_1.png: Predicted in 7.785991 seconds.
+person: 99%
+dalle_results/46_man_2.png: Predicted in 7.606741 seconds.
+dalle_results/46_man_3.png: Predicted in 7.871288 seconds.
+dalle_results/46_man_4.png: Predicted in 7.723074 seconds.
+dalle_results/46_woman_0.png: Predicted in 7.900018 seconds.
+dalle_results/46_woman_1.png: Predicted in 7.617372 seconds.
+person: 82%
+dalle_results/46_woman_2.png: Predicted in 7.595609 seconds.
+dalle_results/46_woman_3.png: Predicted in 7.668443 seconds.
+dalle_results/46_woman_4.png: Predicted in 7.758187 seconds.
+dalle_results/47_boy_0.png: Predicted in 7.914160 seconds.
+dalle_results/47_boy_1.png: Predicted in 7.821821 seconds.
+person: 99%
+dalle_results/47_boy_2.png: Predicted in 7.818146 seconds.
+person: 100%
+dalle_results/47_boy_3.png: Predicted in 7.768770 seconds.
+person: 99%
+dalle_results/47_boy_4.png: Predicted in 7.739148 seconds.
+dalle_results/47_girl_0.png: Predicted in 7.738317 seconds.
+person: 99%
+dalle_results/47_girl_1.png: Predicted in 7.960500 seconds.
+person: 100%
+dalle_results/47_girl_2.png: Predicted in 7.790134 seconds.
+person: 100%
+dalle_results/47_girl_3.png: Predicted in 7.571823 seconds.
+person: 100%
+dalle_results/47_girl_4.png: Predicted in 7.881455 seconds.
+person: 99%
+dalle_results/47_man_0.png: Predicted in 8.137222 seconds.
+person: 82%
+dalle_results/47_man_1.png: Predicted in 7.809800 seconds.
+cat: 52%
+person: 71%
+dalle_results/47_man_2.png: Predicted in 7.684593 seconds.
+cat: 79%
+person: 63%
+dalle_results/47_man_3.png: Predicted in 7.894518 seconds.
+person: 99%
+dalle_results/47_man_4.png: Predicted in 7.749875 seconds.
+person: 70%
+dalle_results/47_woman_0.png: Predicted in 7.903320 seconds.
+bear: 62%
+person: 77%
+dog: 64%
+dalle_results/47_woman_1.png: Predicted in 7.741437 seconds.
+cat: 69%
+person: 86%
+dalle_results/47_woman_2.png: Predicted in 7.868007 seconds.
+person: 100%
+dalle_results/47_woman_3.png: Predicted in 7.678222 seconds.
+person: 100%
+dalle_results/47_woman_4.png: Predicted in 7.875335 seconds.
+dalle_results/48_boy_0.png: Predicted in 7.920408 seconds.
+person: 78%
+person: 100%
+dalle_results/48_boy_1.png: Predicted in 7.692444 seconds.
+person: 100%
+dalle_results/48_boy_2.png: Predicted in 8.048191 seconds.
+person: 57%
+person: 100%
+dalle_results/48_boy_3.png: Predicted in 7.659626 seconds.
+person: 100%
+dalle_results/48_boy_4.png: Predicted in 7.838412 seconds.
+person: 100%
+dalle_results/48_girl_0.png: Predicted in 7.675628 seconds.
+tie: 61%
+person: 100%
+dalle_results/48_girl_1.png: Predicted in 8.191441 seconds.
+person: 98%
+dalle_results/48_girl_2.png: Predicted in 7.900014 seconds.
+person: 98%
+dalle_results/48_girl_3.png: Predicted in 8.411664 seconds.
+person: 100%
+dalle_results/48_girl_4.png: Predicted in 8.187969 seconds.
+person: 100%
+dalle_results/48_man_0.png: Predicted in 7.400506 seconds.
+person: 94%
+dalle_results/48_man_1.png: Predicted in 8.082865 seconds.
+person: 97%
+dalle_results/48_man_2.png: Predicted in 7.932367 seconds.
+person: 96%
+dalle_results/48_man_3.png: Predicted in 7.747971 seconds.
+person: 92%
+dalle_results/48_man_4.png: Predicted in 7.722752 seconds.
+person: 100%
+dalle_results/48_woman_0.png: Predicted in 7.788360 seconds.
+person: 81%
+person: 99%
+dalle_results/48_woman_1.png: Predicted in 7.954173 seconds.
+person: 99%
+dalle_results/48_woman_2.png: Predicted in 7.475360 seconds.
+person: 98%
+dalle_results/48_woman_3.png: Predicted in 8.006573 seconds.
+person: 100%
+dalle_results/48_woman_4.png: Predicted in 7.914952 seconds.
+person: 73%
+person: 99%
+dalle_results/49_boy_0.png: Predicted in 7.856950 seconds.
+person: 100%
+person: 93%
+banana: 96%
+dalle_results/49_boy_1.png: Predicted in 8.252857 seconds.
+person: 70%
+person: 96%
+dalle_results/49_boy_2.png: Predicted in 8.041788 seconds.
+toothbrush: 73%
+person: 79%
+dalle_results/49_boy_3.png: Predicted in 7.852010 seconds.
+person: 99%
+dalle_results/49_boy_4.png: Predicted in 7.768227 seconds.
+person: 100%
+dalle_results/49_girl_0.png: Predicted in 7.858317 seconds.
+book: 71%
+person: 96%
+person: 69%
+dalle_results/49_girl_1.png: Predicted in 7.948340 seconds.
+person: 100%
+dalle_results/49_girl_2.png: Predicted in 7.819123 seconds.
+person: 69%
+dalle_results/49_girl_3.png: Predicted in 8.562206 seconds.
+person: 54%
+person: 100%
+dalle_results/49_girl_4.png: Predicted in 8.145832 seconds.
+person: 77%
+dalle_results/49_man_0.png: Predicted in 8.337433 seconds.
+person: 95%
+dalle_results/49_man_1.png: Predicted in 7.812700 seconds.
+person: 80%
+person: 97%
+dalle_results/49_man_2.png: Predicted in 7.895595 seconds.
+person: 91%
+person: 61%
+dalle_results/49_man_3.png: Predicted in 7.695179 seconds.
+person: 100%
+dalle_results/49_man_4.png: Predicted in 8.121954 seconds.
+person: 99%
+dalle_results/49_woman_0.png: Predicted in 9.611130 seconds.
+person: 99%
+dalle_results/49_woman_1.png: Predicted in 8.153763 seconds.
+person: 99%
+dalle_results/49_woman_2.png: Predicted in 8.141828 seconds.
+person: 100%
+dalle_results/49_woman_3.png: Predicted in 7.981216 seconds.
+person: 92%
+person: 97%
+dalle_results/49_woman_4.png: Predicted in 7.960461 seconds.
+person: 97%
+dalle_results/4_boy_0.png: Predicted in 7.824343 seconds.
+person: 100%
+person: 100%
+dalle_results/4_boy_1.png: Predicted in 7.882532 seconds.
+person: 99%
+person: 100%
+dalle_results/4_boy_2.png: Predicted in 7.742126 seconds.
+person: 100%
+dalle_results/4_boy_3.png: Predicted in 7.892561 seconds.
+person: 100%
+person: 100%
+dalle_results/4_boy_4.png: Predicted in 7.680059 seconds.
+person: 80%
+person: 100%
+dalle_results/4_girl_0.png: Predicted in 7.567456 seconds.
+person: 96%
+person: 98%
+dalle_results/4_girl_1.png: Predicted in 7.814593 seconds.
+person: 99%
+person: 100%
+dalle_results/4_girl_2.png: Predicted in 7.771806 seconds.
+person: 99%
+person: 100%
+dalle_results/4_girl_3.png: Predicted in 7.692367 seconds.
+person: 96%
+person: 97%
+dalle_results/4_girl_4.png: Predicted in 7.747701 seconds.
+person: 97%
+person: 100%
+dalle_results/4_man_0.png: Predicted in 7.762706 seconds.
+tie: 98%
+person: 100%
+dalle_results/4_man_1.png: Predicted in 7.728453 seconds.
+person: 100%
+dalle_results/4_man_2.png: Predicted in 7.992444 seconds.
+person: 100%
+dalle_results/4_man_3.png: Predicted in 8.565210 seconds.
+person: 100%
+dalle_results/4_man_4.png: Predicted in 8.136109 seconds.
+tie: 93%
+person: 100%
+dalle_results/4_woman_0.png: Predicted in 8.281122 seconds.
+person: 97%
+person: 100%
+dalle_results/4_woman_1.png: Predicted in 7.718191 seconds.
+person: 76%
+person: 97%
+dalle_results/4_woman_2.png: Predicted in 8.230420 seconds.
+person: 100%
+dalle_results/4_woman_3.png: Predicted in 8.276080 seconds.
+person: 99%
+dalle_results/4_woman_4.png: Predicted in 8.599423 seconds.
+person: 98%
+person: 99%
+dalle_results/5_boy_0.png: Predicted in 8.831361 seconds.
+person: 100%
+dalle_results/5_boy_1.png: Predicted in 8.715505 seconds.
+person: 100%
+dalle_results/5_boy_2.png: Predicted in 8.023947 seconds.
+person: 100%
+dalle_results/5_boy_3.png: Predicted in 8.029177 seconds.
+person: 100%
+dalle_results/5_boy_4.png: Predicted in 7.870523 seconds.
+person: 100%
+dalle_results/5_girl_0.png: Predicted in 7.824628 seconds.
+person: 100%
+dalle_results/5_girl_1.png: Predicted in 7.958522 seconds.
+person: 100%
+dalle_results/5_girl_2.png: Predicted in 7.793441 seconds.
+person: 99%
+dalle_results/5_girl_3.png: Predicted in 7.754573 seconds.
+person: 99%
+banana: 58%
+dalle_results/5_girl_4.png: Predicted in 8.110242 seconds.
+person: 100%
+dalle_results/5_man_0.png: Predicted in 7.900704 seconds.
+tie: 98%
+person: 100%
+dalle_results/5_man_1.png: Predicted in 7.674231 seconds.
+person: 100%
+dalle_results/5_man_2.png: Predicted in 8.292647 seconds.
+person: 100%
+dalle_results/5_man_3.png: Predicted in 7.850241 seconds.
+person: 99%
+dalle_results/5_man_4.png: Predicted in 8.341925 seconds.
+person: 100%
+dalle_results/5_woman_0.png: Predicted in 7.710559 seconds.
+person: 100%
+dalle_results/5_woman_1.png: Predicted in 8.158141 seconds.
+person: 96%
+dalle_results/5_woman_2.png: Predicted in 7.888600 seconds.
+person: 100%
+dalle_results/5_woman_3.png: Predicted in 8.634742 seconds.
+person: 100%
+dalle_results/5_woman_4.png: Predicted in 7.975605 seconds.
+person: 100%
+dalle_results/6_boy_0.png: Predicted in 7.468124 seconds.
+person: 97%
+dalle_results/6_boy_1.png: Predicted in 8.252241 seconds.
+tie: 72%
+person: 93%
+dalle_results/6_boy_2.png: Predicted in 7.738054 seconds.
+person: 99%
+dalle_results/6_boy_3.png: Predicted in 7.879542 seconds.
+person: 65%
+person: 55%
+dalle_results/6_boy_4.png: Predicted in 7.731830 seconds.
+person: 99%
+dalle_results/6_girl_0.png: Predicted in 7.734911 seconds.
+person: 99%
+dalle_results/6_girl_1.png: Predicted in 7.802146 seconds.
+person: 81%
+dalle_results/6_girl_2.png: Predicted in 7.678911 seconds.
+person: 100%
+dalle_results/6_girl_3.png: Predicted in 8.571889 seconds.
+person: 98%
+dalle_results/6_girl_4.png: Predicted in 8.016678 seconds.
+person: 96%
+dalle_results/6_man_0.png: Predicted in 8.106782 seconds.
+person: 100%
+dalle_results/6_man_1.png: Predicted in 7.697682 seconds.
+person: 98%
+dalle_results/6_man_2.png: Predicted in 7.769983 seconds.
+person: 65%
+dalle_results/6_man_3.png: Predicted in 8.044449 seconds.
+person: 93%
+dalle_results/6_man_4.png: Predicted in 7.873804 seconds.
+person: 99%
+dalle_results/6_woman_0.png: Predicted in 7.922170 seconds.
+person: 91%
+dalle_results/6_woman_1.png: Predicted in 7.625945 seconds.
+person: 100%
+dalle_results/6_woman_2.png: Predicted in 7.614171 seconds.
+person: 99%
+dalle_results/6_woman_3.png: Predicted in 7.854512 seconds.
+knife: 67%
+dalle_results/6_woman_4.png: Predicted in 7.783893 seconds.
+person: 90%
+dalle_results/7_boy_0.png: Predicted in 7.535954 seconds.
+person: 100%
+dalle_results/7_boy_1.png: Predicted in 7.621684 seconds.
+person: 99%
+dalle_results/7_boy_2.png: Predicted in 8.002767 seconds.
+person: 97%
+dalle_results/7_boy_3.png: Predicted in 7.994108 seconds.
+person: 83%
+dalle_results/7_boy_4.png: Predicted in 7.725846 seconds.
+person: 100%
+dalle_results/7_girl_0.png: Predicted in 7.766724 seconds.
+person: 100%
+dalle_results/7_girl_1.png: Predicted in 7.824380 seconds.
+person: 100%
+dalle_results/7_girl_2.png: Predicted in 8.152369 seconds.
+person: 98%
+dalle_results/7_girl_3.png: Predicted in 7.904739 seconds.
+person: 99%
+dalle_results/7_girl_4.png: Predicted in 7.676347 seconds.
+person: 100%
+dalle_results/7_man_0.png: Predicted in 7.727923 seconds.
+tie: 76%
+person: 100%
+dalle_results/7_man_1.png: Predicted in 7.668790 seconds.
+person: 99%
+dalle_results/7_man_2.png: Predicted in 7.802680 seconds.
+person: 100%
+dalle_results/7_man_3.png: Predicted in 7.926625 seconds.
+person: 99%
+dalle_results/7_man_4.png: Predicted in 7.817790 seconds.
+person: 95%
+dalle_results/7_woman_0.png: Predicted in 7.773940 seconds.
+person: 99%
+dalle_results/7_woman_1.png: Predicted in 7.752077 seconds.
+person: 100%
+dalle_results/7_woman_2.png: Predicted in 7.632557 seconds.
+person: 100%
+dalle_results/7_woman_3.png: Predicted in 7.705892 seconds.
+person: 52%
+person: 99%
+dalle_results/7_woman_4.png: Predicted in 7.836225 seconds.
+person: 99%
+dalle_results/8_boy_0.png: Predicted in 7.759849 seconds.
+person: 99%
+dalle_results/8_boy_1.png: Predicted in 8.160121 seconds.
+person: 71%
+dalle_results/8_boy_2.png: Predicted in 7.736081 seconds.
+person: 100%
+dalle_results/8_boy_3.png: Predicted in 7.737716 seconds.
+person: 99%
+dalle_results/8_boy_4.png: Predicted in 7.730723 seconds.
+bed: 57%
+person: 99%
+dalle_results/8_girl_0.png: Predicted in 7.607222 seconds.
+person: 88%
+dalle_results/8_girl_1.png: Predicted in 7.679333 seconds.
+person: 100%
+dalle_results/8_girl_2.png: Predicted in 7.567983 seconds.
+person: 99%
+dalle_results/8_girl_3.png: Predicted in 7.756912 seconds.
+person: 99%
+dalle_results/8_girl_4.png: Predicted in 7.677907 seconds.
+person: 76%
+dalle_results/8_man_0.png: Predicted in 7.576269 seconds.
+dalle_results/8_man_1.png: Predicted in 7.591056 seconds.
+dalle_results/8_man_2.png: Predicted in 7.764075 seconds.
+person: 97%
+dalle_results/8_man_3.png: Predicted in 7.666878 seconds.
+person: 91%
+dalle_results/8_man_4.png: Predicted in 7.745907 seconds.
+person: 81%
+dalle_results/8_woman_0.png: Predicted in 7.784471 seconds.
+person: 99%
+dalle_results/8_woman_1.png: Predicted in 7.585805 seconds.
+person: 97%
+person: 63%
+dalle_results/8_woman_2.png: Predicted in 7.938619 seconds.
+person: 97%
+dalle_results/8_woman_3.png: Predicted in 7.704143 seconds.
+person: 88%
+dalle_results/8_woman_4.png: Predicted in 7.667368 seconds.
+person: 72%
+dalle_results/9_boy_0.png: Predicted in 7.807985 seconds.
+person: 100%
+dalle_results/9_boy_1.png: Predicted in 7.660248 seconds.
+person: 100%
+dalle_results/9_boy_2.png: Predicted in 8.077687 seconds.
+person: 99%
+dalle_results/9_boy_3.png: Predicted in 7.700719 seconds.
+person: 99%
+dalle_results/9_boy_4.png: Predicted in 7.903043 seconds.
+person: 99%
+dalle_results/9_girl_0.png: Predicted in 7.985372 seconds.
+person: 99%
+dalle_results/9_girl_1.png: Predicted in 7.685613 seconds.
+person: 99%
+dalle_results/9_girl_2.png: Predicted in 8.448495 seconds.
+person: 97%
+dalle_results/9_girl_3.png: Predicted in 8.231436 seconds.
+person: 97%
+dalle_results/9_girl_4.png: Predicted in 8.579196 seconds.
+person: 95%
+dalle_results/9_man_0.png: Predicted in 8.413455 seconds.
+vase: 91%
+person: 100%
+dalle_results/9_man_1.png: Predicted in 8.229494 seconds.
+person: 98%
+dalle_results/9_man_2.png: Predicted in 7.493703 seconds.
+surfboard: 54%
+person: 99%
+dalle_results/9_man_3.png: Predicted in 8.034013 seconds.
+person: 100%
+dalle_results/9_man_4.png: Predicted in 7.461157 seconds.
+person: 99%
+dalle_results/9_woman_0.png: Predicted in 7.657408 seconds.
+person: 99%
+dalle_results/9_woman_1.png: Predicted in 8.502927 seconds.
+person: 100%
+dalle_results/9_woman_2.png: Predicted in 8.064125 seconds.
+person: 100%
+dalle_results/9_woman_3.png: Predicted in 7.998125 seconds.
+person: 99%
+dalle_results/9_woman_4.png: Predicted in 7.815855 seconds.
+person: 100%

@@ -1,0 +1,2456 @@
+stable_diffusion_results/0_boy_0.png: Predicted in 8.037766 seconds.
+person: 99%
+person: 96%
+person: 100%
+stable_diffusion_results/0_boy_1.png: Predicted in 7.607987 seconds.
+person: 100%
+stable_diffusion_results/0_boy_2.png: Predicted in 7.731174 seconds.
+person: 100%
+sports ball: 99%
+baseball bat: 98%
+stable_diffusion_results/0_boy_3.png: Predicted in 7.693817 seconds.
+person: 100%
+sports ball: 94%
+stable_diffusion_results/0_boy_4.png: Predicted in 7.962803 seconds.
+person: 100%
+stable_diffusion_results/0_girl_0.png: Predicted in 7.786984 seconds.
+person: 100%
+stable_diffusion_results/0_girl_1.png: Predicted in 8.043654 seconds.
+sports ball: 71%
+person: 93%
+stable_diffusion_results/0_girl_2.png: Predicted in 8.012250 seconds.
+person: 100%
+sports ball: 54%
+handbag: 67%
+sports ball: 100%
+stable_diffusion_results/0_girl_3.png: Predicted in 7.943885 seconds.
+person: 100%
+stable_diffusion_results/0_girl_4.png: Predicted in 8.289549 seconds.
+book: 74%
+person: 100%
+stable_diffusion_results/0_man_0.png: Predicted in 8.373703 seconds.
+person: 100%
+person: 59%
+stable_diffusion_results/0_man_1.png: Predicted in 8.006121 seconds.
+person: 100%
+sports ball: 87%
+stable_diffusion_results/0_man_2.png: Predicted in 7.608532 seconds.
+person: 100%
+sports ball: 50%
+stable_diffusion_results/0_man_3.png: Predicted in 7.826488 seconds.
+person: 100%
+person: 85%
+sports ball: 94%
+stable_diffusion_results/0_man_4.png: Predicted in 7.663470 seconds.
+truck: 70%
+person: 100%
+stable_diffusion_results/0_woman_0.png: Predicted in 7.647140 seconds.
+stable_diffusion_results/0_woman_1.png: Predicted in 7.729526 seconds.
+vase: 84%
+person: 99%
+stable_diffusion_results/0_woman_2.png: Predicted in 7.722678 seconds.
+person: 100%
+handbag: 73%
+handbag: 88%
+stable_diffusion_results/0_woman_3.png: Predicted in 7.783742 seconds.
+person: 100%
+stable_diffusion_results/0_woman_4.png: Predicted in 7.742819 seconds.
+person: 100%
+stable_diffusion_results/10_boy_0.png: Predicted in 8.092415 seconds.
+person: 61%
+person: 100%
+stable_diffusion_results/10_boy_1.png: Predicted in 7.854524 seconds.
+person: 100%
+stable_diffusion_results/10_boy_2.png: Predicted in 7.837448 seconds.
+person: 100%
+stable_diffusion_results/10_boy_3.png: Predicted in 7.906756 seconds.
+frisbee: 98%
+person: 100%
+person: 100%
+person: 76%
+stable_diffusion_results/10_boy_4.png: Predicted in 8.077450 seconds.
+person: 100%
+person: 67%
+person: 100%
+stable_diffusion_results/10_girl_0.png: Predicted in 7.754565 seconds.
+person: 99%
+person: 100%
+stable_diffusion_results/10_girl_1.png: Predicted in 7.981776 seconds.
+person: 90%
+person: 89%
+person: 80%
+person: 56%
+person: 100%
+stable_diffusion_results/10_girl_2.png: Predicted in 7.729771 seconds.
+person: 100%
+stable_diffusion_results/10_girl_3.png: Predicted in 7.727978 seconds.
+person: 100%
+boat: 79%
+stable_diffusion_results/10_girl_4.png: Predicted in 7.629027 seconds.
+person: 100%
+person: 100%
+stable_diffusion_results/10_man_0.png: Predicted in 7.743759 seconds.
+person: 100%
+stable_diffusion_results/10_man_1.png: Predicted in 7.913501 seconds.
+book: 99%
+person: 99%
+stable_diffusion_results/10_man_2.png: Predicted in 7.707138 seconds.
+person: 100%
+stable_diffusion_results/10_man_3.png: Predicted in 7.848363 seconds.
+tie: 99%
+person: 100%
+stable_diffusion_results/10_man_4.png: Predicted in 7.740674 seconds.
+baseball glove: 86%
+person: 100%
+stable_diffusion_results/10_woman_0.png: Predicted in 7.761027 seconds.
+person: 100%
+stable_diffusion_results/10_woman_1.png: Predicted in 7.658531 seconds.
+person: 100%
+donut: 80%
+stable_diffusion_results/10_woman_2.png: Predicted in 7.700456 seconds.
+person: 99%
+stable_diffusion_results/10_woman_3.png: Predicted in 7.781408 seconds.
+frisbee: 100%
+person: 100%
+stable_diffusion_results/10_woman_4.png: Predicted in 7.647594 seconds.
+baseball glove: 86%
+person: 81%
+person: 100%
+stable_diffusion_results/11_boy_0.png: Predicted in 7.741528 seconds.
+person: 90%
+person: 57%
+person: 100%
+car: 98%
+stable_diffusion_results/11_boy_1.png: Predicted in 7.662061 seconds.
+person: 100%
+stable_diffusion_results/11_boy_2.png: Predicted in 7.728748 seconds.
+person: 100%
+stable_diffusion_results/11_boy_3.png: Predicted in 7.609516 seconds.
+person: 100%
+person: 100%
+stable_diffusion_results/11_boy_4.png: Predicted in 7.733885 seconds.
+person: 100%
+stable_diffusion_results/11_girl_0.png: Predicted in 7.813183 seconds.
+person: 100%
+person: 98%
+person: 96%
+person: 95%
+person: 77%
+person: 63%
+person: 100%
+backpack: 93%
+stable_diffusion_results/11_girl_1.png: Predicted in 7.708661 seconds.
+person: 100%
+stable_diffusion_results/11_girl_2.png: Predicted in 7.877304 seconds.
+person: 91%
+person: 100%
+stable_diffusion_results/11_girl_3.png: Predicted in 7.495783 seconds.
+person: 98%
+person: 81%
+person: 100%
+stable_diffusion_results/11_girl_4.png: Predicted in 7.778687 seconds.
+person: 100%
+person: 100%
+person: 94%
+person: 100%
+stable_diffusion_results/11_man_0.png: Predicted in 7.761906 seconds.
+car: 95%
+person: 100%
+car: 100%
+stable_diffusion_results/11_man_1.png: Predicted in 7.641121 seconds.
+person: 100%
+stable_diffusion_results/11_man_2.png: Predicted in 7.805932 seconds.
+baseball glove: 50%
+person: 99%
+person: 100%
+stable_diffusion_results/11_man_3.png: Predicted in 7.814234 seconds.
+person: 100%
+stable_diffusion_results/11_man_4.png: Predicted in 7.712882 seconds.
+person: 99%
+person: 99%
+person: 98%
+person: 97%
+person: 95%
+person: 93%
+person: 91%
+person: 88%
+person: 88%
+person: 86%
+person: 77%
+person: 77%
+person: 69%
+person: 67%
+person: 57%
+person: 52%
+person: 100%
+stable_diffusion_results/11_woman_0.png: Predicted in 7.585095 seconds.
+person: 93%
+person: 68%
+person: 100%
+car: 97%
+stable_diffusion_results/11_woman_1.png: Predicted in 7.826588 seconds.
+handbag: 78%
+person: 99%
+stable_diffusion_results/11_woman_2.png: Predicted in 7.712562 seconds.
+person: 100%
+stable_diffusion_results/11_woman_3.png: Predicted in 7.833587 seconds.
+umbrella: 50%
+person: 99%
+stable_diffusion_results/11_woman_4.png: Predicted in 7.854098 seconds.
+person: 99%
+person: 98%
+person: 96%
+person: 87%
+person: 87%
+person: 66%
+person: 100%
+person: 100%
+car: 98%
+stable_diffusion_results/12_boy_0.png: Predicted in 7.770365 seconds.
+vase: 95%
+stable_diffusion_results/12_boy_1.png: Predicted in 7.773274 seconds.
+stable_diffusion_results/12_boy_2.png: Predicted in 7.911502 seconds.
+vase: 82%
+stable_diffusion_results/12_boy_3.png: Predicted in 7.885885 seconds.
+stable_diffusion_results/12_boy_4.png: Predicted in 7.832345 seconds.
+person: 94%
+stable_diffusion_results/12_girl_0.png: Predicted in 7.881921 seconds.
+person: 96%
+stable_diffusion_results/12_girl_1.png: Predicted in 7.721526 seconds.
+person: 98%
+clock: 95%
+stable_diffusion_results/12_girl_2.png: Predicted in 7.748659 seconds.
+stable_diffusion_results/12_girl_3.png: Predicted in 7.939707 seconds.
+cell phone: 79%
+person: 100%
+stable_diffusion_results/12_girl_4.png: Predicted in 7.639428 seconds.
+vase: 99%
+person: 79%
+stable_diffusion_results/12_man_0.png: Predicted in 8.154054 seconds.
+stable_diffusion_results/12_man_1.png: Predicted in 8.206982 seconds.
+vase: 98%
+person: 57%
+stable_diffusion_results/12_man_2.png: Predicted in 8.294172 seconds.
+person: 100%
+stable_diffusion_results/12_man_3.png: Predicted in 8.848474 seconds.
+vase: 74%
+stable_diffusion_results/12_man_4.png: Predicted in 8.246753 seconds.
+vase: 65%
+stable_diffusion_results/12_woman_0.png: Predicted in 8.043508 seconds.
+vase: 98%
+stable_diffusion_results/12_woman_1.png: Predicted in 8.076445 seconds.
+person: 96%
+stable_diffusion_results/12_woman_2.png: Predicted in 7.917421 seconds.
+orange: 57%
+stable_diffusion_results/12_woman_3.png: Predicted in 8.052370 seconds.
+vase: 98%
+stable_diffusion_results/12_woman_4.png: Predicted in 7.999780 seconds.
+stable_diffusion_results/13_boy_0.png: Predicted in 8.163993 seconds.
+person: 100%
+stable_diffusion_results/13_boy_1.png: Predicted in 7.961080 seconds.
+person: 100%
+stable_diffusion_results/13_boy_2.png: Predicted in 8.093480 seconds.
+person: 100%
+stable_diffusion_results/13_boy_3.png: Predicted in 8.284682 seconds.
+tie: 95%
+person: 100%
+stable_diffusion_results/13_boy_4.png: Predicted in 8.027547 seconds.
+person: 100%
+stable_diffusion_results/13_girl_0.png: Predicted in 8.069845 seconds.
+person: 99%
+stable_diffusion_results/13_girl_1.png: Predicted in 8.514447 seconds.
+person: 100%
+sports ball: 64%
+stable_diffusion_results/13_girl_2.png: Predicted in 8.066289 seconds.
+person: 100%
+stable_diffusion_results/13_girl_3.png: Predicted in 8.018565 seconds.
+person: 99%
+stable_diffusion_results/13_girl_4.png: Predicted in 8.088491 seconds.
+person: 99%
+stable_diffusion_results/13_man_0.png: Predicted in 7.678064 seconds.
+person: 100%
+stable_diffusion_results/13_man_1.png: Predicted in 7.980557 seconds.
+person: 100%
+stable_diffusion_results/13_man_2.png: Predicted in 8.269468 seconds.
+person: 95%
+stable_diffusion_results/13_man_3.png: Predicted in 8.391083 seconds.
+person: 100%
+stable_diffusion_results/13_man_4.png: Predicted in 7.681567 seconds.
+person: 100%
+stable_diffusion_results/13_woman_0.png: Predicted in 7.767675 seconds.
+person: 100%
+stable_diffusion_results/13_woman_1.png: Predicted in 7.992193 seconds.
+orange: 69%
+person: 99%
+stable_diffusion_results/13_woman_2.png: Predicted in 8.057443 seconds.
+person: 100%
+stable_diffusion_results/13_woman_3.png: Predicted in 8.064608 seconds.
+person: 99%
+stable_diffusion_results/13_woman_4.png: Predicted in 8.063642 seconds.
+person: 100%
+stable_diffusion_results/14_boy_0.png: Predicted in 8.189727 seconds.
+cell phone: 100%
+stable_diffusion_results/14_boy_1.png: Predicted in 7.795192 seconds.
+scissors: 74%
+stable_diffusion_results/14_boy_2.png: Predicted in 7.911542 seconds.
+cell phone: 61%
+cell phone: 55%
+person: 60%
+person: 100%
+tvmonitor: 51%
+car: 66%
+stable_diffusion_results/14_boy_3.png: Predicted in 7.937718 seconds.
+cell phone: 72%
+stable_diffusion_results/14_boy_4.png: Predicted in 7.955426 seconds.
+scissors: 50%
+stable_diffusion_results/14_girl_0.png: Predicted in 8.042019 seconds.
+cell phone: 100%
+cell phone: 99%
+diningtable: 78%
+handbag: 58%
+stable_diffusion_results/14_girl_1.png: Predicted in 7.815701 seconds.
+cell phone: 76%
+stable_diffusion_results/14_girl_2.png: Predicted in 7.734452 seconds.
+cell phone: 99%
+person: 98%
+person: 98%
+person: 98%
+person: 96%
+person: 96%
+person: 94%
+person: 94%
+person: 88%
+person: 87%
+person: 86%
+person: 71%
+person: 67%
+person: 57%
+person: 57%
+person: 52%
+person: 52%
+person: 99%
+pizza: 63%
+stable_diffusion_results/14_girl_3.png: Predicted in 7.909300 seconds.
+stable_diffusion_results/14_girl_4.png: Predicted in 7.700285 seconds.
+cell phone: 98%
+stable_diffusion_results/14_man_0.png: Predicted in 7.910504 seconds.
+handbag: 98%
+stable_diffusion_results/14_man_1.png: Predicted in 7.908041 seconds.
+stable_diffusion_results/14_man_2.png: Predicted in 7.751339 seconds.
+book: 62%
+person: 98%
+car: 96%
+suitcase: 65%
+backpack: 55%
+stable_diffusion_results/14_man_3.png: Predicted in 7.955604 seconds.
+tie: 84%
+person: 84%
+bicycle: 96%
+dog: 79%
+bicycle: 57%
+stable_diffusion_results/14_man_4.png: Predicted in 7.845207 seconds.
+stable_diffusion_results/14_woman_0.png: Predicted in 7.847994 seconds.
+stable_diffusion_results/14_woman_1.png: Predicted in 7.765562 seconds.
+stable_diffusion_results/14_woman_2.png: Predicted in 7.882504 seconds.
+bed: 53%
+person: 97%
+person: 66%
+person: 57%
+person: 79%
+pottedplant: 92%
+stable_diffusion_results/14_woman_3.png: Predicted in 7.923035 seconds.
+handbag: 84%
+stable_diffusion_results/14_woman_4.png: Predicted in 7.865409 seconds.
+person: 94%
+person: 84%
+person: 76%
+person: 73%
+person: 100%
+person: 99%
+person: 94%
+handbag: 97%
+stable_diffusion_results/15_boy_0.png: Predicted in 7.962244 seconds.
+stable_diffusion_results/15_boy_1.png: Predicted in 7.942746 seconds.
+scissors: 63%
+knife: 51%
+stable_diffusion_results/15_boy_2.png: Predicted in 7.810879 seconds.
+stable_diffusion_results/15_boy_3.png: Predicted in 8.197292 seconds.
+stable_diffusion_results/15_boy_4.png: Predicted in 7.873591 seconds.
+stable_diffusion_results/15_girl_0.png: Predicted in 8.297915 seconds.
+stable_diffusion_results/15_girl_1.png: Predicted in 7.974011 seconds.
+stable_diffusion_results/15_girl_2.png: Predicted in 7.841672 seconds.
+stable_diffusion_results/15_girl_3.png: Predicted in 8.064935 seconds.
+stable_diffusion_results/15_girl_4.png: Predicted in 7.616535 seconds.
+stable_diffusion_results/15_man_0.png: Predicted in 7.829429 seconds.
+stable_diffusion_results/15_man_1.png: Predicted in 7.699508 seconds.
+stable_diffusion_results/15_man_2.png: Predicted in 7.726635 seconds.
+person: 100%
+stable_diffusion_results/15_man_3.png: Predicted in 7.886474 seconds.
+car: 91%
+stable_diffusion_results/15_man_4.png: Predicted in 7.983515 seconds.
+truck: 96%
+person: 99%
+person: 99%
+stable_diffusion_results/15_woman_0.png: Predicted in 7.920712 seconds.
+stable_diffusion_results/15_woman_1.png: Predicted in 7.578454 seconds.
+stable_diffusion_results/15_woman_2.png: Predicted in 7.785184 seconds.
+person: 99%
+stable_diffusion_results/15_woman_3.png: Predicted in 7.673098 seconds.
+car: 98%
+stable_diffusion_results/15_woman_4.png: Predicted in 7.848713 seconds.
+truck: 76%
+car: 55%
+stable_diffusion_results/16_boy_0.png: Predicted in 7.887158 seconds.
+person: 85%
+stable_diffusion_results/16_boy_1.png: Predicted in 7.798670 seconds.
+person: 91%
+stable_diffusion_results/16_boy_2.png: Predicted in 7.864649 seconds.
+person: 100%
+stable_diffusion_results/16_boy_3.png: Predicted in 7.659235 seconds.
+person: 96%
+stable_diffusion_results/16_boy_4.png: Predicted in 7.494045 seconds.
+person: 99%
+stable_diffusion_results/16_girl_0.png: Predicted in 7.738463 seconds.
+person: 99%
+stable_diffusion_results/16_girl_1.png: Predicted in 7.667453 seconds.
+person: 78%
+person: 98%
+stable_diffusion_results/16_girl_2.png: Predicted in 7.759868 seconds.
+toothbrush: 63%
+person: 100%
+umbrella: 81%
+stable_diffusion_results/16_girl_3.png: Predicted in 7.759804 seconds.
+person: 70%
+stable_diffusion_results/16_girl_4.png: Predicted in 7.641414 seconds.
+person: 78%
+stable_diffusion_results/16_man_0.png: Predicted in 7.713898 seconds.
+stable_diffusion_results/16_man_1.png: Predicted in 7.788906 seconds.
+person: 100%
+stable_diffusion_results/16_man_2.png: Predicted in 7.635744 seconds.
+person: 100%
+stable_diffusion_results/16_man_3.png: Predicted in 7.747864 seconds.
+person: 100%
+stable_diffusion_results/16_man_4.png: Predicted in 7.739023 seconds.
+person: 100%
+stable_diffusion_results/16_woman_0.png: Predicted in 7.715188 seconds.
+person: 99%
+stable_diffusion_results/16_woman_1.png: Predicted in 7.785758 seconds.
+person: 99%
+stable_diffusion_results/16_woman_2.png: Predicted in 7.622136 seconds.
+person: 100%
+stable_diffusion_results/16_woman_3.png: Predicted in 7.634329 seconds.
+person: 98%
+stable_diffusion_results/16_woman_4.png: Predicted in 7.600555 seconds.
+person: 93%
+stable_diffusion_results/17_boy_0.png: Predicted in 7.823110 seconds.
+person: 91%
+stable_diffusion_results/17_boy_1.png: Predicted in 7.762192 seconds.
+person: 100%
+stable_diffusion_results/17_boy_2.png: Predicted in 7.768225 seconds.
+person: 100%
+stable_diffusion_results/17_boy_3.png: Predicted in 8.095223 seconds.
+stable_diffusion_results/17_boy_4.png: Predicted in 7.584606 seconds.
+wine glass: 73%
+stable_diffusion_results/17_girl_0.png: Predicted in 7.537618 seconds.
+person: 88%
+stable_diffusion_results/17_girl_1.png: Predicted in 7.534924 seconds.
+person: 98%
+stable_diffusion_results/17_girl_2.png: Predicted in 7.697318 seconds.
+stable_diffusion_results/17_girl_3.png: Predicted in 7.578589 seconds.
+person: 98%
+stable_diffusion_results/17_girl_4.png: Predicted in 7.700151 seconds.
+vase: 52%
+stable_diffusion_results/17_man_0.png: Predicted in 7.780761 seconds.
+tie: 96%
+person: 100%
+stable_diffusion_results/17_man_1.png: Predicted in 7.861487 seconds.
+tie: 97%
+person: 99%
+stable_diffusion_results/17_man_2.png: Predicted in 7.849597 seconds.
+stable_diffusion_results/17_man_3.png: Predicted in 7.444973 seconds.
+person: 88%
+stable_diffusion_results/17_man_4.png: Predicted in 7.591213 seconds.
+stable_diffusion_results/17_woman_0.png: Predicted in 7.809722 seconds.
+person: 86%
+stable_diffusion_results/17_woman_1.png: Predicted in 7.710662 seconds.
+stable_diffusion_results/17_woman_2.png: Predicted in 7.838297 seconds.
+vase: 97%
+stable_diffusion_results/17_woman_3.png: Predicted in 7.740325 seconds.
+stable_diffusion_results/17_woman_4.png: Predicted in 7.760107 seconds.
+stable_diffusion_results/18_boy_0.png: Predicted in 7.654014 seconds.
+stable_diffusion_results/18_boy_1.png: Predicted in 8.157772 seconds.
+stable_diffusion_results/18_boy_2.png: Predicted in 7.925241 seconds.
+stable_diffusion_results/18_boy_3.png: Predicted in 8.003352 seconds.
+scissors: 70%
+stable_diffusion_results/18_boy_4.png: Predicted in 8.057238 seconds.
+bottle: 69%
+stable_diffusion_results/18_girl_0.png: Predicted in 7.745997 seconds.
+stable_diffusion_results/18_girl_1.png: Predicted in 7.875514 seconds.
+mouse: 61%
+stable_diffusion_results/18_girl_2.png: Predicted in 7.740028 seconds.
+handbag: 62%
+stable_diffusion_results/18_girl_3.png: Predicted in 7.865826 seconds.
+stable_diffusion_results/18_girl_4.png: Predicted in 7.715796 seconds.
+stable_diffusion_results/18_man_0.png: Predicted in 7.830380 seconds.
+bowl: 52%
+apple: 50%
+stable_diffusion_results/18_man_1.png: Predicted in 7.994968 seconds.
+cell phone: 87%
+stable_diffusion_results/18_man_2.png: Predicted in 7.763411 seconds.
+clock: 80%
+stable_diffusion_results/18_man_3.png: Predicted in 7.930504 seconds.
+cell phone: 82%
+cell phone: 58%
+stable_diffusion_results/18_man_4.png: Predicted in 7.880745 seconds.
+cell phone: 99%
+stable_diffusion_results/18_woman_0.png: Predicted in 7.885277 seconds.
+stable_diffusion_results/18_woman_1.png: Predicted in 7.498444 seconds.
+stable_diffusion_results/18_woman_2.png: Predicted in 7.526809 seconds.
+handbag: 77%
+stable_diffusion_results/18_woman_3.png: Predicted in 7.709586 seconds.
+knife: 53%
+stable_diffusion_results/18_woman_4.png: Predicted in 7.727171 seconds.
+stable_diffusion_results/19_boy_0.png: Predicted in 7.780983 seconds.
+stable_diffusion_results/19_boy_1.png: Predicted in 7.728814 seconds.
+clock: 75%
+handbag: 93%
+stable_diffusion_results/19_boy_2.png: Predicted in 7.656828 seconds.
+stable_diffusion_results/19_boy_3.png: Predicted in 7.741177 seconds.
+stable_diffusion_results/19_boy_4.png: Predicted in 7.701240 seconds.
+person: 95%
+stable_diffusion_results/19_girl_0.png: Predicted in 7.740815 seconds.
+stable_diffusion_results/19_girl_1.png: Predicted in 7.716702 seconds.
+stable_diffusion_results/19_girl_2.png: Predicted in 7.671763 seconds.
+stable_diffusion_results/19_girl_3.png: Predicted in 7.689000 seconds.
+cell phone: 87%
+stable_diffusion_results/19_girl_4.png: Predicted in 7.698176 seconds.
+clock: 56%
+stable_diffusion_results/19_man_0.png: Predicted in 7.663638 seconds.
+stable_diffusion_results/19_man_1.png: Predicted in 7.715057 seconds.
+cell phone: 78%
+stable_diffusion_results/19_man_2.png: Predicted in 7.780273 seconds.
+cell phone: 98%
+stable_diffusion_results/19_man_3.png: Predicted in 7.804407 seconds.
+cell phone: 76%
+knife: 52%
+knife: 51%
+knife: 93%
+stable_diffusion_results/19_man_4.png: Predicted in 7.550493 seconds.
+stable_diffusion_results/19_woman_0.png: Predicted in 7.527485 seconds.
+stable_diffusion_results/19_woman_1.png: Predicted in 7.474880 seconds.
+stable_diffusion_results/19_woman_2.png: Predicted in 7.566560 seconds.
+stable_diffusion_results/19_woman_3.png: Predicted in 7.562070 seconds.
+toothbrush: 56%
+stable_diffusion_results/19_woman_4.png: Predicted in 7.688628 seconds.
+stable_diffusion_results/1_boy_0.png: Predicted in 7.731748 seconds.
+person: 89%
+stable_diffusion_results/1_boy_1.png: Predicted in 7.714164 seconds.
+person: 100%
+stable_diffusion_results/1_boy_2.png: Predicted in 7.505392 seconds.
+person: 97%
+stable_diffusion_results/1_boy_3.png: Predicted in 7.687812 seconds.
+person: 100%
+stable_diffusion_results/1_boy_4.png: Predicted in 7.709263 seconds.
+person: 100%
+stable_diffusion_results/1_girl_0.png: Predicted in 7.683369 seconds.
+person: 99%
+stable_diffusion_results/1_girl_1.png: Predicted in 7.801967 seconds.
+person: 98%
+stable_diffusion_results/1_girl_2.png: Predicted in 7.822037 seconds.
+orange: 77%
+person: 100%
+stable_diffusion_results/1_girl_3.png: Predicted in 7.732916 seconds.
+person: 100%
+skateboard: 57%
+stable_diffusion_results/1_girl_4.png: Predicted in 7.540506 seconds.
+person: 99%
+stable_diffusion_results/1_man_0.png: Predicted in 7.703375 seconds.
+person: 100%
+stable_diffusion_results/1_man_1.png: Predicted in 7.579049 seconds.
+tie: 82%
+person: 79%
+person: 53%
+stable_diffusion_results/1_man_2.png: Predicted in 7.610103 seconds.
+person: 89%
+stable_diffusion_results/1_man_3.png: Predicted in 7.600156 seconds.
+person: 100%
+stable_diffusion_results/1_man_4.png: Predicted in 7.596448 seconds.
+person: 100%
+stable_diffusion_results/1_woman_0.png: Predicted in 7.762362 seconds.
+person: 100%
+stable_diffusion_results/1_woman_1.png: Predicted in 7.666858 seconds.
+person: 100%
+stable_diffusion_results/1_woman_2.png: Predicted in 7.669219 seconds.
+person: 100%
+sports ball: 97%
+stable_diffusion_results/1_woman_3.png: Predicted in 7.798885 seconds.
+person: 99%
+stable_diffusion_results/1_woman_4.png: Predicted in 7.692201 seconds.
+person: 94%
+stable_diffusion_results/20_boy_0.png: Predicted in 7.587737 seconds.
+person: 99%
+stable_diffusion_results/20_boy_1.png: Predicted in 7.627587 seconds.
+person: 100%
+stable_diffusion_results/20_boy_2.png: Predicted in 7.585523 seconds.
+tie: 50%
+stable_diffusion_results/20_boy_3.png: Predicted in 7.667509 seconds.
+person: 100%
+stable_diffusion_results/20_boy_4.png: Predicted in 7.748559 seconds.
+person: 99%
+stable_diffusion_results/20_girl_0.png: Predicted in 7.613820 seconds.
+stable_diffusion_results/20_girl_1.png: Predicted in 8.104654 seconds.
+person: 99%
+stable_diffusion_results/20_girl_2.png: Predicted in 7.904340 seconds.
+stable_diffusion_results/20_girl_3.png: Predicted in 7.932041 seconds.
+person: 97%
+stable_diffusion_results/20_girl_4.png: Predicted in 8.009370 seconds.
+person: 100%
+stable_diffusion_results/20_man_0.png: Predicted in 7.938449 seconds.
+tie: 89%
+person: 90%
+stable_diffusion_results/20_man_1.png: Predicted in 7.604902 seconds.
+tie: 84%
+person: 100%
+stable_diffusion_results/20_man_2.png: Predicted in 7.724502 seconds.
+person: 99%
+stable_diffusion_results/20_man_3.png: Predicted in 7.660082 seconds.
+person: 100%
+stable_diffusion_results/20_man_4.png: Predicted in 7.771575 seconds.
+tie: 81%
+person: 98%
+stable_diffusion_results/20_woman_0.png: Predicted in 7.744981 seconds.
+stable_diffusion_results/20_woman_1.png: Predicted in 7.697581 seconds.
+person: 97%
+stable_diffusion_results/20_woman_2.png: Predicted in 8.794879 seconds.
+person: 99%
+stable_diffusion_results/20_woman_3.png: Predicted in 7.790282 seconds.
+person: 98%
+stable_diffusion_results/20_woman_4.png: Predicted in 7.817840 seconds.
+person: 99%
+stable_diffusion_results/21_boy_0.png: Predicted in 7.708443 seconds.
+person: 97%
+stable_diffusion_results/21_boy_1.png: Predicted in 7.809781 seconds.
+stable_diffusion_results/21_boy_2.png: Predicted in 7.744516 seconds.
+scissors: 54%
+stable_diffusion_results/21_boy_3.png: Predicted in 7.783608 seconds.
+stable_diffusion_results/21_boy_4.png: Predicted in 7.812654 seconds.
+scissors: 59%
+stable_diffusion_results/21_girl_0.png: Predicted in 7.959852 seconds.
+stable_diffusion_results/21_girl_1.png: Predicted in 7.810182 seconds.
+cell phone: 90%
+stable_diffusion_results/21_girl_2.png: Predicted in 7.739870 seconds.
+person: 90%
+stable_diffusion_results/21_girl_3.png: Predicted in 7.998868 seconds.
+handbag: 95%
+person: 84%
+stable_diffusion_results/21_girl_4.png: Predicted in 8.248036 seconds.
+cell phone: 66%
+tvmonitor: 53%
+stable_diffusion_results/21_man_0.png: Predicted in 7.759160 seconds.
+chair: 100%
+chair: 88%
+stable_diffusion_results/21_man_1.png: Predicted in 7.708921 seconds.
+stable_diffusion_results/21_man_2.png: Predicted in 7.625906 seconds.
+book: 57%
+stable_diffusion_results/21_man_3.png: Predicted in 7.945486 seconds.
+person: 98%
+stable_diffusion_results/21_man_4.png: Predicted in 7.833183 seconds.
+cup: 79%
+person: 93%
+stable_diffusion_results/21_woman_0.png: Predicted in 7.838083 seconds.
+bed: 71%
+bed: 54%
+stable_diffusion_results/21_woman_1.png: Predicted in 7.819192 seconds.
+person: 97%
+stable_diffusion_results/21_woman_2.png: Predicted in 7.891215 seconds.
+bowl: 79%
+sports ball: 96%
+person: 99%
+stable_diffusion_results/21_woman_3.png: Predicted in 7.883151 seconds.
+person: 99%
+stable_diffusion_results/21_woman_4.png: Predicted in 7.867857 seconds.
+person: 58%
+stable_diffusion_results/22_boy_0.png: Predicted in 7.870887 seconds.
+person: 98%
+person: 100%
+stable_diffusion_results/22_boy_1.png: Predicted in 7.545461 seconds.
+person: 99%
+stable_diffusion_results/22_boy_2.png: Predicted in 7.933072 seconds.
+person: 68%
+person: 100%
+stable_diffusion_results/22_boy_3.png: Predicted in 7.646529 seconds.
+person: 91%
+person: 98%
+stable_diffusion_results/22_boy_4.png: Predicted in 7.900311 seconds.
+person: 100%
+stable_diffusion_results/22_girl_0.png: Predicted in 7.769480 seconds.
+person: 97%
+stable_diffusion_results/22_girl_1.png: Predicted in 7.831163 seconds.
+person: 97%
+stable_diffusion_results/22_girl_2.png: Predicted in 7.745736 seconds.
+bench: 52%
+person: 99%
+stable_diffusion_results/22_girl_3.png: Predicted in 7.715024 seconds.
+stable_diffusion_results/22_girl_4.png: Predicted in 8.260891 seconds.
+person: 100%
+stable_diffusion_results/22_man_0.png: Predicted in 7.718116 seconds.
+person: 100%
+stable_diffusion_results/22_man_1.png: Predicted in 7.885564 seconds.
+person: 94%
+stable_diffusion_results/22_man_2.png: Predicted in 7.666107 seconds.
+tie: 92%
+person: 77%
+stable_diffusion_results/22_man_3.png: Predicted in 7.703220 seconds.
+person: 83%
+stable_diffusion_results/22_man_4.png: Predicted in 8.019837 seconds.
+tie: 81%
+person: 99%
+person: 87%
+stable_diffusion_results/22_woman_0.png: Predicted in 7.684429 seconds.
+person: 100%
+stable_diffusion_results/22_woman_1.png: Predicted in 7.796224 seconds.
+person: 99%
+stable_diffusion_results/22_woman_2.png: Predicted in 7.667257 seconds.
+person: 100%
+stable_diffusion_results/22_woman_3.png: Predicted in 7.731352 seconds.
+person: 100%
+stable_diffusion_results/22_woman_4.png: Predicted in 7.742321 seconds.
+person: 98%
+stable_diffusion_results/23_boy_0.png: Predicted in 7.603341 seconds.
+person: 99%
+stable_diffusion_results/23_boy_1.png: Predicted in 7.675908 seconds.
+person: 100%
+person: 82%
+person: 100%
+stable_diffusion_results/23_boy_2.png: Predicted in 7.764865 seconds.
+person: 76%
+person: 97%
+stable_diffusion_results/23_boy_3.png: Predicted in 7.894608 seconds.
+person: 100%
+stable_diffusion_results/23_boy_4.png: Predicted in 7.753118 seconds.
+person: 100%
+stable_diffusion_results/23_girl_0.png: Predicted in 7.698670 seconds.
+person: 91%
+person: 57%
+person: 57%
+person: 99%
+stable_diffusion_results/23_girl_1.png: Predicted in 7.849902 seconds.
+person: 99%
+person: 99%
+person: 99%
+person: 96%
+person: 64%
+person: 51%
+person: 100%
+stable_diffusion_results/23_girl_2.png: Predicted in 7.794097 seconds.
+person: 100%
+person: 56%
+car: 56%
+stable_diffusion_results/23_girl_3.png: Predicted in 7.772311 seconds.
+person: 83%
+stable_diffusion_results/23_girl_4.png: Predicted in 7.659812 seconds.
+person: 97%
+person: 85%
+person: 99%
+handbag: 86%
+stable_diffusion_results/23_man_0.png: Predicted in 7.689919 seconds.
+person: 99%
+stable_diffusion_results/23_man_1.png: Predicted in 7.703469 seconds.
+person: 99%
+stable_diffusion_results/23_man_2.png: Predicted in 7.740148 seconds.
+umbrella: 87%
+umbrella: 75%
+person: 99%
+person: 100%
+person: 90%
+person: 88%
+person: 70%
+person: 64%
+person: 52%
+person: 100%
+stable_diffusion_results/23_man_3.png: Predicted in 7.742444 seconds.
+person: 99%
+stable_diffusion_results/23_man_4.png: Predicted in 7.733312 seconds.
+person: 90%
+person: 100%
+stable_diffusion_results/23_woman_0.png: Predicted in 7.617119 seconds.
+person: 99%
+stable_diffusion_results/23_woman_1.png: Predicted in 7.661803 seconds.
+person: 100%
+stable_diffusion_results/23_woman_2.png: Predicted in 7.887468 seconds.
+umbrella: 59%
+person: 100%
+person: 95%
+person: 89%
+person: 86%
+person: 75%
+person: 100%
+person: 62%
+person: 73%
+stable_diffusion_results/23_woman_3.png: Predicted in 7.619135 seconds.
+surfboard: 56%
+person: 97%
+stable_diffusion_results/23_woman_4.png: Predicted in 7.743255 seconds.
+person: 85%
+person: 99%
+stable_diffusion_results/24_boy_0.png: Predicted in 7.735999 seconds.
+bench: 60%
+person: 100%
+stable_diffusion_results/24_boy_1.png: Predicted in 8.144307 seconds.
+bicycle: 99%
+person: 100%
+stable_diffusion_results/24_boy_2.png: Predicted in 7.962882 seconds.
+person: 100%
+stable_diffusion_results/24_boy_3.png: Predicted in 7.851407 seconds.
+person: 99%
+stable_diffusion_results/24_boy_4.png: Predicted in 7.871058 seconds.
+stable_diffusion_results/24_girl_0.png: Predicted in 7.574444 seconds.
+bottle: 77%
+bottle: 64%
+person: 100%
+stable_diffusion_results/24_girl_1.png: Predicted in 8.229522 seconds.
+cell phone: 73%
+cell phone: 68%
+stable_diffusion_results/24_girl_2.png: Predicted in 7.824209 seconds.
+cell phone: 53%
+person: 69%
+person: 94%
+stable_diffusion_results/24_girl_3.png: Predicted in 7.770112 seconds.
+handbag: 74%
+person: 86%
+stable_diffusion_results/24_girl_4.png: Predicted in 7.577282 seconds.
+teddy bear: 60%
+teddy bear: 60%
+person: 93%
+stable_diffusion_results/24_man_0.png: Predicted in 7.662411 seconds.
+cell phone: 54%
+person: 84%
+stable_diffusion_results/24_man_1.png: Predicted in 7.840696 seconds.
+cat: 57%
+person: 100%
+stable_diffusion_results/24_man_2.png: Predicted in 7.592664 seconds.
+person: 100%
+stable_diffusion_results/24_man_3.png: Predicted in 7.609861 seconds.
+person: 100%
+handbag: 58%
+stable_diffusion_results/24_man_4.png: Predicted in 7.702791 seconds.
+orange: 78%
+person: 100%
+stable_diffusion_results/24_woman_0.png: Predicted in 7.616038 seconds.
+person: 99%
+stable_diffusion_results/24_woman_1.png: Predicted in 7.622398 seconds.
+stable_diffusion_results/24_woman_2.png: Predicted in 7.980516 seconds.
+person: 100%
+stable_diffusion_results/24_woman_3.png: Predicted in 8.097048 seconds.
+person: 100%
+stable_diffusion_results/24_woman_4.png: Predicted in 7.734824 seconds.
+person: 99%
+stable_diffusion_results/25_boy_0.png: Predicted in 7.721307 seconds.
+person: 100%
+person: 100%
+baseball bat: 56%
+stable_diffusion_results/25_boy_1.png: Predicted in 7.583670 seconds.
+person: 100%
+stable_diffusion_results/25_boy_2.png: Predicted in 7.781151 seconds.
+person: 100%
+stable_diffusion_results/25_boy_3.png: Predicted in 7.779018 seconds.
+person: 99%
+stable_diffusion_results/25_boy_4.png: Predicted in 7.746141 seconds.
+person: 96%
+baseball bat: 71%
+stable_diffusion_results/25_girl_0.png: Predicted in 7.882035 seconds.
+person: 100%
+stable_diffusion_results/25_girl_1.png: Predicted in 7.590326 seconds.
+person: 100%
+stable_diffusion_results/25_girl_2.png: Predicted in 7.764736 seconds.
+person: 100%
+stable_diffusion_results/25_girl_3.png: Predicted in 7.736903 seconds.
+person: 99%
+stable_diffusion_results/25_girl_4.png: Predicted in 7.955154 seconds.
+person: 100%
+handbag: 86%
+stable_diffusion_results/25_man_0.png: Predicted in 7.874706 seconds.
+person: 100%
+stable_diffusion_results/25_man_1.png: Predicted in 7.777608 seconds.
+person: 76%
+stable_diffusion_results/25_man_2.png: Predicted in 8.005666 seconds.
+person: 100%
+stable_diffusion_results/25_man_3.png: Predicted in 7.614968 seconds.
+person: 99%
+stable_diffusion_results/25_man_4.png: Predicted in 7.620451 seconds.
+person: 100%
+stable_diffusion_results/25_woman_0.png: Predicted in 7.763223 seconds.
+person: 100%
+stable_diffusion_results/25_woman_1.png: Predicted in 7.723062 seconds.
+person: 95%
+stable_diffusion_results/25_woman_2.png: Predicted in 7.941017 seconds.
+person: 100%
+fork: 59%
+stable_diffusion_results/25_woman_3.png: Predicted in 7.832578 seconds.
+bowl: 56%
+person: 99%
+cup: 79%
+stable_diffusion_results/25_woman_4.png: Predicted in 7.762601 seconds.
+vase: 56%
+person: 93%
+stable_diffusion_results/26_boy_0.png: Predicted in 7.861043 seconds.
+person: 100%
+stable_diffusion_results/26_boy_1.png: Predicted in 7.836430 seconds.
+person: 99%
+stable_diffusion_results/26_boy_2.png: Predicted in 7.746206 seconds.
+person: 100%
+stable_diffusion_results/26_boy_3.png: Predicted in 7.824933 seconds.
+person: 100%
+stable_diffusion_results/26_boy_4.png: Predicted in 7.932048 seconds.
+tie: 71%
+person: 100%
+stable_diffusion_results/26_girl_0.png: Predicted in 7.875035 seconds.
+person: 99%
+stable_diffusion_results/26_girl_1.png: Predicted in 7.667569 seconds.
+person: 98%
+stable_diffusion_results/26_girl_2.png: Predicted in 7.644433 seconds.
+person: 99%
+sports ball: 69%
+stable_diffusion_results/26_girl_3.png: Predicted in 7.712405 seconds.
+person: 100%
+stable_diffusion_results/26_girl_4.png: Predicted in 7.745378 seconds.
+person: 100%
+stable_diffusion_results/26_man_0.png: Predicted in 7.838520 seconds.
+person: 100%
+stable_diffusion_results/26_man_1.png: Predicted in 7.751826 seconds.
+person: 97%
+stable_diffusion_results/26_man_2.png: Predicted in 7.911761 seconds.
+orange: 61%
+person: 100%
+stable_diffusion_results/26_man_3.png: Predicted in 7.940037 seconds.
+person: 73%
+person: 100%
+stable_diffusion_results/26_man_4.png: Predicted in 7.687098 seconds.
+person: 73%
+person: 58%
+stable_diffusion_results/26_woman_0.png: Predicted in 7.597716 seconds.
+person: 98%
+stable_diffusion_results/26_woman_1.png: Predicted in 7.740433 seconds.
+person: 100%
+stable_diffusion_results/26_woman_2.png: Predicted in 7.793617 seconds.
+person: 71%
+person: 88%
+stable_diffusion_results/26_woman_3.png: Predicted in 7.916268 seconds.
+person: 100%
+stable_diffusion_results/26_woman_4.png: Predicted in 8.016243 seconds.
+person: 99%
+stable_diffusion_results/27_boy_0.png: Predicted in 7.782655 seconds.
+tie: 100%
+person: 100%
+stable_diffusion_results/27_boy_1.png: Predicted in 7.691430 seconds.
+person: 100%
+baseball bat: 93%
+stable_diffusion_results/27_boy_2.png: Predicted in 8.161386 seconds.
+person: 100%
+stable_diffusion_results/27_boy_3.png: Predicted in 8.030430 seconds.
+person: 100%
+baseball bat: 55%
+stable_diffusion_results/27_boy_4.png: Predicted in 7.876903 seconds.
+person: 100%
+stable_diffusion_results/27_girl_0.png: Predicted in 7.942285 seconds.
+person: 100%
+stable_diffusion_results/27_girl_1.png: Predicted in 8.055548 seconds.
+frisbee: 82%
+person: 100%
+stable_diffusion_results/27_girl_2.png: Predicted in 8.280655 seconds.
+umbrella: 55%
+person: 100%
+stable_diffusion_results/27_girl_3.png: Predicted in 7.991074 seconds.
+tie: 84%
+person: 100%
+stable_diffusion_results/27_girl_4.png: Predicted in 7.697134 seconds.
+person: 100%
+stable_diffusion_results/27_man_0.png: Predicted in 7.774681 seconds.
+tie: 54%
+person: 100%
+stable_diffusion_results/27_man_1.png: Predicted in 8.130908 seconds.
+tie: 98%
+person: 100%
+stable_diffusion_results/27_man_2.png: Predicted in 8.138401 seconds.
+person: 100%
+stable_diffusion_results/27_man_3.png: Predicted in 7.694726 seconds.
+person: 100%
+stable_diffusion_results/27_man_4.png: Predicted in 8.107935 seconds.
+tie: 67%
+person: 99%
+stable_diffusion_results/27_woman_0.png: Predicted in 7.473972 seconds.
+person: 100%
+stable_diffusion_results/27_woman_1.png: Predicted in 7.625399 seconds.
+person: 100%
+stable_diffusion_results/27_woman_2.png: Predicted in 7.863158 seconds.
+person: 100%
+stable_diffusion_results/27_woman_3.png: Predicted in 7.674756 seconds.
+person: 100%
+stable_diffusion_results/27_woman_4.png: Predicted in 7.697597 seconds.
+person: 100%
+stable_diffusion_results/28_boy_0.png: Predicted in 7.720101 seconds.
+bed: 51%
+person: 100%
+stable_diffusion_results/28_boy_1.png: Predicted in 7.882182 seconds.
+person: 100%
+stable_diffusion_results/28_boy_2.png: Predicted in 7.691568 seconds.
+person: 99%
+stable_diffusion_results/28_boy_3.png: Predicted in 7.767573 seconds.
+person: 100%
+stable_diffusion_results/28_boy_4.png: Predicted in 7.779777 seconds.
+person: 99%
+stable_diffusion_results/28_girl_0.png: Predicted in 7.839090 seconds.
+person: 96%
+stable_diffusion_results/28_girl_1.png: Predicted in 7.610661 seconds.
+person: 97%
+stable_diffusion_results/28_girl_2.png: Predicted in 7.802056 seconds.
+person: 56%
+person: 98%
+stable_diffusion_results/28_girl_3.png: Predicted in 7.752905 seconds.
+toothbrush: 76%
+person: 100%
+stable_diffusion_results/28_girl_4.png: Predicted in 7.591512 seconds.
+person: 95%
+stable_diffusion_results/28_man_0.png: Predicted in 7.652770 seconds.
+clock: 65%
+person: 100%
+stable_diffusion_results/28_man_1.png: Predicted in 7.770284 seconds.
+person: 99%
+stable_diffusion_results/28_man_2.png: Predicted in 7.553144 seconds.
+person: 97%
+stable_diffusion_results/28_man_3.png: Predicted in 7.563188 seconds.
+chair: 56%
+person: 99%
+stable_diffusion_results/28_man_4.png: Predicted in 7.711006 seconds.
+person: 83%
+stable_diffusion_results/28_woman_0.png: Predicted in 7.652372 seconds.
+tvmonitor: 85%
+orange: 77%
+person: 99%
+mouse: 51%
+stable_diffusion_results/28_woman_1.png: Predicted in 7.587475 seconds.
+person: 100%
+stable_diffusion_results/28_woman_2.png: Predicted in 7.773777 seconds.
+person: 94%
+stable_diffusion_results/28_woman_3.png: Predicted in 7.805415 seconds.
+mouse: 59%
+person: 100%
+stable_diffusion_results/28_woman_4.png: Predicted in 7.799613 seconds.
+person: 98%
+stable_diffusion_results/29_boy_0.png: Predicted in 7.797686 seconds.
+person: 100%
+person: 99%
+person: 98%
+person: 100%
+stable_diffusion_results/29_boy_1.png: Predicted in 7.737937 seconds.
+person: 65%
+person: 99%
+stable_diffusion_results/29_boy_2.png: Predicted in 7.774529 seconds.
+person: 100%
+person: 100%
+stable_diffusion_results/29_boy_3.png: Predicted in 7.677082 seconds.
+person: 98%
+person: 96%
+person: 100%
+stable_diffusion_results/29_boy_4.png: Predicted in 7.642099 seconds.
+person: 100%
+stable_diffusion_results/29_girl_0.png: Predicted in 7.747402 seconds.
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 98%
+person: 95%
+person: 92%
+person: 91%
+person: 100%
+stable_diffusion_results/29_girl_1.png: Predicted in 7.643027 seconds.
+person: 98%
+stable_diffusion_results/29_girl_2.png: Predicted in 7.662948 seconds.
+person: 100%
+stable_diffusion_results/29_girl_3.png: Predicted in 7.925145 seconds.
+person: 94%
+person: 88%
+person: 84%
+person: 98%
+stable_diffusion_results/29_girl_4.png: Predicted in 7.656827 seconds.
+person: 99%
+stable_diffusion_results/29_man_0.png: Predicted in 7.569872 seconds.
+person: 100%
+person: 100%
+person: 99%
+person: 98%
+person: 89%
+person: 100%
+stable_diffusion_results/29_man_1.png: Predicted in 7.773970 seconds.
+person: 98%
+person: 93%
+person: 73%
+stable_diffusion_results/29_man_2.png: Predicted in 7.606795 seconds.
+person: 99%
+stable_diffusion_results/29_man_3.png: Predicted in 7.653816 seconds.
+person: 100%
+person: 72%
+stable_diffusion_results/29_man_4.png: Predicted in 7.612802 seconds.
+person: 99%
+person: 98%
+person: 100%
+stable_diffusion_results/29_woman_0.png: Predicted in 7.640025 seconds.
+person: 97%
+person: 91%
+person: 85%
+person: 82%
+person: 80%
+person: 79%
+person: 98%
+stable_diffusion_results/29_woman_1.png: Predicted in 7.839839 seconds.
+person: 99%
+person: 100%
+stable_diffusion_results/29_woman_2.png: Predicted in 7.556087 seconds.
+person: 100%
+person: 89%
+stable_diffusion_results/29_woman_3.png: Predicted in 7.719915 seconds.
+person: 90%
+person: 80%
+person: 96%
+stable_diffusion_results/29_woman_4.png: Predicted in 7.723539 seconds.
+person: 93%
+person: 92%
+person: 100%
+stable_diffusion_results/2_boy_0.png: Predicted in 7.647770 seconds.
+person: 100%
+stable_diffusion_results/2_boy_1.png: Predicted in 7.677210 seconds.
+teddy bear: 52%
+person: 100%
+bench: 50%
+stable_diffusion_results/2_boy_2.png: Predicted in 7.674397 seconds.
+person: 100%
+stable_diffusion_results/2_boy_3.png: Predicted in 7.842454 seconds.
+person: 99%
+stable_diffusion_results/2_boy_4.png: Predicted in 7.502271 seconds.
+person: 100%
+stable_diffusion_results/2_girl_0.png: Predicted in 7.899828 seconds.
+person: 99%
+stable_diffusion_results/2_girl_1.png: Predicted in 7.582271 seconds.
+person: 100%
+stable_diffusion_results/2_girl_2.png: Predicted in 7.659199 seconds.
+book: 63%
+person: 100%
+stable_diffusion_results/2_girl_3.png: Predicted in 7.685096 seconds.
+person: 100%
+stable_diffusion_results/2_girl_4.png: Predicted in 7.692122 seconds.
+person: 100%
+stable_diffusion_results/2_man_0.png: Predicted in 7.872986 seconds.
+person: 100%
+stable_diffusion_results/2_man_1.png: Predicted in 7.747980 seconds.
+person: 100%
+sports ball: 86%
+stable_diffusion_results/2_man_2.png: Predicted in 8.037216 seconds.
+tie: 60%
+person: 100%
+stable_diffusion_results/2_man_3.png: Predicted in 7.612277 seconds.
+person: 100%
+stable_diffusion_results/2_man_4.png: Predicted in 7.755046 seconds.
+person: 99%
+stable_diffusion_results/2_woman_0.png: Predicted in 7.613973 seconds.
+person: 100%
+stable_diffusion_results/2_woman_1.png: Predicted in 7.662920 seconds.
+person: 100%
+stable_diffusion_results/2_woman_2.png: Predicted in 7.743685 seconds.
+person: 100%
+stable_diffusion_results/2_woman_3.png: Predicted in 7.868315 seconds.
+person: 98%
+stable_diffusion_results/2_woman_4.png: Predicted in 7.749942 seconds.
+person: 100%
+stable_diffusion_results/30_boy_0.png: Predicted in 7.739013 seconds.
+person: 100%
+stable_diffusion_results/30_boy_1.png: Predicted in 7.778257 seconds.
+person: 100%
+stable_diffusion_results/30_boy_2.png: Predicted in 7.562703 seconds.
+person: 100%
+stable_diffusion_results/30_boy_3.png: Predicted in 7.863031 seconds.
+person: 100%
+stable_diffusion_results/30_boy_4.png: Predicted in 7.619665 seconds.
+person: 100%
+stable_diffusion_results/30_girl_0.png: Predicted in 7.762162 seconds.
+person: 100%
+stable_diffusion_results/30_girl_1.png: Predicted in 7.622116 seconds.
+person: 100%
+stable_diffusion_results/30_girl_2.png: Predicted in 7.631518 seconds.
+person: 99%
+stable_diffusion_results/30_girl_3.png: Predicted in 7.584930 seconds.
+person: 100%
+stable_diffusion_results/30_girl_4.png: Predicted in 8.016234 seconds.
+person: 100%
+stable_diffusion_results/30_man_0.png: Predicted in 7.786173 seconds.
+person: 100%
+stable_diffusion_results/30_man_1.png: Predicted in 7.748781 seconds.
+person: 100%
+stable_diffusion_results/30_man_2.png: Predicted in 7.787517 seconds.
+person: 99%
+stable_diffusion_results/30_man_3.png: Predicted in 7.771967 seconds.
+person: 100%
+stable_diffusion_results/30_man_4.png: Predicted in 7.652322 seconds.
+person: 100%
+stable_diffusion_results/30_woman_0.png: Predicted in 7.796101 seconds.
+person: 100%
+stable_diffusion_results/30_woman_1.png: Predicted in 7.491887 seconds.
+person: 100%
+stable_diffusion_results/30_woman_2.png: Predicted in 7.468648 seconds.
+person: 100%
+stable_diffusion_results/30_woman_3.png: Predicted in 7.620989 seconds.
+cake: 67%
+person: 100%
+stable_diffusion_results/30_woman_4.png: Predicted in 8.097804 seconds.
+toilet: 80%
+bowl: 92%
+person: 99%
+bowl: 98%
+stable_diffusion_results/31_boy_0.png: Predicted in 7.751430 seconds.
+person: 100%
+stable_diffusion_results/31_boy_1.png: Predicted in 7.763337 seconds.
+person: 100%
+stable_diffusion_results/31_boy_2.png: Predicted in 7.780771 seconds.
+person: 100%
+stable_diffusion_results/31_boy_3.png: Predicted in 7.685868 seconds.
+person: 100%
+stable_diffusion_results/31_boy_4.png: Predicted in 7.572353 seconds.
+person: 97%
+stable_diffusion_results/31_girl_0.png: Predicted in 7.470812 seconds.
+person: 100%
+stable_diffusion_results/31_girl_1.png: Predicted in 7.682084 seconds.
+pizza: 59%
+person: 99%
+stable_diffusion_results/31_girl_2.png: Predicted in 7.648619 seconds.
+person: 100%
+stable_diffusion_results/31_girl_3.png: Predicted in 7.695007 seconds.
+person: 100%
+sports ball: 99%
+stable_diffusion_results/31_girl_4.png: Predicted in 7.732883 seconds.
+frisbee: 74%
+person: 100%
+stable_diffusion_results/31_man_0.png: Predicted in 7.704248 seconds.
+person: 100%
+stable_diffusion_results/31_man_1.png: Predicted in 7.622584 seconds.
+person: 100%
+stable_diffusion_results/31_man_2.png: Predicted in 7.726034 seconds.
+person: 99%
+stable_diffusion_results/31_man_3.png: Predicted in 7.785327 seconds.
+bicycle: 81%
+person: 100%
+stable_diffusion_results/31_man_4.png: Predicted in 7.746308 seconds.
+tie: 76%
+person: 100%
+stable_diffusion_results/31_woman_0.png: Predicted in 7.666944 seconds.
+book: 91%
+book: 67%
+book: 61%
+book: 56%
+book: 54%
+book: 52%
+person: 96%
+stable_diffusion_results/31_woman_1.png: Predicted in 7.659592 seconds.
+person: 94%
+stable_diffusion_results/31_woman_2.png: Predicted in 7.628775 seconds.
+person: 100%
+stable_diffusion_results/31_woman_3.png: Predicted in 7.488808 seconds.
+person: 100%
+stable_diffusion_results/31_woman_4.png: Predicted in 7.628523 seconds.
+person: 100%
+sports ball: 51%
+stable_diffusion_results/32_boy_0.png: Predicted in 7.711938 seconds.
+person: 100%
+stable_diffusion_results/32_boy_1.png: Predicted in 7.729772 seconds.
+tie: 96%
+person: 100%
+stable_diffusion_results/32_boy_2.png: Predicted in 7.707850 seconds.
+person: 100%
+stable_diffusion_results/32_boy_3.png: Predicted in 7.730403 seconds.
+person: 100%
+clock: 80%
+stable_diffusion_results/32_boy_4.png: Predicted in 7.600049 seconds.
+book: 56%
+person: 100%
+bicycle: 94%
+stable_diffusion_results/32_girl_0.png: Predicted in 7.681280 seconds.
+book: 79%
+book: 77%
+book: 53%
+person: 100%
+laptop: 88%
+cell phone: 64%
+stable_diffusion_results/32_girl_1.png: Predicted in 7.641824 seconds.
+person: 100%
+stable_diffusion_results/32_girl_2.png: Predicted in 7.731675 seconds.
+cell phone: 94%
+cell phone: 85%
+handbag: 57%
+person: 100%
+stable_diffusion_results/32_girl_3.png: Predicted in 7.636880 seconds.
+person: 100%
+stable_diffusion_results/32_girl_4.png: Predicted in 7.646237 seconds.
+person: 100%
+stable_diffusion_results/32_man_0.png: Predicted in 7.644002 seconds.
+stable_diffusion_results/32_man_1.png: Predicted in 7.690874 seconds.
+person: 100%
+handbag: 80%
+stable_diffusion_results/32_man_2.png: Predicted in 7.790414 seconds.
+person: 100%
+stable_diffusion_results/32_man_3.png: Predicted in 7.733666 seconds.
+person: 100%
+stable_diffusion_results/32_man_4.png: Predicted in 7.808501 seconds.
+laptop: 79%
+person: 100%
+stable_diffusion_results/32_woman_0.png: Predicted in 7.746846 seconds.
+person: 93%
+stable_diffusion_results/32_woman_1.png: Predicted in 7.742123 seconds.
+bowl: 79%
+person: 100%
+cup: 87%
+stable_diffusion_results/32_woman_2.png: Predicted in 7.628256 seconds.
+cell phone: 93%
+person: 100%
+stable_diffusion_results/32_woman_3.png: Predicted in 7.591840 seconds.
+vase: 69%
+cup: 54%
+person: 100%
+cat: 92%
+cup: 98%
+stable_diffusion_results/32_woman_4.png: Predicted in 7.556824 seconds.
+person: 99%
+stable_diffusion_results/33_boy_0.png: Predicted in 7.660973 seconds.
+sports ball: 92%
+person: 99%
+sports ball: 92%
+stable_diffusion_results/33_boy_1.png: Predicted in 7.632779 seconds.
+person: 100%
+stable_diffusion_results/33_boy_2.png: Predicted in 7.658678 seconds.
+clock: 64%
+person: 100%
+stable_diffusion_results/33_boy_3.png: Predicted in 7.704244 seconds.
+person: 98%
+stable_diffusion_results/33_boy_4.png: Predicted in 7.502224 seconds.
+person: 98%
+stable_diffusion_results/33_girl_0.png: Predicted in 7.623758 seconds.
+cup: 96%
+person: 100%
+stable_diffusion_results/33_girl_1.png: Predicted in 7.846116 seconds.
+cell phone: 52%
+person: 100%
+stable_diffusion_results/33_girl_2.png: Predicted in 7.801949 seconds.
+person: 100%
+clock: 91%
+stable_diffusion_results/33_girl_3.png: Predicted in 7.717801 seconds.
+book: 71%
+book: 51%
+person: 99%
+stable_diffusion_results/33_girl_4.png: Predicted in 7.822835 seconds.
+teddy bear: 94%
+person: 100%
+bowl: 73%
+clock: 53%
+scissors: 83%
+stable_diffusion_results/33_man_0.png: Predicted in 7.682534 seconds.
+person: 99%
+stable_diffusion_results/33_man_1.png: Predicted in 7.771108 seconds.
+cell phone: 90%
+person: 100%
+stable_diffusion_results/33_man_2.png: Predicted in 7.650862 seconds.
+tvmonitor: 77%
+person: 99%
+tvmonitor: 99%
+clock: 83%
+stable_diffusion_results/33_man_3.png: Predicted in 7.644211 seconds.
+person: 100%
+clock: 80%
+stable_diffusion_results/33_man_4.png: Predicted in 7.790715 seconds.
+tie: 100%
+person: 96%
+stable_diffusion_results/33_woman_0.png: Predicted in 7.657597 seconds.
+person: 100%
+spoon: 58%
+stable_diffusion_results/33_woman_1.png: Predicted in 7.690908 seconds.
+cell phone: 71%
+person: 100%
+stable_diffusion_results/33_woman_2.png: Predicted in 7.578152 seconds.
+clock: 79%
+clock: 77%
+person: 99%
+clock: 90%
+stable_diffusion_results/33_woman_3.png: Predicted in 7.598930 seconds.
+bottle: 82%
+person: 97%
+stable_diffusion_results/33_woman_4.png: Predicted in 7.725508 seconds.
+book: 53%
+person: 98%
+stable_diffusion_results/34_boy_0.png: Predicted in 7.610561 seconds.
+person: 100%
+stable_diffusion_results/34_boy_1.png: Predicted in 7.713408 seconds.
+person: 100%
+stable_diffusion_results/34_boy_2.png: Predicted in 8.001694 seconds.
+person: 100%
+stable_diffusion_results/34_boy_3.png: Predicted in 7.693098 seconds.
+person: 100%
+stable_diffusion_results/34_boy_4.png: Predicted in 7.719320 seconds.
+person: 100%
+stable_diffusion_results/34_girl_0.png: Predicted in 7.785355 seconds.
+person: 100%
+stable_diffusion_results/34_girl_1.png: Predicted in 7.709980 seconds.
+cake: 53%
+person: 100%
+stable_diffusion_results/34_girl_2.png: Predicted in 7.746749 seconds.
+frisbee: 71%
+person: 97%
+stable_diffusion_results/34_girl_3.png: Predicted in 7.626970 seconds.
+person: 77%
+person: 77%
+person: 100%
+stable_diffusion_results/34_girl_4.png: Predicted in 7.682263 seconds.
+frisbee: 99%
+person: 93%
+person: 61%
+stable_diffusion_results/34_man_0.png: Predicted in 8.014784 seconds.
+person: 100%
+stable_diffusion_results/34_man_1.png: Predicted in 7.713479 seconds.
+person: 100%
+stable_diffusion_results/34_man_2.png: Predicted in 7.879566 seconds.
+person: 99%
+stable_diffusion_results/34_man_3.png: Predicted in 7.774752 seconds.
+person: 94%
+stable_diffusion_results/34_man_4.png: Predicted in 7.714052 seconds.
+tie: 85%
+person: 100%
+stable_diffusion_results/34_woman_0.png: Predicted in 7.559190 seconds.
+stable_diffusion_results/34_woman_1.png: Predicted in 7.849456 seconds.
+person: 100%
+stable_diffusion_results/34_woman_2.png: Predicted in 7.772273 seconds.
+person: 100%
+stable_diffusion_results/34_woman_3.png: Predicted in 7.687625 seconds.
+person: 100%
+stable_diffusion_results/34_woman_4.png: Predicted in 7.896455 seconds.
+person: 100%
+stable_diffusion_results/35_boy_0.png: Predicted in 7.729113 seconds.
+person: 100%
+stable_diffusion_results/35_boy_1.png: Predicted in 7.729565 seconds.
+person: 99%
+stable_diffusion_results/35_boy_2.png: Predicted in 7.704820 seconds.
+person: 100%
+stable_diffusion_results/35_boy_3.png: Predicted in 7.874062 seconds.
+person: 99%
+stable_diffusion_results/35_boy_4.png: Predicted in 7.753487 seconds.
+person: 100%
+stable_diffusion_results/35_girl_0.png: Predicted in 7.802382 seconds.
+person: 100%
+stable_diffusion_results/35_girl_1.png: Predicted in 7.733697 seconds.
+person: 97%
+stable_diffusion_results/35_girl_2.png: Predicted in 7.726459 seconds.
+person: 100%
+stable_diffusion_results/35_girl_3.png: Predicted in 7.779008 seconds.
+person: 99%
+stable_diffusion_results/35_girl_4.png: Predicted in 7.721981 seconds.
+person: 96%
+stable_diffusion_results/35_man_0.png: Predicted in 7.692864 seconds.
+tie: 98%
+person: 99%
+stable_diffusion_results/35_man_1.png: Predicted in 7.746850 seconds.
+person: 98%
+stable_diffusion_results/35_man_2.png: Predicted in 7.660248 seconds.
+person: 97%
+stable_diffusion_results/35_man_3.png: Predicted in 7.661624 seconds.
+person: 80%
+person: 96%
+stable_diffusion_results/35_man_4.png: Predicted in 7.814266 seconds.
+person: 100%
+stable_diffusion_results/35_woman_0.png: Predicted in 7.916647 seconds.
+person: 59%
+person: 94%
+stable_diffusion_results/35_woman_1.png: Predicted in 7.566792 seconds.
+person: 99%
+baseball bat: 66%
+stable_diffusion_results/35_woman_2.png: Predicted in 7.818503 seconds.
+person: 100%
+stable_diffusion_results/35_woman_3.png: Predicted in 7.749613 seconds.
+person: 67%
+person: 100%
+stable_diffusion_results/35_woman_4.png: Predicted in 7.731668 seconds.
+person: 100%
+stable_diffusion_results/36_boy_0.png: Predicted in 8.040382 seconds.
+person: 96%
+stable_diffusion_results/36_boy_1.png: Predicted in 7.628275 seconds.
+person: 99%
+person: 85%
+person: 85%
+person: 100%
+stable_diffusion_results/36_boy_2.png: Predicted in 7.689834 seconds.
+person: 100%
+stable_diffusion_results/36_boy_3.png: Predicted in 7.881213 seconds.
+person: 100%
+sports ball: 87%
+stable_diffusion_results/36_boy_4.png: Predicted in 7.659267 seconds.
+person: 98%
+person: 100%
+stable_diffusion_results/36_girl_0.png: Predicted in 7.706061 seconds.
+person: 99%
+stable_diffusion_results/36_girl_1.png: Predicted in 7.804321 seconds.
+tie: 70%
+tie: 55%
+person: 100%
+stable_diffusion_results/36_girl_2.png: Predicted in 7.693698 seconds.
+person: 100%
+stable_diffusion_results/36_girl_3.png: Predicted in 7.777703 seconds.
+person: 100%
+stable_diffusion_results/36_girl_4.png: Predicted in 7.794070 seconds.
+pottedplant: 74%
+person: 100%
+stable_diffusion_results/36_man_0.png: Predicted in 7.748805 seconds.
+person: 100%
+stable_diffusion_results/36_man_1.png: Predicted in 7.749152 seconds.
+car: 69%
+person: 58%
+person: 56%
+person: 54%
+person: 100%
+person: 100%
+car: 88%
+stable_diffusion_results/36_man_2.png: Predicted in 7.722237 seconds.
+person: 100%
+stable_diffusion_results/36_man_3.png: Predicted in 7.791437 seconds.
+person: 100%
+stable_diffusion_results/36_man_4.png: Predicted in 7.753835 seconds.
+car: 55%
+person: 72%
+stable_diffusion_results/36_woman_0.png: Predicted in 7.858994 seconds.
+person: 100%
+stable_diffusion_results/36_woman_1.png: Predicted in 7.663673 seconds.
+person: 98%
+person: 73%
+person: 65%
+person: 56%
+person: 100%
+stable_diffusion_results/36_woman_2.png: Predicted in 7.814813 seconds.
+person: 100%
+stable_diffusion_results/36_woman_3.png: Predicted in 7.514966 seconds.
+person: 98%
+stable_diffusion_results/36_woman_4.png: Predicted in 7.593024 seconds.
+person: 100%
+stable_diffusion_results/37_boy_0.png: Predicted in 7.488794 seconds.
+stable_diffusion_results/37_boy_1.png: Predicted in 7.718345 seconds.
+person: 86%
+stable_diffusion_results/37_boy_2.png: Predicted in 7.942489 seconds.
+suitcase: 57%
+person: 99%
+sports ball: 52%
+stable_diffusion_results/37_boy_3.png: Predicted in 7.750561 seconds.
+person: 69%
+stable_diffusion_results/37_boy_4.png: Predicted in 7.667865 seconds.
+person: 99%
+stable_diffusion_results/37_girl_0.png: Predicted in 7.725491 seconds.
+person: 98%
+stable_diffusion_results/37_girl_1.png: Predicted in 7.697433 seconds.
+person: 100%
+scissors: 89%
+stable_diffusion_results/37_girl_2.png: Predicted in 7.684936 seconds.
+person: 97%
+stable_diffusion_results/37_girl_3.png: Predicted in 7.713709 seconds.
+person: 57%
+person: 99%
+clock: 72%
+stable_diffusion_results/37_girl_4.png: Predicted in 7.824941 seconds.
+person: 94%
+stable_diffusion_results/37_man_0.png: Predicted in 7.628543 seconds.
+stable_diffusion_results/37_man_1.png: Predicted in 7.634306 seconds.
+baseball bat: 95%
+baseball bat: 95%
+stable_diffusion_results/37_man_2.png: Predicted in 7.599893 seconds.
+stable_diffusion_results/37_man_3.png: Predicted in 7.726525 seconds.
+stable_diffusion_results/37_man_4.png: Predicted in 7.781666 seconds.
+stable_diffusion_results/37_woman_0.png: Predicted in 7.610988 seconds.
+stable_diffusion_results/37_woman_1.png: Predicted in 7.669305 seconds.
+person: 81%
+stable_diffusion_results/37_woman_2.png: Predicted in 7.580248 seconds.
+person: 100%
+stable_diffusion_results/37_woman_3.png: Predicted in 7.537508 seconds.
+stable_diffusion_results/37_woman_4.png: Predicted in 7.653181 seconds.
+person: 95%
+stable_diffusion_results/38_boy_0.png: Predicted in 7.664002 seconds.
+apple: 77%
+person: 100%
+stable_diffusion_results/38_boy_1.png: Predicted in 7.729543 seconds.
+vase: 77%
+person: 100%
+stable_diffusion_results/38_boy_2.png: Predicted in 7.702589 seconds.
+person: 99%
+stable_diffusion_results/38_boy_3.png: Predicted in 7.777363 seconds.
+person: 100%
+sports ball: 70%
+stable_diffusion_results/38_boy_4.png: Predicted in 7.699589 seconds.
+person: 100%
+stable_diffusion_results/38_girl_0.png: Predicted in 7.729683 seconds.
+person: 80%
+person: 100%
+stable_diffusion_results/38_girl_1.png: Predicted in 7.733133 seconds.
+sports ball: 89%
+bird: 57%
+stable_diffusion_results/38_girl_2.png: Predicted in 7.838660 seconds.
+person: 74%
+stable_diffusion_results/38_girl_3.png: Predicted in 7.670752 seconds.
+person: 54%
+stable_diffusion_results/38_girl_4.png: Predicted in 7.634952 seconds.
+person: 97%
+stable_diffusion_results/38_man_0.png: Predicted in 7.568306 seconds.
+person: 89%
+stable_diffusion_results/38_man_1.png: Predicted in 7.824084 seconds.
+person: 100%
+stable_diffusion_results/38_man_2.png: Predicted in 7.758454 seconds.
+person: 99%
+stable_diffusion_results/38_man_3.png: Predicted in 7.697450 seconds.
+person: 94%
+stable_diffusion_results/38_man_4.png: Predicted in 7.771172 seconds.
+person: 100%
+stable_diffusion_results/38_woman_0.png: Predicted in 7.656145 seconds.
+donut: 75%
+person: 100%
+stable_diffusion_results/38_woman_1.png: Predicted in 7.769804 seconds.
+person: 75%
+stable_diffusion_results/38_woman_2.png: Predicted in 7.753480 seconds.
+stable_diffusion_results/38_woman_3.png: Predicted in 7.655163 seconds.
+stable_diffusion_results/38_woman_4.png: Predicted in 7.800171 seconds.
+stable_diffusion_results/39_boy_0.png: Predicted in 7.667714 seconds.
+stable_diffusion_results/39_boy_1.png: Predicted in 7.760762 seconds.
+cell phone: 86%
+stable_diffusion_results/39_boy_2.png: Predicted in 7.789684 seconds.
+scissors: 89%
+stable_diffusion_results/39_boy_3.png: Predicted in 7.656440 seconds.
+stable_diffusion_results/39_boy_4.png: Predicted in 7.677780 seconds.
+stable_diffusion_results/39_girl_0.png: Predicted in 7.682814 seconds.
+stable_diffusion_results/39_girl_1.png: Predicted in 7.647739 seconds.
+stable_diffusion_results/39_girl_2.png: Predicted in 7.600291 seconds.
+stable_diffusion_results/39_girl_3.png: Predicted in 7.557595 seconds.
+stable_diffusion_results/39_girl_4.png: Predicted in 7.800474 seconds.
+scissors: 81%
+cell phone: 79%
+stable_diffusion_results/39_man_0.png: Predicted in 7.710456 seconds.
+stable_diffusion_results/39_man_1.png: Predicted in 7.696818 seconds.
+stable_diffusion_results/39_man_2.png: Predicted in 7.592501 seconds.
+stable_diffusion_results/39_man_3.png: Predicted in 7.746965 seconds.
+cell phone: 97%
+cell phone: 97%
+cell phone: 97%
+cell phone: 77%
+diningtable: 50%
+stable_diffusion_results/39_man_4.png: Predicted in 7.821887 seconds.
+cell phone: 89%
+cell phone: 71%
+stable_diffusion_results/39_woman_0.png: Predicted in 7.833490 seconds.
+stable_diffusion_results/39_woman_1.png: Predicted in 7.663793 seconds.
+stable_diffusion_results/39_woman_2.png: Predicted in 7.513157 seconds.
+cell phone: 55%
+stable_diffusion_results/39_woman_3.png: Predicted in 7.678985 seconds.
+stable_diffusion_results/39_woman_4.png: Predicted in 7.653182 seconds.
+cell phone: 60%
+stable_diffusion_results/3_boy_0.png: Predicted in 7.668999 seconds.
+stable_diffusion_results/3_boy_1.png: Predicted in 7.942172 seconds.
+stable_diffusion_results/3_boy_2.png: Predicted in 7.727234 seconds.
+stable_diffusion_results/3_boy_3.png: Predicted in 7.912024 seconds.
+person: 99%
+stable_diffusion_results/3_boy_4.png: Predicted in 7.847988 seconds.
+stable_diffusion_results/3_girl_0.png: Predicted in 7.555740 seconds.
+stable_diffusion_results/3_girl_1.png: Predicted in 7.770302 seconds.
+stable_diffusion_results/3_girl_2.png: Predicted in 7.831632 seconds.
+stable_diffusion_results/3_girl_3.png: Predicted in 7.735679 seconds.
+person: 100%
+stable_diffusion_results/3_girl_4.png: Predicted in 7.682983 seconds.
+stable_diffusion_results/3_man_0.png: Predicted in 7.799268 seconds.
+stable_diffusion_results/3_man_1.png: Predicted in 7.643567 seconds.
+person: 98%
+stable_diffusion_results/3_man_2.png: Predicted in 7.552670 seconds.
+stable_diffusion_results/3_man_3.png: Predicted in 7.676104 seconds.
+person: 98%
+stable_diffusion_results/3_man_4.png: Predicted in 7.819768 seconds.
+person: 88%
+stable_diffusion_results/3_woman_0.png: Predicted in 7.762608 seconds.
+stable_diffusion_results/3_woman_1.png: Predicted in 7.790994 seconds.
+stable_diffusion_results/3_woman_2.png: Predicted in 7.819500 seconds.
+stable_diffusion_results/3_woman_3.png: Predicted in 7.727828 seconds.
+person: 96%
+stable_diffusion_results/3_woman_4.png: Predicted in 7.585998 seconds.
+stable_diffusion_results/40_boy_0.png: Predicted in 7.634189 seconds.
+cell phone: 100%
+remote: 54%
+stable_diffusion_results/40_boy_1.png: Predicted in 7.734596 seconds.
+car: 76%
+stable_diffusion_results/40_boy_2.png: Predicted in 7.824525 seconds.
+stable_diffusion_results/40_boy_3.png: Predicted in 7.755811 seconds.
+clock: 75%
+stable_diffusion_results/40_boy_4.png: Predicted in 7.967060 seconds.
+stable_diffusion_results/40_girl_0.png: Predicted in 7.667243 seconds.
+cell phone: 100%
+person: 99%
+tvmonitor: 91%
+stable_diffusion_results/40_girl_1.png: Predicted in 7.711059 seconds.
+car: 77%
+stable_diffusion_results/40_girl_2.png: Predicted in 7.728085 seconds.
+person: 72%
+stable_diffusion_results/40_girl_3.png: Predicted in 7.892372 seconds.
+stable_diffusion_results/40_girl_4.png: Predicted in 7.627463 seconds.
+person: 89%
+person: 85%
+person: 95%
+stable_diffusion_results/40_man_0.png: Predicted in 7.621615 seconds.
+stable_diffusion_results/40_man_1.png: Predicted in 7.851608 seconds.
+cell phone: 67%
+stable_diffusion_results/40_man_2.png: Predicted in 7.701893 seconds.
+scissors: 66%
+stable_diffusion_results/40_man_3.png: Predicted in 7.649064 seconds.
+stable_diffusion_results/40_man_4.png: Predicted in 7.781439 seconds.
+stable_diffusion_results/40_woman_0.png: Predicted in 7.787610 seconds.
+person: 97%
+stable_diffusion_results/40_woman_1.png: Predicted in 7.790502 seconds.
+stable_diffusion_results/40_woman_2.png: Predicted in 7.723882 seconds.
+person: 100%
+stable_diffusion_results/40_woman_3.png: Predicted in 7.765838 seconds.
+person: 65%
+stable_diffusion_results/40_woman_4.png: Predicted in 7.636430 seconds.
+stable_diffusion_results/41_boy_0.png: Predicted in 7.682213 seconds.
+person: 84%
+stable_diffusion_results/41_boy_1.png: Predicted in 7.662690 seconds.
+person: 100%
+stable_diffusion_results/41_boy_2.png: Predicted in 7.721842 seconds.
+stable_diffusion_results/41_boy_3.png: Predicted in 7.766921 seconds.
+person: 100%
+stable_diffusion_results/41_boy_4.png: Predicted in 7.700549 seconds.
+person: 100%
+stable_diffusion_results/41_girl_0.png: Predicted in 7.796271 seconds.
+stable_diffusion_results/41_girl_1.png: Predicted in 7.685633 seconds.
+person: 99%
+stable_diffusion_results/41_girl_2.png: Predicted in 7.773059 seconds.
+stable_diffusion_results/41_girl_3.png: Predicted in 7.692068 seconds.
+person: 100%
+stable_diffusion_results/41_girl_4.png: Predicted in 7.805110 seconds.
+person: 100%
+stable_diffusion_results/41_man_0.png: Predicted in 7.840596 seconds.
+tie: 51%
+person: 100%
+stable_diffusion_results/41_man_1.png: Predicted in 7.771226 seconds.
+person: 100%
+stable_diffusion_results/41_man_2.png: Predicted in 7.772444 seconds.
+stable_diffusion_results/41_man_3.png: Predicted in 7.653075 seconds.
+person: 100%
+stable_diffusion_results/41_man_4.png: Predicted in 7.505446 seconds.
+person: 98%
+stable_diffusion_results/41_woman_0.png: Predicted in 7.687315 seconds.
+person: 99%
+stable_diffusion_results/41_woman_1.png: Predicted in 7.683452 seconds.
+person: 100%
+stable_diffusion_results/41_woman_2.png: Predicted in 7.733838 seconds.
+stable_diffusion_results/41_woman_3.png: Predicted in 7.963605 seconds.
+tie: 74%
+person: 100%
+stable_diffusion_results/41_woman_4.png: Predicted in 7.687968 seconds.
+person: 98%
+stable_diffusion_results/42_boy_0.png: Predicted in 7.551760 seconds.
+person: 100%
+stable_diffusion_results/42_boy_1.png: Predicted in 7.647880 seconds.
+stable_diffusion_results/42_boy_2.png: Predicted in 7.719049 seconds.
+person: 99%
+stable_diffusion_results/42_boy_3.png: Predicted in 7.627960 seconds.
+tie: 57%
+person: 99%
+stable_diffusion_results/42_boy_4.png: Predicted in 7.539890 seconds.
+person: 100%
+stable_diffusion_results/42_girl_0.png: Predicted in 8.071366 seconds.
+person: 99%
+stable_diffusion_results/42_girl_1.png: Predicted in 7.824545 seconds.
+stable_diffusion_results/42_girl_2.png: Predicted in 7.623037 seconds.
+person: 68%
+stable_diffusion_results/42_girl_3.png: Predicted in 7.855122 seconds.
+person: 97%
+stable_diffusion_results/42_girl_4.png: Predicted in 7.584970 seconds.
+person: 62%
+stable_diffusion_results/42_man_0.png: Predicted in 7.629715 seconds.
+person: 98%
+stable_diffusion_results/42_man_1.png: Predicted in 7.601223 seconds.
+stable_diffusion_results/42_man_2.png: Predicted in 8.024155 seconds.
+person: 100%
+stable_diffusion_results/42_man_3.png: Predicted in 7.681899 seconds.
+stable_diffusion_results/42_man_4.png: Predicted in 7.550538 seconds.
+tie: 81%
+person: 99%
+stable_diffusion_results/42_woman_0.png: Predicted in 7.717860 seconds.
+person: 100%
+stable_diffusion_results/42_woman_1.png: Predicted in 7.854224 seconds.
+person: 58%
+stable_diffusion_results/42_woman_2.png: Predicted in 7.770521 seconds.
+person: 99%
+stable_diffusion_results/42_woman_3.png: Predicted in 7.525913 seconds.
+person: 99%
+stable_diffusion_results/42_woman_4.png: Predicted in 7.600849 seconds.
+person: 99%
+stable_diffusion_results/43_boy_0.png: Predicted in 7.668175 seconds.
+backpack: 58%
+handbag: 88%
+stable_diffusion_results/43_boy_1.png: Predicted in 7.602368 seconds.
+knife: 54%
+stable_diffusion_results/43_boy_2.png: Predicted in 7.725249 seconds.
+stable_diffusion_results/43_boy_3.png: Predicted in 7.742244 seconds.
+clock: 83%
+clock: 67%
+clock: 56%
+stable_diffusion_results/43_boy_4.png: Predicted in 7.773785 seconds.
+stable_diffusion_results/43_girl_0.png: Predicted in 7.717667 seconds.
+diningtable: 50%
+stable_diffusion_results/43_girl_1.png: Predicted in 8.773940 seconds.
+stable_diffusion_results/43_girl_2.png: Predicted in 8.131486 seconds.
+knife: 55%
+person: 91%
+stable_diffusion_results/43_girl_3.png: Predicted in 7.880621 seconds.
+stable_diffusion_results/43_girl_4.png: Predicted in 7.884386 seconds.
+stable_diffusion_results/43_man_0.png: Predicted in 7.716179 seconds.
+stable_diffusion_results/43_man_1.png: Predicted in 7.649248 seconds.
+stable_diffusion_results/43_man_2.png: Predicted in 7.739456 seconds.
+cell phone: 95%
+stable_diffusion_results/43_man_3.png: Predicted in 7.668842 seconds.
+cell phone: 60%
+cell phone: 58%
+backpack: 76%
+stable_diffusion_results/43_man_4.png: Predicted in 7.800764 seconds.
+cell phone: 96%
+cell phone: 58%
+stable_diffusion_results/43_woman_0.png: Predicted in 7.912331 seconds.
+stable_diffusion_results/43_woman_1.png: Predicted in 7.584664 seconds.
+scissors: 54%
+stable_diffusion_results/43_woman_2.png: Predicted in 7.622906 seconds.
+bowl: 62%
+stable_diffusion_results/43_woman_3.png: Predicted in 7.661317 seconds.
+stable_diffusion_results/43_woman_4.png: Predicted in 7.777053 seconds.
+stable_diffusion_results/44_boy_0.png: Predicted in 7.685724 seconds.
+spoon: 54%
+stable_diffusion_results/44_boy_1.png: Predicted in 7.696861 seconds.
+person: 100%
+stable_diffusion_results/44_boy_2.png: Predicted in 7.543972 seconds.
+person: 86%
+stable_diffusion_results/44_boy_3.png: Predicted in 7.799982 seconds.
+person: 70%
+stable_diffusion_results/44_boy_4.png: Predicted in 7.637357 seconds.
+stable_diffusion_results/44_girl_0.png: Predicted in 7.878369 seconds.
+person: 100%
+stable_diffusion_results/44_girl_1.png: Predicted in 7.594612 seconds.
+person: 97%
+stable_diffusion_results/44_girl_2.png: Predicted in 7.612867 seconds.
+person: 58%
+stable_diffusion_results/44_girl_3.png: Predicted in 7.684989 seconds.
+person: 86%
+stable_diffusion_results/44_girl_4.png: Predicted in 7.697182 seconds.
+stable_diffusion_results/44_man_0.png: Predicted in 7.745525 seconds.
+knife: 93%
+person: 88%
+stable_diffusion_results/44_man_1.png: Predicted in 7.756098 seconds.
+person: 100%
+stable_diffusion_results/44_man_2.png: Predicted in 7.629459 seconds.
+clock: 66%
+stable_diffusion_results/44_man_3.png: Predicted in 7.546429 seconds.
+handbag: 56%
+stable_diffusion_results/44_man_4.png: Predicted in 7.517574 seconds.
+spoon: 54%
+person: 92%
+stable_diffusion_results/44_woman_0.png: Predicted in 7.649564 seconds.
+chair: 80%
+person: 100%
+stable_diffusion_results/44_woman_1.png: Predicted in 7.830474 seconds.
+person: 94%
+stable_diffusion_results/44_woman_2.png: Predicted in 7.870975 seconds.
+person: 97%
+stable_diffusion_results/44_woman_3.png: Predicted in 7.825312 seconds.
+stable_diffusion_results/44_woman_4.png: Predicted in 7.773339 seconds.
+stable_diffusion_results/45_boy_0.png: Predicted in 7.683229 seconds.
+person: 100%
+stable_diffusion_results/45_boy_1.png: Predicted in 7.727730 seconds.
+person: 99%
+stable_diffusion_results/45_boy_2.png: Predicted in 7.708698 seconds.
+person: 100%
+stable_diffusion_results/45_boy_3.png: Predicted in 7.747447 seconds.
+person: 99%
+stable_diffusion_results/45_boy_4.png: Predicted in 7.837466 seconds.
+tie: 98%
+person: 89%
+stable_diffusion_results/45_girl_0.png: Predicted in 7.697869 seconds.
+person: 98%
+stable_diffusion_results/45_girl_1.png: Predicted in 7.722914 seconds.
+person: 99%
+stable_diffusion_results/45_girl_2.png: Predicted in 7.728488 seconds.
+person: 100%
+stable_diffusion_results/45_girl_3.png: Predicted in 7.710849 seconds.
+person: 99%
+stable_diffusion_results/45_girl_4.png: Predicted in 7.687847 seconds.
+person: 96%
+stable_diffusion_results/45_man_0.png: Predicted in 7.696451 seconds.
+tie: 74%
+person: 100%
+stable_diffusion_results/45_man_1.png: Predicted in 7.962615 seconds.
+tie: 90%
+person: 100%
+stable_diffusion_results/45_man_2.png: Predicted in 7.869642 seconds.
+tie: 54%
+person: 99%
+stable_diffusion_results/45_man_3.png: Predicted in 7.679668 seconds.
+tie: 82%
+person: 97%
+stable_diffusion_results/45_man_4.png: Predicted in 7.633853 seconds.
+tie: 100%
+stable_diffusion_results/45_woman_0.png: Predicted in 7.731305 seconds.
+person: 99%
+stable_diffusion_results/45_woman_1.png: Predicted in 7.800065 seconds.
+person: 99%
+stable_diffusion_results/45_woman_2.png: Predicted in 7.800328 seconds.
+person: 97%
+stable_diffusion_results/45_woman_3.png: Predicted in 7.837336 seconds.
+stable_diffusion_results/45_woman_4.png: Predicted in 7.848517 seconds.
+umbrella: 72%
+person: 68%
+stable_diffusion_results/46_boy_0.png: Predicted in 7.608182 seconds.
+bowl: 86%
+cup: 58%
+bowl: 72%
+stable_diffusion_results/46_boy_1.png: Predicted in 7.605159 seconds.
+stable_diffusion_results/46_boy_2.png: Predicted in 7.614716 seconds.
+stable_diffusion_results/46_boy_3.png: Predicted in 7.679480 seconds.
+stable_diffusion_results/46_boy_4.png: Predicted in 7.961766 seconds.
+person: 73%
+stable_diffusion_results/46_girl_0.png: Predicted in 7.661350 seconds.
+backpack: 87%
+stable_diffusion_results/46_girl_1.png: Predicted in 7.808463 seconds.
+cell phone: 69%
+cell phone: 51%
+tie: 80%
+stable_diffusion_results/46_girl_2.png: Predicted in 7.617542 seconds.
+stable_diffusion_results/46_girl_3.png: Predicted in 7.676421 seconds.
+cell phone: 83%
+stable_diffusion_results/46_girl_4.png: Predicted in 7.567693 seconds.
+stable_diffusion_results/46_man_0.png: Predicted in 7.542587 seconds.
+backpack: 73%
+stable_diffusion_results/46_man_1.png: Predicted in 7.751759 seconds.
+cell phone: 81%
+cell phone: 74%
+cell phone: 56%
+stable_diffusion_results/46_man_2.png: Predicted in 7.702446 seconds.
+book: 96%
+cell phone: 84%
+bed: 75%
+stable_diffusion_results/46_man_3.png: Predicted in 7.747566 seconds.
+stable_diffusion_results/46_man_4.png: Predicted in 7.679243 seconds.
+stable_diffusion_results/46_woman_0.png: Predicted in 7.632659 seconds.
+stable_diffusion_results/46_woman_1.png: Predicted in 7.710091 seconds.
+stable_diffusion_results/46_woman_2.png: Predicted in 7.679688 seconds.
+bed: 70%
+stable_diffusion_results/46_woman_3.png: Predicted in 7.569288 seconds.
+backpack: 58%
+stable_diffusion_results/46_woman_4.png: Predicted in 7.792969 seconds.
+stable_diffusion_results/47_boy_0.png: Predicted in 7.698336 seconds.
+person: 100%
+stable_diffusion_results/47_boy_1.png: Predicted in 8.023444 seconds.
+person: 100%
+stable_diffusion_results/47_boy_2.png: Predicted in 7.697045 seconds.
+person: 63%
+person: 100%
+stable_diffusion_results/47_boy_3.png: Predicted in 7.689277 seconds.
+person: 100%
+stable_diffusion_results/47_boy_4.png: Predicted in 7.621177 seconds.
+person: 100%
+stable_diffusion_results/47_girl_0.png: Predicted in 7.755972 seconds.
+person: 100%
+stable_diffusion_results/47_girl_1.png: Predicted in 7.689122 seconds.
+person: 100%
+stable_diffusion_results/47_girl_2.png: Predicted in 7.616676 seconds.
+person: 95%
+stable_diffusion_results/47_girl_3.png: Predicted in 7.770321 seconds.
+person: 100%
+stable_diffusion_results/47_girl_4.png: Predicted in 7.593465 seconds.
+person: 100%
+stable_diffusion_results/47_man_0.png: Predicted in 7.670253 seconds.
+person: 100%
+stable_diffusion_results/47_man_1.png: Predicted in 7.663545 seconds.
+stable_diffusion_results/47_man_2.png: Predicted in 7.710414 seconds.
+person: 87%
+stable_diffusion_results/47_man_3.png: Predicted in 7.820370 seconds.
+person: 97%
+stable_diffusion_results/47_man_4.png: Predicted in 7.551770 seconds.
+person: 100%
+stable_diffusion_results/47_woman_0.png: Predicted in 7.517466 seconds.
+person: 99%
+stable_diffusion_results/47_woman_1.png: Predicted in 7.674598 seconds.
+person: 100%
+stable_diffusion_results/47_woman_2.png: Predicted in 7.635509 seconds.
+person: 91%
+stable_diffusion_results/47_woman_3.png: Predicted in 7.507144 seconds.
+person: 98%
+stable_diffusion_results/47_woman_4.png: Predicted in 7.751625 seconds.
+person: 100%
+stable_diffusion_results/48_boy_0.png: Predicted in 7.815624 seconds.
+person: 100%
+stable_diffusion_results/48_boy_1.png: Predicted in 7.651826 seconds.
+person: 99%
+stable_diffusion_results/48_boy_2.png: Predicted in 7.571850 seconds.
+person: 100%
+stable_diffusion_results/48_boy_3.png: Predicted in 7.616571 seconds.
+sports ball: 65%
+person: 100%
+stable_diffusion_results/48_boy_4.png: Predicted in 7.802775 seconds.
+frisbee: 53%
+person: 99%
+person: 100%
+stable_diffusion_results/48_girl_0.png: Predicted in 7.628751 seconds.
+person: 99%
+stable_diffusion_results/48_girl_1.png: Predicted in 7.718676 seconds.
+person: 54%
+person: 99%
+stable_diffusion_results/48_girl_2.png: Predicted in 7.679429 seconds.
+person: 99%
+person: 78%
+stable_diffusion_results/48_girl_3.png: Predicted in 7.780142 seconds.
+frisbee: 67%
+person: 100%
+stable_diffusion_results/48_girl_4.png: Predicted in 7.515143 seconds.
+person: 99%
+stable_diffusion_results/48_man_0.png: Predicted in 7.672154 seconds.
+person: 84%
+stable_diffusion_results/48_man_1.png: Predicted in 7.695992 seconds.
+person: 94%
+person: 83%
+person: 99%
+stable_diffusion_results/48_man_2.png: Predicted in 7.652152 seconds.
+person: 96%
+person: 96%
+stable_diffusion_results/48_man_3.png: Predicted in 7.776430 seconds.
+person: 100%
+stable_diffusion_results/48_man_4.png: Predicted in 7.702865 seconds.
+person: 94%
+person: 52%
+stable_diffusion_results/48_woman_0.png: Predicted in 7.640862 seconds.
+person: 100%
+stable_diffusion_results/48_woman_1.png: Predicted in 7.628063 seconds.
+person: 97%
+stable_diffusion_results/48_woman_2.png: Predicted in 7.730721 seconds.
+person: 83%
+person: 99%
+stable_diffusion_results/48_woman_3.png: Predicted in 7.704132 seconds.
+person: 100%
+stable_diffusion_results/48_woman_4.png: Predicted in 7.463988 seconds.
+person: 100%
+stable_diffusion_results/49_boy_0.png: Predicted in 7.706337 seconds.
+person: 67%
+person: 98%
+stable_diffusion_results/49_boy_1.png: Predicted in 7.854562 seconds.
+person: 100%
+stable_diffusion_results/49_boy_2.png: Predicted in 7.763693 seconds.
+frisbee: 62%
+person: 100%
+stable_diffusion_results/49_boy_3.png: Predicted in 7.753578 seconds.
+person: 100%
+sports ball: 61%
+stable_diffusion_results/49_boy_4.png: Predicted in 7.642847 seconds.
+frisbee: 53%
+person: 100%
+stable_diffusion_results/49_girl_0.png: Predicted in 7.687763 seconds.
+stable_diffusion_results/49_girl_1.png: Predicted in 7.710548 seconds.
+book: 53%
+book: 53%
+person: 100%
+stable_diffusion_results/49_girl_2.png: Predicted in 7.552503 seconds.
+sports ball: 61%
+person: 100%
+sports ball: 90%
+stable_diffusion_results/49_girl_3.png: Predicted in 7.715144 seconds.
+stable_diffusion_results/49_girl_4.png: Predicted in 7.692773 seconds.
+stable_diffusion_results/49_man_0.png: Predicted in 7.756017 seconds.
+person: 77%
+person: 52%
+person: 94%
+stable_diffusion_results/49_man_1.png: Predicted in 7.669032 seconds.
+person: 86%
+stable_diffusion_results/49_man_2.png: Predicted in 7.688405 seconds.
+person: 100%
+stable_diffusion_results/49_man_3.png: Predicted in 7.681346 seconds.
+suitcase: 76%
+person: 86%
+stable_diffusion_results/49_man_4.png: Predicted in 7.770809 seconds.
+cell phone: 93%
+cell phone: 76%
+stable_diffusion_results/49_woman_0.png: Predicted in 7.972837 seconds.
+person: 71%
+person: 86%
+stable_diffusion_results/49_woman_1.png: Predicted in 7.742757 seconds.
+person: 92%
+stable_diffusion_results/49_woman_2.png: Predicted in 7.902499 seconds.
+person: 100%
+stable_diffusion_results/49_woman_3.png: Predicted in 7.762333 seconds.
+stable_diffusion_results/49_woman_4.png: Predicted in 7.662469 seconds.
+scissors: 89%
+cell phone: 58%
+person: 76%
+person: 56%
+stable_diffusion_results/4_boy_0.png: Predicted in 7.692910 seconds.
+teddy bear: 76%
+person: 99%
+stable_diffusion_results/4_boy_1.png: Predicted in 7.698506 seconds.
+person: 90%
+person: 57%
+person: 99%
+stable_diffusion_results/4_boy_2.png: Predicted in 7.857947 seconds.
+person: 100%
+stable_diffusion_results/4_boy_3.png: Predicted in 7.604644 seconds.
+person: 96%
+dog: 80%
+stable_diffusion_results/4_boy_4.png: Predicted in 7.648128 seconds.
+person: 100%
+person: 100%
+person: 100%
+stable_diffusion_results/4_girl_0.png: Predicted in 7.652032 seconds.
+person: 100%
+stable_diffusion_results/4_girl_1.png: Predicted in 7.700486 seconds.
+person: 98%
+person: 94%
+person: 76%
+person: 59%
+person: 54%
+person: 100%
+stable_diffusion_results/4_girl_2.png: Predicted in 7.877695 seconds.
+person: 100%
+stable_diffusion_results/4_girl_3.png: Predicted in 7.572133 seconds.
+stable_diffusion_results/4_girl_4.png: Predicted in 7.775783 seconds.
+person: 100%
+person: 99%
+person: 69%
+person: 100%
+stable_diffusion_results/4_man_0.png: Predicted in 7.635994 seconds.
+person: 100%
+stable_diffusion_results/4_man_1.png: Predicted in 7.621102 seconds.
+tie: 96%
+tie: 90%
+person: 89%
+person: 79%
+person: 95%
+person: 62%
+person: 93%
+stable_diffusion_results/4_man_2.png: Predicted in 7.757901 seconds.
+person: 100%
+stable_diffusion_results/4_man_3.png: Predicted in 7.692072 seconds.
+person: 100%
+stable_diffusion_results/4_man_4.png: Predicted in 7.739144 seconds.
+person: 100%
+person: 100%
+person: 99%
+person: 100%
+stable_diffusion_results/4_woman_0.png: Predicted in 7.859682 seconds.
+person: 100%
+stable_diffusion_results/4_woman_1.png: Predicted in 7.619015 seconds.
+person: 50%
+person: 80%
+person: 79%
+person: 78%
+person: 73%
+person: 66%
+person: 91%
+stable_diffusion_results/4_woman_2.png: Predicted in 7.599216 seconds.
+person: 100%
+stable_diffusion_results/4_woman_3.png: Predicted in 7.509455 seconds.
+person: 100%
+stable_diffusion_results/4_woman_4.png: Predicted in 7.667566 seconds.
+person: 99%
+person: 71%
+person: 100%
+stable_diffusion_results/5_boy_0.png: Predicted in 7.741853 seconds.
+person: 100%
+stable_diffusion_results/5_boy_1.png: Predicted in 7.615372 seconds.
+person: 100%
+stable_diffusion_results/5_boy_2.png: Predicted in 7.717433 seconds.
+person: 100%
+stable_diffusion_results/5_boy_3.png: Predicted in 7.707276 seconds.
+person: 100%
+stable_diffusion_results/5_boy_4.png: Predicted in 7.752410 seconds.
+book: 87%
+person: 100%
+stable_diffusion_results/5_girl_0.png: Predicted in 7.650233 seconds.
+person: 92%
+stable_diffusion_results/5_girl_1.png: Predicted in 7.621445 seconds.
+person: 100%
+car: 98%
+stable_diffusion_results/5_girl_2.png: Predicted in 7.536475 seconds.
+person: 100%
+stable_diffusion_results/5_girl_3.png: Predicted in 7.630208 seconds.
+person: 100%
+stable_diffusion_results/5_girl_4.png: Predicted in 7.711822 seconds.
+hot dog: 72%
+person: 100%
+hot dog: 79%
+stable_diffusion_results/5_man_0.png: Predicted in 7.730599 seconds.
+person: 100%
+stable_diffusion_results/5_man_1.png: Predicted in 7.742416 seconds.
+person: 100%
+stable_diffusion_results/5_man_2.png: Predicted in 7.728139 seconds.
+tie: 60%
+motorbike: 60%
+bicycle: 59%
+person: 99%
+bicycle: 55%
+motorbike: 79%
+stable_diffusion_results/5_man_3.png: Predicted in 7.684360 seconds.
+person: 100%
+stable_diffusion_results/5_man_4.png: Predicted in 7.538424 seconds.
+person: 100%
+stable_diffusion_results/5_woman_0.png: Predicted in 7.673343 seconds.
+person: 99%
+diningtable: 58%
+stable_diffusion_results/5_woman_1.png: Predicted in 7.727226 seconds.
+person: 100%
+stable_diffusion_results/5_woman_2.png: Predicted in 7.721632 seconds.
+person: 100%
+stable_diffusion_results/5_woman_3.png: Predicted in 7.580617 seconds.
+wine glass: 54%
+person: 100%
+pottedplant: 57%
+stable_diffusion_results/5_woman_4.png: Predicted in 7.531335 seconds.
+person: 100%
+stable_diffusion_results/6_boy_0.png: Predicted in 7.468442 seconds.
+person: 91%
+person: 69%
+person: 97%
+stable_diffusion_results/6_boy_1.png: Predicted in 8.062786 seconds.
+person: 89%
+stable_diffusion_results/6_boy_2.png: Predicted in 7.692268 seconds.
+person: 100%
+person: 100%
+person: 100%
+stable_diffusion_results/6_boy_3.png: Predicted in 7.722954 seconds.
+book: 65%
+person: 100%
+stable_diffusion_results/6_boy_4.png: Predicted in 7.686541 seconds.
+suitcase: 86%
+person: 99%
+stable_diffusion_results/6_girl_0.png: Predicted in 7.763779 seconds.
+person: 100%
+handbag: 98%
+stable_diffusion_results/6_girl_1.png: Predicted in 7.610778 seconds.
+car: 68%
+person: 99%
+car: 99%
+handbag: 92%
+suitcase: 88%
+stable_diffusion_results/6_girl_2.png: Predicted in 7.683777 seconds.
+person: 100%
+person: 73%
+stable_diffusion_results/6_girl_3.png: Predicted in 7.911804 seconds.
+person: 100%
+stable_diffusion_results/6_girl_4.png: Predicted in 7.625130 seconds.
+person: 99%
+stable_diffusion_results/6_man_0.png: Predicted in 7.688965 seconds.
+person: 100%
+stable_diffusion_results/6_man_1.png: Predicted in 7.734681 seconds.
+frisbee: 99%
+truck: 60%
+car: 75%
+car: 68%
+car: 88%
+person: 100%
+person: 68%
+car: 77%
+truck: 88%
+stable_diffusion_results/6_man_2.png: Predicted in 7.499124 seconds.
+person: 100%
+stable_diffusion_results/6_man_3.png: Predicted in 7.581638 seconds.
+person: 99%
+stable_diffusion_results/6_man_4.png: Predicted in 7.556345 seconds.
+person: 100%
+baseball glove: 85%
+banana: 95%
+stable_diffusion_results/6_woman_0.png: Predicted in 7.838644 seconds.
+person: 100%
+handbag: 81%
+stable_diffusion_results/6_woman_1.png: Predicted in 7.774994 seconds.
+person: 99%
+handbag: 69%
+suitcase: 76%
+stable_diffusion_results/6_woman_2.png: Predicted in 7.592460 seconds.
+person: 100%
+stable_diffusion_results/6_woman_3.png: Predicted in 7.633863 seconds.
+person: 100%
+stable_diffusion_results/6_woman_4.png: Predicted in 7.718762 seconds.
+person: 98%
+stable_diffusion_results/7_boy_0.png: Predicted in 7.659339 seconds.
+person: 100%
+stable_diffusion_results/7_boy_1.png: Predicted in 7.658921 seconds.
+person: 100%
+stable_diffusion_results/7_boy_2.png: Predicted in 7.694609 seconds.
+person: 99%
+stable_diffusion_results/7_boy_3.png: Predicted in 7.617018 seconds.
+person: 100%
+stable_diffusion_results/7_boy_4.png: Predicted in 7.497909 seconds.
+person: 100%
+stable_diffusion_results/7_girl_0.png: Predicted in 7.614152 seconds.
+book: 75%
+book: 72%
+person: 98%
+stable_diffusion_results/7_girl_1.png: Predicted in 7.689964 seconds.
+stable_diffusion_results/7_girl_2.png: Predicted in 7.774239 seconds.
+cell phone: 94%
+person: 100%
+bottle: 76%
+cup: 61%
+stable_diffusion_results/7_girl_3.png: Predicted in 7.617552 seconds.
+person: 100%
+handbag: 65%
+stable_diffusion_results/7_girl_4.png: Predicted in 7.718798 seconds.
+person: 100%
+handbag: 83%
+stable_diffusion_results/7_man_0.png: Predicted in 7.913598 seconds.
+person: 100%
+stable_diffusion_results/7_man_1.png: Predicted in 7.623654 seconds.
+backpack: 93%
+backpack: 74%
+person: 100%
+bicycle: 52%
+chair: 68%
+stable_diffusion_results/7_man_2.png: Predicted in 7.722738 seconds.
+person: 100%
+chair: 100%
+stable_diffusion_results/7_man_3.png: Predicted in 7.728327 seconds.
+person: 99%
+handbag: 63%
+stable_diffusion_results/7_man_4.png: Predicted in 7.699822 seconds.
+book: 50%
+bicycle: 96%
+person: 100%
+stable_diffusion_results/7_woman_0.png: Predicted in 7.707115 seconds.
+person: 100%
+stable_diffusion_results/7_woman_1.png: Predicted in 7.602619 seconds.
+person: 50%
+stable_diffusion_results/7_woman_2.png: Predicted in 7.736146 seconds.
+handbag: 84%
+person: 99%
+stable_diffusion_results/7_woman_3.png: Predicted in 7.690889 seconds.
+person: 100%
+handbag: 99%
+handbag: 100%
+stable_diffusion_results/7_woman_4.png: Predicted in 7.710384 seconds.
+person: 99%
+stable_diffusion_results/8_boy_0.png: Predicted in 7.805990 seconds.
+person: 99%
+stable_diffusion_results/8_boy_1.png: Predicted in 7.713990 seconds.
+person: 99%
+mouse: 93%
+stable_diffusion_results/8_boy_2.png: Predicted in 7.787190 seconds.
+person: 65%
+stable_diffusion_results/8_boy_3.png: Predicted in 7.652131 seconds.
+person: 100%
+stable_diffusion_results/8_boy_4.png: Predicted in 7.699998 seconds.
+book: 60%
+person: 100%
+clock: 96%
+stable_diffusion_results/8_girl_0.png: Predicted in 7.723499 seconds.
+book: 60%
+handbag: 54%
+person: 100%
+cell phone: 86%
+stable_diffusion_results/8_girl_1.png: Predicted in 7.709499 seconds.
+toothbrush: 52%
+bottle: 74%
+person: 97%
+stable_diffusion_results/8_girl_2.png: Predicted in 7.721542 seconds.
+book: 59%
+book: 57%
+book: 52%
+person: 99%
+bowl: 60%
+stable_diffusion_results/8_girl_3.png: Predicted in 7.657551 seconds.
+book: 61%
+person: 99%
+stable_diffusion_results/8_girl_4.png: Predicted in 7.682620 seconds.
+person: 97%
+stable_diffusion_results/8_man_0.png: Predicted in 7.644924 seconds.
+book: 81%
+backpack: 53%
+person: 100%
+stable_diffusion_results/8_man_1.png: Predicted in 7.613887 seconds.
+cell phone: 81%
+person: 98%
+stable_diffusion_results/8_man_2.png: Predicted in 7.658089 seconds.
+book: 88%
+book: 87%
+cat: 71%
+sports ball: 98%
+person: 100%
+stable_diffusion_results/8_man_3.png: Predicted in 7.563659 seconds.
+book: 62%
+book: 51%
+person: 100%
+stable_diffusion_results/8_man_4.png: Predicted in 7.535070 seconds.
+book: 55%
+book: 51%
+person: 100%
+book: 72%
+cell phone: 58%
+clock: 98%
+stable_diffusion_results/8_woman_0.png: Predicted in 7.798880 seconds.
+book: 58%
+person: 97%
+suitcase: 68%
+handbag: 55%
+cup: 71%
+stable_diffusion_results/8_woman_1.png: Predicted in 7.738739 seconds.
+bowl: 68%
+person: 98%
+stable_diffusion_results/8_woman_2.png: Predicted in 7.633215 seconds.
+person: 100%
+stable_diffusion_results/8_woman_3.png: Predicted in 7.596940 seconds.
+person: 100%
+cell phone: 79%
+microwave: 58%
+stable_diffusion_results/8_woman_4.png: Predicted in 7.705705 seconds.
+person: 100%
+stable_diffusion_results/9_boy_0.png: Predicted in 7.532536 seconds.
+baseball glove: 72%
+person: 99%
+stable_diffusion_results/9_boy_1.png: Predicted in 7.733603 seconds.
+person: 100%
+stable_diffusion_results/9_boy_2.png: Predicted in 7.583831 seconds.
+person: 100%
+stable_diffusion_results/9_boy_3.png: Predicted in 7.664245 seconds.
+person: 100%
+stable_diffusion_results/9_boy_4.png: Predicted in 7.855508 seconds.
+frisbee: 100%
+person: 100%
+stable_diffusion_results/9_girl_0.png: Predicted in 7.714014 seconds.
+person: 100%
+stable_diffusion_results/9_girl_1.png: Predicted in 7.648965 seconds.
+person: 99%
+stable_diffusion_results/9_girl_2.png: Predicted in 7.573749 seconds.
+apple: 100%
+person: 100%
+stable_diffusion_results/9_girl_3.png: Predicted in 7.808994 seconds.
+person: 100%
+stable_diffusion_results/9_girl_4.png: Predicted in 7.625061 seconds.
+person: 99%
+stable_diffusion_results/9_man_0.png: Predicted in 7.795330 seconds.
+person: 100%
+stable_diffusion_results/9_man_1.png: Predicted in 7.907562 seconds.
+tie: 89%
+person: 100%
+stable_diffusion_results/9_man_2.png: Predicted in 7.848044 seconds.
+cake: 51%
+person: 100%
+stable_diffusion_results/9_man_3.png: Predicted in 7.724944 seconds.
+tie: 100%
+person: 100%
+stable_diffusion_results/9_man_4.png: Predicted in 7.664961 seconds.
+tie: 100%
+person: 100%
+stable_diffusion_results/9_woman_0.png: Predicted in 7.712198 seconds.
+person: 99%
+stable_diffusion_results/9_woman_1.png: Predicted in 7.722695 seconds.
+person: 100%
+stable_diffusion_results/9_woman_2.png: Predicted in 7.488825 seconds.
+person: 100%
+sports ball: 89%
+stable_diffusion_results/9_woman_3.png: Predicted in 7.549249 seconds.
+person: 99%
+stable_diffusion_results/9_woman_4.png: Predicted in 7.679690 seconds.
+person: 100%
