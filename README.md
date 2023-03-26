@@ -1,4 +1,4 @@
-# Analysing Gender Bias in Text-to-Image Models using Object Detection
+# Measuring Gender Bias in Text-to-Image Models using Object Detection
 
 This work presents a novel strategy to measure bias in text-to-image models. Using paired prompts that specify a gender and vaguely reference an object (e.g. “a man/woman holding an item”) we can examine whether certain objects are associated with a certain gender. We found that male prompts were more prone to generate objects including ties, backpacks, knives, and trucks. Female prompts were more likely to generate objects including handbags, umbrellas, bottles, and cups. 
 
